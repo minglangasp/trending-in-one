@@ -24,57 +24,64 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Fri Jun 03 2022 00:25:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 03 2022 01:26:35 GMT+0800 (China Standard Time) -->
 1. [中吉乌铁路计划明年开工](https://so.toutiao.com/search?keyword=中吉乌铁路计划明年开工)
 1. [俄电影院将放映连续剧以应对制裁](https://so.toutiao.com/search?keyword=俄电影院将放映连续剧以应对制裁)
 1. [愿未来的你心中有光](https://so.toutiao.com/search?keyword=愿未来的你心中有光)
 1. [热身赛：巴西5-1韩国 内马尔双响](https://so.toutiao.com/search?keyword=热身赛：巴西5-1韩国+内马尔双响)
-1. [河南洛阳副市长侯占国被查](https://so.toutiao.com/search?keyword=河南洛阳副市长侯占国被查)
 1. [车停地下车库两个月打开全霉了](https://so.toutiao.com/search?keyword=车停地下车库两个月打开全霉了)
-1. [网传上海现奥密克戎新变种 官方回应](https://so.toutiao.com/search?keyword=网传上海现奥密克戎新变种+官方回应)
-1. [上海新增7例感染者 4地升中风险](https://so.toutiao.com/search?keyword=上海新增7例感染者+4地升中风险)
 1. [反诈老陈道歉](https://so.toutiao.com/search?keyword=反诈老陈道歉)
 1. [拜登：俄出口石油必须远低于市场价](https://so.toutiao.com/search?keyword=拜登：俄出口石油必须远低于市场价)
-1. [核酸检测常态化 抗原检测还有市场吗](https://so.toutiao.com/search?keyword=核酸检测常态化+抗原检测还有市场吗)
-1. [克宫回应普京解除5名少将职务](https://so.toutiao.com/search?keyword=克宫回应普京解除5名少将职务)
-1. [语文教材课文夹带私货？总主编回应](https://so.toutiao.com/search?keyword=语文教材课文夹带私货？总主编回应)
+1. [上海新增7例感染者 4地升中风险](https://so.toutiao.com/search?keyword=上海新增7例感染者+4地升中风险)
 1. [中科院博士解释中国人为何爱种菜](https://so.toutiao.com/search?keyword=中科院博士解释中国人为何爱种菜)
+1. [英国女王登基70周年庆典开幕](https://so.toutiao.com/search?keyword=英国女王登基70周年庆典开幕)
+1. [核酸检测常态化 抗原检测还有市场吗](https://so.toutiao.com/search?keyword=核酸检测常态化+抗原检测还有市场吗)
+1. [默克尔强调德政府要与普京保持对话](https://so.toutiao.com/search?keyword=默克尔强调德政府要与普京保持对话)
 1. [三亚市委原书记童道驰被判死缓](https://so.toutiao.com/search?keyword=三亚市委原书记童道驰被判死缓)
-1. [地震时监控记录的这一幕让人感动](https://so.toutiao.com/search?keyword=地震时监控记录的这一幕让人感动)
-1. [国民党主席朱立伦启程赴美](https://so.toutiao.com/search?keyword=国民党主席朱立伦启程赴美)
-1. [中国足协被判支付布鲁诺千万赔偿金](https://so.toutiao.com/search?keyword=中国足协被判支付布鲁诺千万赔偿金)
-1. [Facebook二号人物桑德伯格离职](https://so.toutiao.com/search?keyword=Facebook二号人物桑德伯格离职)
+1. [语文教材课文夹带私货？总主编回应](https://so.toutiao.com/search?keyword=语文教材课文夹带私货？总主编回应)
+1. [克宫回应普京解除5名少将职务](https://so.toutiao.com/search?keyword=克宫回应普京解除5名少将职务)
+1. [河南洛阳副市长侯占国被查](https://so.toutiao.com/search?keyword=河南洛阳副市长侯占国被查)
+1. [刘建超任中联部部长](https://so.toutiao.com/search?keyword=刘建超任中联部部长)
+1. [网传上海现奥密克戎新变种 官方回应](https://so.toutiao.com/search?keyword=网传上海现奥密克戎新变种+官方回应)
+1. [女子做近视激光手术后右眼视力0.1](https://so.toutiao.com/search?keyword=女子做近视激光手术后右眼视力0.1)
 1. [乌第一夫人称9岁儿子是军事专家](https://so.toutiao.com/search?keyword=乌第一夫人称9岁儿子是军事专家)
 1. [电影《山村狐妻》上线](https://so.toutiao.com/search?keyword=电影《山村狐妻》上线)
-1. [举报人称论文抄袭事件副院长仍在岗](https://so.toutiao.com/search?keyword=举报人称论文抄袭事件副院长仍在岗)
-1. [出租司机排队候客时为省油下车推行](https://so.toutiao.com/search?keyword=出租司机排队候客时为省油下车推行)
-1. [儿童穿和服过六一？官方：恶意剪辑](https://so.toutiao.com/search?keyword=儿童穿和服过六一？官方：恶意剪辑)
-1. [乌总统称俄已控制乌1/5领土](https://so.toutiao.com/search?keyword=乌总统称俄已控制乌1/5领土)
 1. [杜旭东透露当年演大宅门吓坏马思纯](https://so.toutiao.com/search?keyword=杜旭东透露当年演大宅门吓坏马思纯)
-1. [刘建超任中联部部长](https://so.toutiao.com/search?keyword=刘建超任中联部部长)
-1. [英国女王登基70周年庆典开幕](https://so.toutiao.com/search?keyword=英国女王登基70周年庆典开幕)
-1. [美将向乌提供高机动火箭炮系统](https://so.toutiao.com/search?keyword=美将向乌提供高机动火箭炮系统)
-1. [公务用车停在浴场门口？纪检委介入](https://so.toutiao.com/search?keyword=公务用车停在浴场门口？纪检委介入)
+1. [委内瑞拉总统谈欧盟对俄制裁](https://so.toutiao.com/search?keyword=委内瑞拉总统谈欧盟对俄制裁)
+1. [乌总统称俄已控制乌1/5领土](https://so.toutiao.com/search?keyword=乌总统称俄已控制乌1/5领土)
+1. [武汉新港工委书记张林被查](https://so.toutiao.com/search?keyword=武汉新港工委书记张林被查)
 1. [专家谈土地承包到期后如何延长](https://so.toutiao.com/search?keyword=专家谈土地承包到期后如何延长)
-1. [地震时戒毒人员背起同伴逃生](https://so.toutiao.com/search?keyword=地震时戒毒人员背起同伴逃生)
+1. [国民党主席朱立伦启程赴美](https://so.toutiao.com/search?keyword=国民党主席朱立伦启程赴美)
+1. [出租司机排队候客时为省油下车推行](https://so.toutiao.com/search?keyword=出租司机排队候客时为省油下车推行)
+1. [公务用车停在浴场门口？纪检委介入](https://so.toutiao.com/search?keyword=公务用车停在浴场门口？纪检委介入)
 1. [女子在澳门买高档手表藏匿入境被查](https://so.toutiao.com/search?keyword=女子在澳门买高档手表藏匿入境被查)
+1. [印度老板疫情期间靠会中文转型自救](https://so.toutiao.com/search?keyword=印度老板疫情期间靠会中文转型自救)
+1. [儿童穿和服过六一？官方：恶意剪辑](https://so.toutiao.com/search?keyword=儿童穿和服过六一？官方：恶意剪辑)
 1. [东部战区为何密集通报台海附近行动](https://so.toutiao.com/search?keyword=东部战区为何密集通报台海附近行动)
-1. [默克尔强调德政府要与普京保持对话](https://so.toutiao.com/search?keyword=默克尔强调德政府要与普京保持对话)
-1. [英女王在位70年：她如何度过危机](https://so.toutiao.com/search?keyword=英女王在位70年：她如何度过危机)
 1. [王树新任重庆大学校长](https://so.toutiao.com/search?keyword=王树新任重庆大学校长)
-1. [河南核酸采样屋使用不便遭吐槽](https://so.toutiao.com/search?keyword=河南核酸采样屋使用不便遭吐槽)
-1. [女子做近视激光手术后右眼视力0.1](https://so.toutiao.com/search?keyword=女子做近视激光手术后右眼视力0.1)
+1. [地震时监控记录的这一幕让人感动](https://so.toutiao.com/search?keyword=地震时监控记录的这一幕让人感动)
+1. [便民核酸采样屋如何真便民](https://so.toutiao.com/search?keyword=便民核酸采样屋如何真便民)
+1. [上海一男子转移核酸异常员工被处理](https://so.toutiao.com/search?keyword=上海一男子转移核酸异常员工被处理)
+1. [地震时戒毒人员背起同伴逃生](https://so.toutiao.com/search?keyword=地震时戒毒人员背起同伴逃生)
+1. [中国足协被判支付布鲁诺千万赔偿金](https://so.toutiao.com/search?keyword=中国足协被判支付布鲁诺千万赔偿金)
+1. [美将向乌提供高机动火箭炮系统](https://so.toutiao.com/search?keyword=美将向乌提供高机动火箭炮系统)
+1. [发展中的越南经济形势到底如何](https://so.toutiao.com/search?keyword=发展中的越南经济形势到底如何)
+1. [上海就常态化核酸采样点不足致歉](https://so.toutiao.com/search?keyword=上海就常态化核酸采样点不足致歉)
 1. [国家卫健委：不任意增加隔离时间](https://so.toutiao.com/search?keyword=国家卫健委：不任意增加隔离时间)
 1. [官方：对上海返回人员不能一刀切](https://so.toutiao.com/search?keyword=官方：对上海返回人员不能一刀切)
-1. [上海一男子转移核酸异常员工被处理](https://so.toutiao.com/search?keyword=上海一男子转移核酸异常员工被处理)
-1. [委内瑞拉总统谈欧盟对俄制裁](https://so.toutiao.com/search?keyword=委内瑞拉总统谈欧盟对俄制裁)
-1. [印度老板疫情期间靠会中文转型自救](https://so.toutiao.com/search?keyword=印度老板疫情期间靠会中文转型自救)
+1. [中国证监会会计部原主任王宗成被查](https://so.toutiao.com/search?keyword=中国证监会会计部原主任王宗成被查)
+1. [未成年施暴如何惩治 档案封存合理吗](https://so.toutiao.com/search?keyword=未成年施暴如何惩治+档案封存合理吗)
+1. [杭州发布稳经济一揽子政策](https://so.toutiao.com/search?keyword=杭州发布稳经济一揽子政策)
+1. [河南核酸采样屋使用不便遭吐槽](https://so.toutiao.com/search?keyword=河南核酸采样屋使用不便遭吐槽)
+1. [华谊兄弟实控人收浙江证监局警示函](https://so.toutiao.com/search?keyword=华谊兄弟实控人收浙江证监局警示函)
 1. [麒麟杯：日本4-1大胜巴拉圭](https://so.toutiao.com/search?keyword=麒麟杯：日本4-1大胜巴拉圭)
+1. [Facebook二号人物桑德伯格离职](https://so.toutiao.com/search?keyword=Facebook二号人物桑德伯格离职)
+1. [举报人称论文抄袭事件副院长仍在岗](https://so.toutiao.com/search?keyword=举报人称论文抄袭事件副院长仍在岗)
+1. [英女王在位70年：她如何度过危机](https://so.toutiao.com/search?keyword=英女王在位70年：她如何度过危机)
 1. [英国前外相怂恿拜登“为台湾而战”](https://so.toutiao.com/search?keyword=英国前外相怂恿拜登“为台湾而战”)
 1. [普京提议重奖多子女家庭](https://so.toutiao.com/search?keyword=普京提议重奖多子女家庭)
 1. [吕迪格：很自豪地宣布我将加盟皇马](https://so.toutiao.com/search?keyword=吕迪格：很自豪地宣布我将加盟皇马)
 1. [山西公安厅原副厅长雷党辰被除党籍](https://so.toutiao.com/search?keyword=山西公安厅原副厅长雷党辰被除党籍)
-1. [便民核酸采样屋如何真便民](https://so.toutiao.com/search?keyword=便民核酸采样屋如何真便民)
 <!-- END TOUTIAO -->
 
 历史归档 [./archives/toutiao-search](./archives/toutiao-search)
@@ -82,17 +89,19 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Fri Jun 03 2022 00:25:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 03 2022 01:26:35 GMT+0800 (China Standard Time) -->
 1. [四川雅安 5 分钟连发两次地震](https://www.zhihu.com/search?q=四川雅安 5 分钟连发两次地震)
 1. [四川雅安市芦山县发生 6.1 级地震](https://www.zhihu.com/search?q=四川雅安市芦山县发生 6.1 级地震)
-1. [出版社回应教辅书配日军背老太图](https://www.zhihu.com/search?q=出版社回应教辅书配日军背老太图)
 1. [海贼王 1051 话](https://www.zhihu.com/search?q=海贼王 1051 话)
+1. [出版社回应教辅书配日军背老太图](https://www.zhihu.com/search?q=出版社回应教辅书配日军背老太图)
+1. [反诈老陈道歉](https://www.zhihu.com/search?q=反诈老陈道歉)
+1. [中国女排连赢三局 3-1 逆转荷兰队](https://www.zhihu.com/search?q=中国女排连赢三局 3-1 逆转荷兰队)
+1. [河南核酸采样屋设计遭吐槽](https://www.zhihu.com/search?q=河南核酸采样屋设计遭吐槽)
+1. [美国一医院发生枪击案致 4 人死亡](https://www.zhihu.com/search?q=美国一医院发生枪击案致 4 人死亡)
+1. [二连浩特发现 4 例初筛阳性](https://www.zhihu.com/search?q=二连浩特发现 4 例初筛阳性)
+1. [妈妈给儿子买笔觉得图案辣眼睛](https://www.zhihu.com/search?q=妈妈给儿子买笔觉得图案辣眼睛)
 1. [男子撞兰博基尼下跪求饶转头炫耀](https://www.zhihu.com/search?q=男子撞兰博基尼下跪求饶转头炫耀)
 1. [小米电视再被曝屏幕自动脱落](https://www.zhihu.com/search?q=小米电视再被曝屏幕自动脱落)
-1. [二连浩特发现 4 例初筛阳性](https://www.zhihu.com/search?q=二连浩特发现 4 例初筛阳性)
-1. [河南核酸采样屋设计遭吐槽](https://www.zhihu.com/search?q=河南核酸采样屋设计遭吐槽)
-1. [反诈老陈道歉](https://www.zhihu.com/search?q=反诈老陈道歉)
-1. [妈妈给儿子买笔觉得图案辣眼睛](https://www.zhihu.com/search?q=妈妈给儿子买笔觉得图案辣眼睛)
 <!-- END ZHIHUSEARCH -->
 
 历史归档 [./archives/zhihu-search](./archives/zhihu-search)
@@ -100,7 +109,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Fri Jun 03 2022 00:25:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 03 2022 01:26:35 GMT+0800 (China Standard Time) -->
 1. [马斯克要求特斯拉员工结束远程办公，并每周至少在办公室待 40 个小时，否则将辞退，这种要求是否合理？](https://www.zhihu.com/question/535719937)
 1. [6 月 2 日上海市新增本土病例「3+4」 ，就部分核酸采样点排队时间长向市民致歉，目前疫情情况如何？](https://www.zhihu.com/question/535781257)
 1. [有哪些「本以为是菜鸟互啄，没想到是神仙打架」的例子？](https://www.zhihu.com/question/308741059)
@@ -118,15 +127,39 @@
 1. [为什么有些年轻人口袋里刚攒了点钱，就囔囔着一定买车，买车对于出行真的会这么方便吗？](https://www.zhihu.com/question/535636275)
 1. [吉尔吉斯斯坦总统称「俄方不再反对，商讨 20 多年的中吉乌铁路明年开工」，如何看待此事？](https://www.zhihu.com/question/535749520)
 1. [美国油价再创新高，拜登称考虑以低于市场的价格购买俄罗斯石油，后续将如何发展？](https://www.zhihu.com/question/535768187)
-1. [四川芦山县地震前减灾所提前 9 秒预警雅安，提前 29 秒预警成都，还有提升空间吗？预警来临该怎么做？](https://www.zhihu.com/question/535635844)
 1. [1 岁男童吃烤肠摔倒竹签刺入颅脑，身边还有哪些安全隐患？如何确保幼儿安全？](https://www.zhihu.com/question/535785579)
+1. [四川芦山县地震前减灾所提前 9 秒预警雅安，提前 29 秒预警成都，还有提升空间吗？预警来临该怎么做？](https://www.zhihu.com/question/535635844)
 1. [6 月 2 日 0 时至 15 时北京新增本土感染者 5 例，其中社会筛查 1 例，目前疫情情况如何？](https://www.zhihu.com/question/535772293)
 1. [为什么《情满四合院》被戏称为《禽满四合院》?](https://www.zhihu.com/question/492354433)
 1. [合肥城管回应执法人员开奥迪 A6 执法，称「摊贩看到执法车逃跑会不安全」，如何看待此事？](https://www.zhihu.com/question/535763190)
+1. [31 日晚间，美国财长耶伦承认去年对通胀走势的判断是错的，美国未来通胀会怎么表现？](https://www.zhihu.com/question/535590610)
 1. [2022年还有人抵制EPIC吗？](https://www.zhihu.com/question/535137596)
-1. [土耳其推进太空强国计划，拟将 1 名土耳其公民送往国际空间站，有哪些信息值得关注？](https://www.zhihu.com/question/535283983)
 1. [《西游记》中，唐僧为何屡次偏向猪八戒？](https://www.zhihu.com/question/55075445)
 1. [长期喝白开水与长期喝茶的人相比，谁的身体更健康？](https://www.zhihu.com/question/519005467)
+1. [如何评价这段上海各家游戏公司老板关于行业讨论的录音内容？](https://www.zhihu.com/question/534426669)
+1. [坚持跑步对身体到底好不好？](https://www.zhihu.com/question/461618978)
+1. [如果你穿进了乙女游戏，你会怎么办？](https://www.zhihu.com/question/511876153)
+1. [电影《海边的曼彻斯特》究竟好在哪里？](https://www.zhihu.com/question/374479983)
+1. [有哪些心理学领域学生必看的影视作品？](https://www.zhihu.com/question/534565906)
+1. [电影《辛德勒的名单》为什么要以黑白电影的形式拍摄？片中出现的红衣小女孩的含义是什么？](https://www.zhihu.com/question/26090468)
+1. [如何评价《原神》将在2.7版本更新中降低世界等级3~6的世界中部分敌人难度？这将对玩家有什么影响？](https://www.zhihu.com/question/534793488)
+1. [如何评价《原神》2.7 版本更新的夜兰传说任务「棋生断处」？](https://www.zhihu.com/question/535401547)
+1. [你用什么方法打发在家隔离期间的无聊时光？](https://www.zhihu.com/question/403540670)
+1. [夏天到了，有什么靠谱的祛疤方法？](https://www.zhihu.com/question/535272074)
+1. [美国考虑向乌克兰援助火箭炮，不包括远程弹，此举释放了什么信号？](https://www.zhihu.com/question/535455793)
+1. [现在的年轻人到底有多容易被骗?](https://www.zhihu.com/question/343251192)
+1. [不论在什么地方都可以读书吗？](https://www.zhihu.com/question/535653836)
+1. [土耳其推进太空强国计划，拟将 1 名土耳其公民送往国际空间站，有哪些信息值得关注？](https://www.zhihu.com/question/535283983)
+1. [《饮食男女》中为什么说「食色性也」？](https://www.zhihu.com/question/24391465)
+1. [上海一公司负责人因隐匿核酸异常员工至高架匝道下的桥洞处被查，他将承担哪些法律责任？起到了哪些警示意义？](https://www.zhihu.com/question/535741901)
+1. [初三才开始努力来不来的及？](https://www.zhihu.com/question/533949785)
+1. [今年股市行情变化较大，基金定投这种投资方式会普及吗？](https://www.zhihu.com/question/535627673)
+1. [有没有很冷门但很神仙的网站？](https://www.zhihu.com/question/376157575)
+1. [如何评价《海贼王》漫画 1051 话？](https://www.zhihu.com/question/534766555)
+1. [如何评价《星球大战：欧比旺·克诺比》第三集？](https://www.zhihu.com/question/535618155)
+1. [端午节到底应该说什么祝福语，端午节快乐还是端午节安康？](https://www.zhihu.com/question/328288293)
+1. [因匈牙利反对，欧盟第六轮对俄制裁方案未能如期通过，这会带来哪些影响？](https://www.zhihu.com/question/535715294)
+1. [第一次用 iPhone 需要注意什么?](https://www.zhihu.com/question/461781319)
 1. [《梦华录》第 1－8 集拍的怎么样？哪些剧情点值得关注？](https://www.zhihu.com/question/535794427)
 1. [中考比较重要还是高考比较重要？](https://www.zhihu.com/question/531571185)
 1. [如何看待「上海心愿」清单刷屏，其中想买健身设备、零食酒水的呼声最高？上海恢复正常后你最做的事情是什么？](https://www.zhihu.com/question/535748544)
@@ -139,18 +172,14 @@
 1. [《天龙八部》里的段正淳被诸多女人喜欢是什么原因？](https://www.zhihu.com/question/21912631)
 1. [如何评价《原神》2.7 版本更新的魔神任务间章·第二幕「危途疑踪」？](https://www.zhihu.com/question/535401454)
 1. [动画《龙珠》里最让你心酸的场面是什么？](https://www.zhihu.com/question/462388800)
-1. [如何评价这段上海各家游戏公司老板关于行业讨论的录音内容？](https://www.zhihu.com/question/534426669)
-1. [因匈牙利反对，欧盟第六轮对俄制裁方案未能如期通过，这会带来哪些影响？](https://www.zhihu.com/question/535715294)
 1. [大专一定就是没前途吗？](https://www.zhihu.com/question/534354244)
 1. [哪些诗词可以用来祝福高考生？](https://www.zhihu.com/question/432745394)
 1. [西安有哪些博物馆值得去参观?](https://www.zhihu.com/question/505200327)
 1. [《永劫无间》职业比赛和天梯排位的阵容差别为什么这么大？](https://www.zhihu.com/question/535722246)
-1. [现在的年轻人到底有多容易被骗?](https://www.zhihu.com/question/343251192)
 1. [什么运动最减脂？](https://www.zhihu.com/question/324012004)
 1. [「端午假期不躺平」，如何拥有一个有意义的假期？](https://www.zhihu.com/question/535215859)
 1. [孩子到了发育关键期，有哪些长高高身体棒棒的小秘诀？](https://www.zhihu.com/question/535723981)
 1. [衣服是量多不重样好，还是量少但百搭好？](https://www.zhihu.com/question/527138408)
-1. [电影《辛德勒的名单》为什么要以黑白电影的形式拍摄？片中出现的红衣小女孩的含义是什么？](https://www.zhihu.com/question/26090468)
 <!-- END ZHIHUQUESTIONS -->
 
 历史归档 [./archives/zhihu-questions](./archives/zhihu-questions)
@@ -158,7 +187,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Fri Jun 03 2022 00:25:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 03 2022 01:26:35 GMT+0800 (China Standard Time) -->
 1. [买一整只乳猪回家烤，烤到手腕酸得动不了……](https://www.zhihu.com/zvideo/1360916447506702336)
 1. [外交部回应 BBC 记者非正常离任：他跑什么呢](https://www.zhihu.com/zvideo/1360702099882409984)
 1. [老饭骨糖醋鱼 + 万能糖醋汁分享，毫无保留，就是实在](https://www.zhihu.com/zvideo/1360648280272162818)
@@ -181,7 +210,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Fri Jun 03 2022 00:25:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 03 2022 01:26:35 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
