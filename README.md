@@ -24,57 +24,61 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Sun Jun 12 2022 03:11:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 12 2022 04:15:30 GMT+0800 (China Standard Time) -->
 1. [唐山烧烤店打人案由廊坊警方侦办](https://so.toutiao.com/search?keyword=唐山烧烤店打人案由廊坊警方侦办)
 1. [唐山打人嫌犯有无保护伞？官方回应](https://so.toutiao.com/search?keyword=唐山打人嫌犯有无保护伞？官方回应)
 1. [高校就业 重中之重](https://so.toutiao.com/search?keyword=高校就业+重中之重)
 1. [唐山打人事件9名嫌犯全落网](https://so.toutiao.com/search?keyword=唐山打人事件9名嫌犯全落网)
 1. [唐山打人案主犯疑有前科 涉非法拘禁](https://so.toutiao.com/search?keyword=唐山打人案主犯疑有前科+涉非法拘禁)
-1. [唐山打人案“挑头者”或构成恶势力](https://so.toutiao.com/search?keyword=唐山打人案“挑头者”或构成恶势力)
+1. [唐山打人事件目击者发声](https://so.toutiao.com/search?keyword=唐山打人事件目击者发声)
 1. [唐山最后1人落网：跑丢鞋躲草丛被抓](https://so.toutiao.com/search?keyword=唐山最后1人落网：跑丢鞋躲草丛被抓)
 1. [俞敏洪回应直播间爆火出圈](https://so.toutiao.com/search?keyword=俞敏洪回应直播间爆火出圈)
 1. [报警者：店老板曾和打人者同桌吃饭](https://so.toutiao.com/search?keyword=报警者：店老板曾和打人者同桌吃饭)
-1. [唐山打人事件目击者发声](https://so.toutiao.com/search?keyword=唐山打人事件目击者发声)
+1. [唐山打人案“挑头者”或构成恶势力](https://so.toutiao.com/search?keyword=唐山打人案“挑头者”或构成恶势力)
 1. [唐山涉事烧烤店员工回应被骂不拉架](https://so.toutiao.com/search?keyword=唐山涉事烧烤店员工回应被骂不拉架)
-1. [罗翔谈唐山打人事件：气到没吃饭](https://so.toutiao.com/search?keyword=罗翔谈唐山打人事件：气到没吃饭)
-1. [中方表示中国不承认南海仲裁案](https://so.toutiao.com/search?keyword=中方表示中国不承认南海仲裁案)
-1. [唐山涉案人员开尾号7777豪车出逃](https://so.toutiao.com/search?keyword=唐山涉案人员开尾号7777豪车出逃)
 1. [马未都谈让年轻人爱上传统文化](https://so.toutiao.com/search?keyword=马未都谈让年轻人爱上传统文化)
 1. [泽连斯基在香格里拉对话会发表演讲](https://so.toutiao.com/search?keyword=泽连斯基在香格里拉对话会发表演讲)
-1. [央视评论：扫黑除恶绝不能有盲区](https://so.toutiao.com/search?keyword=央视评论：扫黑除恶绝不能有盲区)
-1. [遭网暴男子否认自己是唐山打人者](https://so.toutiao.com/search?keyword=遭网暴男子否认自己是唐山打人者)
+1. [唐山涉案人员开尾号7777豪车出逃](https://so.toutiao.com/search?keyword=唐山涉案人员开尾号7777豪车出逃)
+1. [中方表示中国不承认南海仲裁案](https://so.toutiao.com/search?keyword=中方表示中国不承认南海仲裁案)
+1. [罗翔谈唐山打人事件：气到没吃饭](https://so.toutiao.com/search?keyword=罗翔谈唐山打人事件：气到没吃饭)
 1. [俄方称美用卢布支付宇航员相关费用](https://so.toutiao.com/search?keyword=俄方称美用卢布支付宇航员相关费用)
-1. [上海徐汇书记因华亭隔离点问题被批评](https://so.toutiao.com/search?keyword=上海徐汇书记因华亭隔离点问题被批评)
-1. [《梦华录》保剑锋回应与刘亦菲再合作](https://so.toutiao.com/search?keyword=《梦华录》保剑锋回应与刘亦菲再合作)
 1. [大学生发表唐山打人不当言论被处分](https://so.toutiao.com/search?keyword=大学生发表唐山打人不当言论被处分)
-1. [拒绝刷脸进小区当事人回应磕赢官司](https://so.toutiao.com/search?keyword=拒绝刷脸进小区当事人回应磕赢官司)
+1. [央视评论：扫黑除恶绝不能有盲区](https://so.toutiao.com/search?keyword=央视评论：扫黑除恶绝不能有盲区)
 1. [人民日报评女子被群殴：需要一个公道](https://so.toutiao.com/search?keyword=人民日报评女子被群殴：需要一个公道)
-1. [美洲峰会会场外出现大规模抗议](https://so.toutiao.com/search?keyword=美洲峰会会场外出现大规模抗议)
+1. [《梦华录》保剑锋回应与刘亦菲再合作](https://so.toutiao.com/search?keyword=《梦华录》保剑锋回应与刘亦菲再合作)
 1. [唐山一店被放菊花 老板被误认打人者](https://so.toutiao.com/search?keyword=唐山一店被放菊花+老板被误认打人者)
+1. [上海徐汇书记因华亭隔离点问题被批评](https://so.toutiao.com/search?keyword=上海徐汇书记因华亭隔离点问题被批评)
+1. [拒绝刷脸进小区当事人回应磕赢官司](https://so.toutiao.com/search?keyword=拒绝刷脸进小区当事人回应磕赢官司)
 1. [火箭军副司令张振中履新中央军委](https://so.toutiao.com/search?keyword=火箭军副司令张振中履新中央军委)
-1. [俄外交部谴责以色列空袭叙利亚机场](https://so.toutiao.com/search?keyword=俄外交部谴责以色列空袭叙利亚机场)
-1. [丁义珍式采样亭每小时少采50人](https://so.toutiao.com/search?keyword=丁义珍式采样亭每小时少采50人)
 1. [河南一豆捞坊因唐山打人事件被网暴](https://so.toutiao.com/search?keyword=河南一豆捞坊因唐山打人事件被网暴)
-1. [学霸夫妇挑战数学高考题](https://so.toutiao.com/search?keyword=学霸夫妇挑战数学高考题)
 1. [中新网四问北京天堂超市酒吧](https://so.toutiao.com/search?keyword=中新网四问北京天堂超市酒吧)
-1. [英媒：俄军在弹药数量上40倍于乌军](https://so.toutiao.com/search?keyword=英媒：俄军在弹药数量上40倍于乌军)
+1. [学霸夫妇挑战数学高考题](https://so.toutiao.com/search?keyword=学霸夫妇挑战数学高考题)
+1. [丁义珍式采样亭每小时少采50人](https://so.toutiao.com/search?keyword=丁义珍式采样亭每小时少采50人)
 1. [吴亦凡案时间线](https://so.toutiao.com/search?keyword=吴亦凡案时间线)
-1. [工程人的浪漫：为中国造最好的船](https://so.toutiao.com/search?keyword=工程人的浪漫：为中国造最好的船)
-1. [上海砍人男子被年轻人骑车撞倒制服](https://so.toutiao.com/search?keyword=上海砍人男子被年轻人骑车撞倒制服)
+1. [美洲峰会会场外出现大规模抗议](https://so.toutiao.com/search?keyword=美洲峰会会场外出现大规模抗议)
 1. [俄总理签署退出世界旅游组织的命令](https://so.toutiao.com/search?keyword=俄总理签署退出世界旅游组织的命令)
+1. [工程人的浪漫：为中国造最好的船](https://so.toutiao.com/search?keyword=工程人的浪漫：为中国造最好的船)
 1. [男子公交上做不雅动作 女子高呼报警](https://so.toutiao.com/search?keyword=男子公交上做不雅动作+女子高呼报警)
+1. [上海砍人男子被年轻人骑车撞倒制服](https://so.toutiao.com/search?keyword=上海砍人男子被年轻人骑车撞倒制服)
 1. [小店立通告：喝酒别闹事老板当过兵](https://so.toutiao.com/search?keyword=小店立通告：喝酒别闹事老板当过兵)
 1. [香港演员沈威去世](https://so.toutiao.com/search?keyword=香港演员沈威去世)
-1. [陈赫回应贤合庄争议](https://so.toutiao.com/search?keyword=陈赫回应贤合庄争议)
 1. [都美竹发表情疑似回应吴亦凡案开庭](https://so.toutiao.com/search?keyword=都美竹发表情疑似回应吴亦凡案开庭)
-1. [侏罗纪世界3票房破2亿](https://so.toutiao.com/search?keyword=侏罗纪世界3票房破2亿)
-1. [公安部：严打严治枪爆违法犯罪](https://so.toutiao.com/search?keyword=公安部：严打严治枪爆违法犯罪)
+1. [英媒：俄军在弹药数量上40倍于乌军](https://so.toutiao.com/search?keyword=英媒：俄军在弹药数量上40倍于乌军)
+1. [上海回应因蔬菜问题停职干部官复原职](https://so.toutiao.com/search?keyword=上海回应因蔬菜问题停职干部官复原职)
 1. [美国男子扔瓶袭击中国使馆未遂被捕](https://so.toutiao.com/search?keyword=美国男子扔瓶袭击中国使馆未遂被捕)
 1. [上海金山一男子当街砍人被抓](https://so.toutiao.com/search?keyword=上海金山一男子当街砍人被抓)
-1. [上海回应因蔬菜问题停职干部官复原职](https://so.toutiao.com/search?keyword=上海回应因蔬菜问题停职干部官复原职)
 1. [俄媒：乌已沦为西方国家武器测试场](https://so.toutiao.com/search?keyword=俄媒：乌已沦为西方国家武器测试场)
-1. [拜登将美国高通胀“甩锅”俄罗斯](https://so.toutiao.com/search?keyword=拜登将美国高通胀“甩锅”俄罗斯)
 1. [美国一动物园外凌晨疑似现“狼人”](https://so.toutiao.com/search?keyword=美国一动物园外凌晨疑似现“狼人”)
+1. [市场预计美国将连续三次加息50基点](https://so.toutiao.com/search?keyword=市场预计美国将连续三次加息50基点)
+1. [陈赫回应贤合庄争议](https://so.toutiao.com/search?keyword=陈赫回应贤合庄争议)
+1. [河南一地回应“赵河裸泳不忍直视”](https://so.toutiao.com/search?keyword=河南一地回应“赵河裸泳不忍直视”)
+1. [公安部：严打严治枪爆违法犯罪](https://so.toutiao.com/search?keyword=公安部：严打严治枪爆违法犯罪)
+1. [北京中小学幼儿园返校时间调整](https://so.toutiao.com/search?keyword=北京中小学幼儿园返校时间调整)
+1. [美财长：对俄制裁加剧美国通货膨胀](https://so.toutiao.com/search?keyword=美财长：对俄制裁加剧美国通货膨胀)
+1. [遭网暴男子否认自己是唐山打人者](https://so.toutiao.com/search?keyword=遭网暴男子否认自己是唐山打人者)
+1. [俄外交部谴责以色列空袭叙利亚机场](https://so.toutiao.com/search?keyword=俄外交部谴责以色列空袭叙利亚机场)
+1. [侏罗纪世界3票房破2亿](https://so.toutiao.com/search?keyword=侏罗纪世界3票房破2亿)
+1. [拜登将美国高通胀“甩锅”俄罗斯](https://so.toutiao.com/search?keyword=拜登将美国高通胀“甩锅”俄罗斯)
 1. [张琳芃闪击 海港2-0河北迎首胜](https://so.toutiao.com/search?keyword=张琳芃闪击+海港2-0河北迎首胜)
 1. [法治日报：社会戾气必须依法制止](https://so.toutiao.com/search?keyword=法治日报：社会戾气必须依法制止)
 1. [北京：本起疫情处于快速发展阶段](https://so.toutiao.com/search?keyword=北京：本起疫情处于快速发展阶段)
@@ -91,25 +95,26 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Sun Jun 12 2022 03:11:42 GMT+0800 (China Standard Time) -->
-1. [罗翔谈唐山烧烤店打人事件](https://www.zhihu.com/search?q=罗翔谈唐山烧烤店打人事件)
-1. [英语四六级考试](https://www.zhihu.com/search?q=英语四六级考试)
-1. [唐山 1 个月三次热搜背后的共性问题](https://www.zhihu.com/search?q=唐山 1 个月三次热搜背后的共性问题)
-1. [北京酒吧聚集性疫情已有 69 人感染](https://www.zhihu.com/search?q=北京酒吧聚集性疫情已有 69 人感染)
-1. [北京本起疫情处于快速发展阶段](https://www.zhihu.com/search?q=北京本起疫情处于快速发展阶段)
-1. [成都政府回应「 4 岁女童被男幼师性侵」](https://www.zhihu.com/search?q=成都政府回应「 4 岁女童被男幼师性侵」)
+<!-- 最后更新时间 Sun Jun 12 2022 04:15:30 GMT+0800 (China Standard Time) -->
+1. [廊坊市广阳警方侦查办理唐山打人案](https://www.zhihu.com/search?q=廊坊市广阳警方侦查办理唐山打人案)
 1. [网红粥铺被曝出售口水粥](https://www.zhihu.com/search?q=网红粥铺被曝出售口水粥)
+1. [唐山 1 个月三次热搜背后的共性问题](https://www.zhihu.com/search?q=唐山 1 个月三次热搜背后的共性问题)
 1. [中美国防部长会谈比原定时间延长近30分钟](https://www.zhihu.com/search?q=中美国防部长会谈比原定时间延长近30分钟)
+1. [成都政府回应「 4 岁女童被男幼师性侵」](https://www.zhihu.com/search?q=成都政府回应「 4 岁女童被男幼师性侵」)
+1. [男生骚扰女生未果挨骂随即动手打人](https://www.zhihu.com/search?q=男生骚扰女生未果挨骂随即动手打人)
+1. [英语四六级考试](https://www.zhihu.com/search?q=英语四六级考试)
+1. [2022 一季度我国房贷总额达 53 万亿](https://www.zhihu.com/search?q=2022 一季度我国房贷总额达 53 万亿)
 1. [萌探 三国乱局](https://www.zhihu.com/search?q=萌探 三国乱局)
 1. [梦华录 上头](https://www.zhihu.com/search?q=梦华录 上头)
-1. [男生骚扰女生未果挨骂随即动手打人](https://www.zhihu.com/search?q=男生骚扰女生未果挨骂随即动手打人)
+1. [罗翔谈唐山烧烤店打人事件](https://www.zhihu.com/search?q=罗翔谈唐山烧烤店打人事件)
+1. [北京酒吧聚集性疫情已有 69 人感染](https://www.zhihu.com/search?q=北京酒吧聚集性疫情已有 69 人感染)
+1. [北京本起疫情处于快速发展阶段](https://www.zhihu.com/search?q=北京本起疫情处于快速发展阶段)
 1. [中国聚众淫乱罪怎样界定](https://www.zhihu.com/search?q=中国聚众淫乱罪怎样界定)
 1. [2022 年上半年全国大学英语四、六级考试](https://www.zhihu.com/search?q=2022 年上半年全国大学英语四、六级考试)
 1. [库里砍下 43 分勇士击败绿军](https://www.zhihu.com/search?q=库里砍下 43 分勇士击败绿军)
 1. [女子实名举报唐山黑社会团伙](https://www.zhihu.com/search?q=女子实名举报唐山黑社会团伙)
 1. [爱奇艺被指对 iPhone 和安卓手机双标](https://www.zhihu.com/search?q=爱奇艺被指对 iPhone 和安卓手机双标)
 1. [吴亦凡涉嫌强奸案开庭](https://www.zhihu.com/search?q=吴亦凡涉嫌强奸案开庭)
-1. [2022 一季度我国房贷总额达 53 万亿](https://www.zhihu.com/search?q=2022 一季度我国房贷总额达 53 万亿)
 <!-- END ZHIHUSEARCH -->
 
 历史归档 [./archives/zhihu-search](./archives/zhihu-search)
@@ -117,7 +122,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sun Jun 12 2022 03:11:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 12 2022 04:15:30 GMT+0800 (China Standard Time) -->
 1. [唐山烧烤店打人事件警方已抓获全部 9 名涉案人员，他们将受到哪些处罚？](https://www.zhihu.com/question/537093858)
 1. [为什么日本举全国之力发展氢能源电池，而中国的比亚迪，宁德时代却在大力发展三元电池？](https://www.zhihu.com/question/271987417)
 1. [如何看待「唐山暴力事件」报警女生称「报警是我唯一能做的事，我不知道女生面对这件事正确的做法是什么？」？](https://www.zhihu.com/question/537219495)
@@ -143,6 +148,7 @@
 1. [如何看待深圳技术大学2022年专升本招生扩招至600人？](https://www.zhihu.com/question/537020726)
 1. [《梦华录》第 19－20 集拍的怎么样？哪些剧情点值得关注？](https://www.zhihu.com/question/537218782)
 1. [上大学到底给农村孩子带来了什么？](https://www.zhihu.com/question/516739474)
+1. [你越来越沉默的原因是什么?](https://www.zhihu.com/question/412546017)
 1. [电影《寄生虫》中，到底谁才是寄生虫？](https://www.zhihu.com/question/344566053)
 1. [文科大学学什么专业好?](https://www.zhihu.com/question/464835095)
 1. [作为从业多年的医生，你对医学生有什么忠告？](https://www.zhihu.com/question/323242826)
@@ -153,21 +159,21 @@
 1. [刘浩存发文文案被质疑抄袭，其否认并表示「为原创灵感来源于歌词」，如何看待她的解释？](https://www.zhihu.com/question/536884349)
 1. [穷，可以让一个人卑微成什么样？](https://www.zhihu.com/question/320734249)
 1. [追梦格林出战 34 分钟 0 断 2 失误，他表现差的原因是什么？该球员竞技状态如何？](https://www.zhihu.com/question/536972075)
-1. [唐山某路烧烤店，男子骚扰女子未果挨骂，随即动手打人，将受到哪些惩罚？出门在外如何保护好自身安全？](https://www.zhihu.com/question/537038241)
-1. [发生了什么导致你从此再不吃某样食物？](https://www.zhihu.com/question/269344536)
 1. [家里装修成原木风，是一种什么样的体验？](https://www.zhihu.com/question/529218248)
 1. [宇宙是一个孤立的系统,有没有可能存在其他宇宙?](https://www.zhihu.com/question/440805003)
+1. [发生了什么导致你从此再不吃某样食物？](https://www.zhihu.com/question/269344536)
 1. [《大明王朝1566》这部剧最大的价值和意义是什么？](https://www.zhihu.com/question/482366183)
+1. [唐山某路烧烤店，男子骚扰女子未果挨骂，随即动手打人，将受到哪些惩罚？出门在外如何保护好自身安全？](https://www.zhihu.com/question/537038241)
 1. [白胡子全盛状态能救下艾斯吗?](https://www.zhihu.com/question/312407865)
 1. [《三生三世十里桃花》中，如果结魄灯真的把凡人素素救活了，夜华会保护她一生吗?](https://www.zhihu.com/question/535006247)
 1. [刚刚高考完，关于大学规划能给点建议吗？](https://www.zhihu.com/question/537178669)
 1. [钱和幸福成正比吗？](https://www.zhihu.com/question/533595388)
 1. [如何评价 4 月新番动画《派对浪客诸葛孔明》第十一集？](https://www.zhihu.com/question/536950897)
 1. [如何看待 2023QS 世界大学排名?](https://www.zhihu.com/question/536399080)
-1. [被领导提拔为中层之后，为什么我反而不开心，过得不如从前？](https://www.zhihu.com/question/488211098)
 1. [高考完的暑假建议打工吗？](https://www.zhihu.com/question/531040763)
 1. [打败拿破仑帝国，英国和沙俄谁功劳更大？](https://www.zhihu.com/question/421549465)
 1. [如何看待赤坂明×横枪萌果《我推的孩子》宣布动画化，由动画工房担当制作?](https://www.zhihu.com/question/536993650)
+1. [被领导提拔为中层之后，为什么我反而不开心，过得不如从前？](https://www.zhihu.com/question/488211098)
 1. [C/C++中如何稳定地每隔5ms执行某个函数？](https://www.zhihu.com/question/536739862)
 1. [爱奇艺回应「被指苹果和安卓清晰度双标」，称「是由于该片版权方采用的数字版权保护方案」，具体情况如何？](https://www.zhihu.com/question/537023420)
 1. [500 余人日本购房踩雷，数亿投资款或打水漂，怎么看待这种现象？](https://www.zhihu.com/question/536943559)
@@ -193,7 +199,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Sun Jun 12 2022 03:11:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 12 2022 04:15:30 GMT+0800 (China Standard Time) -->
 1. [买一整只乳猪回家烤，烤到手腕酸得动不了……](https://www.zhihu.com/zvideo/1360916447506702336)
 1. [外交部回应 BBC 记者非正常离任：他跑什么呢](https://www.zhihu.com/zvideo/1360702099882409984)
 1. [老饭骨糖醋鱼 + 万能糖醋汁分享，毫无保留，就是实在](https://www.zhihu.com/zvideo/1360648280272162818)
@@ -216,7 +222,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Sun Jun 12 2022 03:11:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 12 2022 04:15:30 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
