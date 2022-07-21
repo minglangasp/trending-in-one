@@ -24,56 +24,61 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Thu Jul 21 2022 11:39:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 21 2022 11:44:33 GMT+0800 (China Standard Time) -->
 1. [拜登谈“佩洛西将访台”：军方担忧](https://so.toutiao.com/search?keyword=拜登谈“佩洛西将访台”：军方担忧)
-1. [中国男篮不敌黎巴嫩无缘亚洲杯四强](https://so.toutiao.com/search?keyword=中国男篮不敌黎巴嫩无缘亚洲杯四强)
-1. [复垦归田 粮食生态双“丰收”](https://so.toutiao.com/search?keyword=复垦归田+粮食生态双“丰收”)
 1. [特朗普出席前妻伊万娜葬礼](https://so.toutiao.com/search?keyword=特朗普出席前妻伊万娜葬礼)
+1. [复垦归田 粮食生态双“丰收”](https://so.toutiao.com/search?keyword=复垦归田+粮食生态双“丰收”)
 1. [31省份昨增本土148+678例](https://so.toutiao.com/search?keyword=31省份昨增本土148+678例)
-1. [女子等红灯引旁车男子频频侧目](https://so.toutiao.com/search?keyword=女子等红灯引旁车男子频频侧目)
 1. [丹东一医院数月未发工资 卫健局回应](https://so.toutiao.com/search?keyword=丹东一医院数月未发工资+卫健局回应)
-1. [法媒关注中国人避暑方式：果冻西瓜](https://so.toutiao.com/search?keyword=法媒关注中国人避暑方式：果冻西瓜)
-1. [央媒评引进菲律宾博士：钱去哪了](https://so.toutiao.com/search?keyword=央媒评引进菲律宾博士：钱去哪了)
+1. [女子等红灯引旁车男子频频侧目](https://so.toutiao.com/search?keyword=女子等红灯引旁车男子频频侧目)
+1. [实拍青海沙尘暴 巨大沙墙遮天蔽日](https://so.toutiao.com/search?keyword=实拍青海沙尘暴+巨大沙墙遮天蔽日)
+1. [研究：维生素B6可减少焦虑和抑郁](https://so.toutiao.com/search?keyword=研究：维生素B6可减少焦虑和抑郁)
+1. [江苏连云港龙卷风已致26人受伤](https://so.toutiao.com/search?keyword=江苏连云港龙卷风已致26人受伤)
 1. [四川一尼姑举报和尚骚扰 警方通报](https://so.toutiao.com/search?keyword=四川一尼姑举报和尚骚扰+警方通报)
 1. [陈思诚分享黄渤即兴敬酒王宝强趣事](https://so.toutiao.com/search?keyword=陈思诚分享黄渤即兴敬酒王宝强趣事)
 1. [台媒：佩洛西企图窜访台湾意在选票](https://so.toutiao.com/search?keyword=台媒：佩洛西企图窜访台湾意在选票)
-1. [特斯拉所持比特币75%已抛售](https://so.toutiao.com/search?keyword=特斯拉所持比特币75%已抛售)
+1. [央媒评引进菲律宾博士：钱去哪了](https://so.toutiao.com/search?keyword=央媒评引进菲律宾博士：钱去哪了)
 1. [上海关闭一批娱乐场所 足浴老板发飙](https://so.toutiao.com/search?keyword=上海关闭一批娱乐场所+足浴老板发飙)
-1. [冯彬夺田径世锦赛女子铁饼金牌](https://so.toutiao.com/search?keyword=冯彬夺田径世锦赛女子铁饼金牌)
-1. [江苏连云港龙卷风已致26人受伤](https://so.toutiao.com/search?keyword=江苏连云港龙卷风已致26人受伤)
-1. [杜锋：男篮输球最大责任在我们教练](https://so.toutiao.com/search?keyword=杜锋：男篮输球最大责任在我们教练)
+1. [中国男篮不敌黎巴嫩无缘亚洲杯四强](https://so.toutiao.com/search?keyword=中国男篮不敌黎巴嫩无缘亚洲杯四强)
+1. [山东省委副秘书长江成任山东省领导](https://so.toutiao.com/search?keyword=山东省委副秘书长江成任山东省领导)
+1. [法媒关注中国人避暑方式：果冻西瓜](https://so.toutiao.com/search?keyword=法媒关注中国人避暑方式：果冻西瓜)
 1. [女子36岁当奶奶 民政局回应](https://so.toutiao.com/search?keyword=女子36岁当奶奶+民政局回应)
 1. [取消预售制到底难在哪？](https://so.toutiao.com/search?keyword=取消预售制到底难在哪？)
-1. [台媒再次炒作大陆航母疑现身台海](https://so.toutiao.com/search?keyword=台媒再次炒作大陆航母疑现身台海)
+1. [冯彬夺田径世锦赛女子铁饼金牌](https://so.toutiao.com/search?keyword=冯彬夺田径世锦赛女子铁饼金牌)
 1. [《沉香如屑》是拍了一部喜剧吧](https://so.toutiao.com/search?keyword=《沉香如屑》是拍了一部喜剧吧)
-1. [山东省委副秘书长江成任山东省领导](https://so.toutiao.com/search?keyword=山东省委副秘书长江成任山东省领导)
-1. [男子不满后车按喇叭将单车锁路中间](https://so.toutiao.com/search?keyword=男子不满后车按喇叭将单车锁路中间)
-1. [南方共同市场峰会拒绝泽连斯基讲话](https://so.toutiao.com/search?keyword=南方共同市场峰会拒绝泽连斯基讲话)
+1. [特斯拉所持比特币75%已抛售](https://so.toutiao.com/search?keyword=特斯拉所持比特币75%已抛售)
+1. [曝iPhone 15全系叹号屏](https://so.toutiao.com/search?keyword=曝iPhone+15全系叹号屏)
+1. [杜锋：男篮输球最大责任在我们教练](https://so.toutiao.com/search?keyword=杜锋：男篮输球最大责任在我们教练)
 1. [哈尔滨一小区清晨发生爆炸有人受伤](https://so.toutiao.com/search?keyword=哈尔滨一小区清晨发生爆炸有人受伤)
+1. [男子不满后车按喇叭将单车锁路中间](https://so.toutiao.com/search?keyword=男子不满后车按喇叭将单车锁路中间)
 1. [WTT冠军赛：马龙憾负无缘男单八强](https://so.toutiao.com/search?keyword=WTT冠军赛：马龙憾负无缘男单八强)
 1. [苹果iOS 15.6正式版发布](https://so.toutiao.com/search?keyword=苹果iOS+15.6正式版发布)
-1. [甘肃昨增本土49+314例](https://so.toutiao.com/search?keyword=甘肃昨增本土49+314例)
+1. [南方共同市场峰会拒绝泽连斯基讲话](https://so.toutiao.com/search?keyword=南方共同市场峰会拒绝泽连斯基讲话)
 1. [必胜客员工面对执法现场倒原料](https://so.toutiao.com/search?keyword=必胜客员工面对执法现场倒原料)
+1. [小区池塘发现2亿年前远古生物](https://so.toutiao.com/search?keyword=小区池塘发现2亿年前远古生物)
+1. [甘肃昨增本土49+314例](https://so.toutiao.com/search?keyword=甘肃昨增本土49+314例)
 1. [普京回应欧洲“气荒”：与俄无关](https://so.toutiao.com/search?keyword=普京回应欧洲“气荒”：与俄无关)
+1. [二手车不包过户 老人被罚单气到脑梗](https://so.toutiao.com/search?keyword=二手车不包过户+老人被罚单气到脑梗)
 1. [河南驻马店泌阳全县静态管理](https://so.toutiao.com/search?keyword=河南驻马店泌阳全县静态管理)
 1. [四川昨增本土16+28例](https://so.toutiao.com/search?keyword=四川昨增本土16+28例)
-1. [小区池塘发现2亿年前远古生物](https://so.toutiao.com/search?keyword=小区池塘发现2亿年前远古生物)
-1. [二手车不包过户 老人被罚单气到脑梗](https://so.toutiao.com/search?keyword=二手车不包过户+老人被罚单气到脑梗)
 1. [河南：将对10万以下客户本金垫付](https://so.toutiao.com/search?keyword=河南：将对10万以下客户本金垫付)
 1. [12岁男孩高速路开车带妹妹狂奔200里](https://so.toutiao.com/search?keyword=12岁男孩高速路开车带妹妹狂奔200里)
+1. [985二胎妈妈回应“东南亚水博”](https://so.toutiao.com/search?keyword=985二胎妈妈回应“东南亚水博”)
+1. [工人安装路灯从数十米高空坠亡](https://so.toutiao.com/search?keyword=工人安装路灯从数十米高空坠亡)
 1. [英保守党新党首选举确定最终候选人](https://so.toutiao.com/search?keyword=英保守党新党首选举确定最终候选人)
 1. [东亚杯：朱辰杰乌龙 国足0-3韩国](https://so.toutiao.com/search?keyword=东亚杯：朱辰杰乌龙+国足0-3韩国)
-1. [985二胎妈妈回应“东南亚水博”](https://so.toutiao.com/search?keyword=985二胎妈妈回应“东南亚水博”)
-1. [美国520亿美元芯片法案获初步通过](https://so.toutiao.com/search?keyword=美国520亿美元芯片法案获初步通过)
-1. [工人安装路灯从数十米高空坠亡](https://so.toutiao.com/search?keyword=工人安装路灯从数十米高空坠亡)
 1. [河南昨增76例本土无症状](https://so.toutiao.com/search?keyword=河南昨增76例本土无症状)
-1. [哈梅内伊：北约早晚会发起战争](https://so.toutiao.com/search?keyword=哈梅内伊：北约早晚会发起战争)
 1. [生前预嘱能解决临终前伦理问题吗](https://so.toutiao.com/search?keyword=生前预嘱能解决临终前伦理问题吗)
+1. [美国520亿美元芯片法案获初步通过](https://so.toutiao.com/search?keyword=美国520亿美元芯片法案获初步通过)
+1. [印度“高考”安检强迫女生脱内衣](https://so.toutiao.com/search?keyword=印度“高考”安检强迫女生脱内衣)
+1. [哈梅内伊：北约早晚会发起战争](https://so.toutiao.com/search?keyword=哈梅内伊：北约早晚会发起战争)
+1. [媒体：张小泉“失蒜”](https://so.toutiao.com/search?keyword=媒体：张小泉“失蒜”)
+1. [去年卫生总费用7.5万亿 花在哪里了](https://so.toutiao.com/search?keyword=去年卫生总费用7.5万亿+花在哪里了)
+1. [安徽亳州一家四兄弟同上军校](https://so.toutiao.com/search?keyword=安徽亳州一家四兄弟同上军校)
+1. [台媒再次炒作大陆航母疑现身台海](https://so.toutiao.com/search?keyword=台媒再次炒作大陆航母疑现身台海)
 1. [哈登两年6860万续约76人](https://so.toutiao.com/search?keyword=哈登两年6860万续约76人)
 1. [官方：5万以下登记客户基本垫付完毕](https://so.toutiao.com/search?keyword=官方：5万以下登记客户基本垫付完毕)
-1. [印度“高考”安检强迫女生脱内衣](https://so.toutiao.com/search?keyword=印度“高考”安检强迫女生脱内衣)
 1. [孙铭徽战黎巴嫩全场6分7次失误](https://so.toutiao.com/search?keyword=孙铭徽战黎巴嫩全场6分7次失误)
-1. [去年卫生总费用7.5万亿 花在哪里了](https://so.toutiao.com/search?keyword=去年卫生总费用7.5万亿+花在哪里了)
 1. [宁夏：对鼠疫涉疫区域人员分类管控](https://so.toutiao.com/search?keyword=宁夏：对鼠疫涉疫区域人员分类管控)
 1. [埃尔多安让普京等了近一分钟](https://so.toutiao.com/search?keyword=埃尔多安让普京等了近一分钟)
 1. [浙江金华回应城管拖行艾草女摊贩](https://so.toutiao.com/search?keyword=浙江金华回应城管拖行艾草女摊贩)
@@ -97,7 +102,6 @@
 1. [70城房价变化：郑州回到5年前](https://so.toutiao.com/search?keyword=70城房价变化：郑州回到5年前)
 1. [警方通报“女顾客掀翻火锅叫嚣”](https://so.toutiao.com/search?keyword=警方通报“女顾客掀翻火锅叫嚣”)
 1. [宁波通报多人打砸烧烤店：4人被拘](https://so.toutiao.com/search?keyword=宁波通报多人打砸烧烤店：4人被拘)
-1. [安徽亳州一家四兄弟同上军校](https://so.toutiao.com/search?keyword=安徽亳州一家四兄弟同上军校)
 1. [“批发式申请博士”成产业链](https://so.toutiao.com/search?keyword=“批发式申请博士”成产业链)
 1. [男子认识女网友 3个月后连车都卖了](https://so.toutiao.com/search?keyword=男子认识女网友+3个月后连车都卖了)
 1. [西班牙葡萄牙超1700人死于高温](https://so.toutiao.com/search?keyword=西班牙葡萄牙超1700人死于高温)
@@ -142,7 +146,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Thu Jul 21 2022 11:39:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 21 2022 11:44:33 GMT+0800 (China Standard Time) -->
 1. [未来中国 刘博洋](https://www.zhihu.com/search?q=未来中国 刘博洋)
 1. [女子订婚宴照片被谣传为会所技师](https://www.zhihu.com/search?q=女子订婚宴照片被谣传为会所技师)
 1. [山上彻也拘留期延长 10 天](https://www.zhihu.com/search?q=山上彻也拘留期延长 10 天)
@@ -166,7 +170,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Thu Jul 21 2022 11:39:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 21 2022 11:44:33 GMT+0800 (China Standard Time) -->
 1. [如何看待近期部分芯片价格「雪崩」，有芯片从 200 元跌到 21.5 元，行业巨头市值蒸发超千亿？](https://www.zhihu.com/question/544177193)
 1. [70 城房价数据显示唐山等 34 城跌回两年前，郑州跌回 5 年前，深圳涨幅居前，未来房价走势会如何？](https://www.zhihu.com/question/544341537)
 1. [拜登表态「佩洛西访台计划」，称「军方认为这不是一个好主意」，透露了哪些信息？](https://www.zhihu.com/question/544470096)
@@ -179,20 +183,20 @@
 1. [如何看待记者王冰冰和游泳运动员徐嘉余疑官宣恋情，这是真的吗？](https://www.zhihu.com/question/544352894)
 1. [河南村镇银行再公布垫付公告，垫付对象为 10 万元及以下客户，还有哪些信息值得关注？](https://www.zhihu.com/question/544479056)
 1. [「卫生间拖拽女生」男子涉嫌猥亵，双方非男女朋友，女子未成年，该男子将承担哪些法律责任？](https://www.zhihu.com/question/544486816)
-1. [乌克兰第一夫人低调访美，将于当地时间 20 日在美国国会发表讲话，如何解读这一举动？](https://www.zhihu.com/question/544298947)
 1. [浙江宁波数人「因店家不打折打砸烧烤店」，目前警方已介入调查，如何看待这种行为?暴露出哪些问题？](https://www.zhihu.com/question/544327181)
+1. [为什么预制菜会火？](https://www.zhihu.com/question/460523698)
 1. [上海常态化核酸检测服务免费至 8 月 31 日，目前上海疫情形势如何？](https://www.zhihu.com/question/544374997)
 1. [四川一尼姑实名举报遭某和尚骚扰恐吓，警方称正在调查中，有哪些信息值得关注？](https://www.zhihu.com/question/544403008)
 1. [女子订婚宴照片被谣传为会所技师，当事人回应「已报案」，目前案件进展如何？造谣者将面临怎样的法律处罚？](https://www.zhihu.com/question/544291716)
-1. [为什么预制菜会火？](https://www.zhihu.com/question/460523698)
+1. [「汽车后备箱集市」兴起，商品琳琅满目价格不菲，做得好可日入 2000 元，你看好这一生意吗？](https://www.zhihu.com/question/544381730)
 1. [《国民旅游休闲发展纲要（ 2022—2030 年）》印发，将优化法定节假日时间分布格局，你有哪些期待？](https://www.zhihu.com/question/543976948)
 1. [乌军一指挥官表示他部队内有经验的老兵伤亡率达到 80% ，这说明了什么？](https://www.zhihu.com/question/540140749)
 1. [欧盟新任驻华大使称「让中国领导世界是有必要的、支持两岸和平统一」，如何解读其发言？表明欧盟怎样的立场？](https://www.zhihu.com/question/544404658)
-1. [「汽车后备箱集市」兴起，商品琳琅满目价格不菲，做得好可日入 2000 元，你看好这一生意吗？](https://www.zhihu.com/question/544381730)
 1. [如何看待 2022 年西北工业大学高考投档线「暴涨」？](https://www.zhihu.com/question/544202564)
-1. [民事诉讼庭审过程中法庭辩论的阶段该怎么说才能最大程度上获得法官的支持？](https://www.zhihu.com/question/530361643)
 1. [《黑社会 1》中大 D 为什么会输给阿乐？](https://www.zhihu.com/question/542197675)
+1. [民事诉讼庭审过程中法庭辩论的阶段该怎么说才能最大程度上获得法官的支持？](https://www.zhihu.com/question/530361643)
 1. [广西米粉如此多样，为什么螺蛳粉能够率先「出圈」？](https://www.zhihu.com/question/542994416)
+1. [乌克兰第一夫人低调访美，将于当地时间 20 日在美国国会发表讲话，如何解读这一举动？](https://www.zhihu.com/question/544298947)
 1. [如何评价画师羽蛇Quetzalli重出江湖绘制《原神》「愚人众执行官『仆人』」二创图？](https://www.zhihu.com/question/544426473)
 1. [孩子三年级，平时课外书阅读量很大，但这次期末语文成绩很不理想，暑假该如何做才能提升？](https://www.zhihu.com/question/537648722)
 1. [电影《食神》最后周星驰为什么不做碗杂碎面而是选了叉烧饭，做面不是更好的前后呼应吗？](https://www.zhihu.com/question/398348580)
@@ -205,16 +209,17 @@
 1. [男子自驾游为省 1800 元过路费拉 12 箱芒果走绿通，官方称符合要求即可走，如何看待这一做法？](https://www.zhihu.com/question/543784862)
 1. [美官员称「非洲百万人挨饿，中国却囤粮」遭中方反击，如何评价美方这一言论？](https://www.zhihu.com/question/544147124)
 1. [有哪些心理学领域学生必看的影视作品？](https://www.zhihu.com/question/534565906)
-1. [豆浆和豆奶的区别是什么？哪种对身体更健康？](https://www.zhihu.com/question/542917414)
+1. [奈雪尚未盈利，喜茶还未上市，其背后果汁、小料、包材供应商却竞相 IPO，这一现象说明了什么？](https://www.zhihu.com/question/542881626)
 1. [拜登刚走，普京后脚访问伊朗，此次中东之行普京的目的有哪些？成果几何？又有哪些看点值得关注？](https://www.zhihu.com/question/544265144)
 1. [宠物狗真的明白家中各主人之间的关系吗？](https://www.zhihu.com/question/541478395)
-1. [家里经济不太好，该不该继续上学?](https://www.zhihu.com/question/543925918)
+1. [豆浆和豆奶的区别是什么？哪种对身体更健康？](https://www.zhihu.com/question/542917414)
 1. [7 月 LPR 报价出炉，1 年期和 5 年期均维持不变，这释放了什么信号？](https://www.zhihu.com/question/544276639)
 1. [年内全国 1078 个银行网点将终止营业，有网点转型网红打卡地，体现了怎样的趋势？](https://www.zhihu.com/question/544348646)
 1. [中国矿产资源集团有限公司在雄安成立，其成立出于哪些考虑？将产生哪些影响？？](https://www.zhihu.com/question/544184632)
+1. [家里经济不太好，该不该继续上学?](https://www.zhihu.com/question/543925918)
 1. [初一英语特别差，初二还有救吗?](https://www.zhihu.com/question/542738756)
-1. [夏天，小猫咪在家不开空调会很热吗？怎么办？](https://www.zhihu.com/question/542896408)
 1. [请问小说中塑造这种亦正亦邪角色，很难用道德标准衡量的角色，如何才能塑造成功？](https://www.zhihu.com/question/543678786)
+1. [夏天，小猫咪在家不开空调会很热吗？怎么办？](https://www.zhihu.com/question/542896408)
 1. [你为什么要拼命挣钱呢？](https://www.zhihu.com/question/544199582)
 1. [没有考上重点高中还有前途吗？](https://www.zhihu.com/question/544112741)
 1. [30岁体制内，每天都像生活在真空里，眼里早已没了光，我不想再待下去了，想考研重新开始，还有可能吗？](https://www.zhihu.com/question/541301044)
@@ -287,7 +292,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Thu Jul 21 2022 11:39:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 21 2022 11:44:33 GMT+0800 (China Standard Time) -->
 1. [买一整只乳猪回家烤，烤到手腕酸得动不了……](https://www.zhihu.com/zvideo/1360916447506702336)
 1. [外交部回应 BBC 记者非正常离任：他跑什么呢](https://www.zhihu.com/zvideo/1360702099882409984)
 1. [老饭骨糖醋鱼 + 万能糖醋汁分享，毫无保留，就是实在](https://www.zhihu.com/zvideo/1360648280272162818)
@@ -310,7 +315,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Thu Jul 21 2022 11:39:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 21 2022 11:44:33 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
