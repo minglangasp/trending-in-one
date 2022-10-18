@@ -24,7 +24,7 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Wed Oct 19 2022 01:35:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 19 2022 02:31:27 GMT+0800 (China Standard Time) -->
 1. [党的二十大主席团举行第二次会议](https://so.toutiao.com/search?keyword=党的二十大主席团举行第二次会议)
 1. [未来五年房地产怎么发展？定调来了](https://so.toutiao.com/search?keyword=未来五年房地产怎么发展？定调来了)
 1. [记者招待会上提及70余次的高频字](https://so.toutiao.com/search?keyword=记者招待会上提及70余次的高频字)
@@ -39,39 +39,47 @@
 1. [澳不再承认西耶路撒冷为以色列首都](https://so.toutiao.com/search?keyword=澳不再承认西耶路撒冷为以色列首都)
 1. [气温又要回升？冷空气为啥这么弱](https://so.toutiao.com/search?keyword=气温又要回升？冷空气为啥这么弱)
 1. [辽篮小将刘雁宇比赛中重摔倒地](https://so.toutiao.com/search?keyword=辽篮小将刘雁宇比赛中重摔倒地)
-1. [中方呼吁德方停止鼓吹中国间谍威胁](https://so.toutiao.com/search?keyword=中方呼吁德方停止鼓吹中国间谍威胁)
 1. [奢侈品鉴定师：曾有人被代购骗400万](https://so.toutiao.com/search?keyword=奢侈品鉴定师：曾有人被代购骗400万)
+1. [中方呼吁德方停止鼓吹中国间谍威胁](https://so.toutiao.com/search?keyword=中方呼吁德方停止鼓吹中国间谍威胁)
 1. [辽篮队长韩德君抱医药箱冲向受伤队员](https://so.toutiao.com/search?keyword=辽篮队长韩德君抱医药箱冲向受伤队员)
 1. [媒体人：刘雁宇腰和颈椎无大碍](https://so.toutiao.com/search?keyword=媒体人：刘雁宇腰和颈椎无大碍)
-1. [游客爬栏杆自拍掉入世界最宽瀑布](https://so.toutiao.com/search?keyword=游客爬栏杆自拍掉入世界最宽瀑布)
 1. [银行挤兑 越南正经历金融风暴](https://so.toutiao.com/search?keyword=银行挤兑+越南正经历金融风暴)
+1. [苏贞昌确诊新冠肺炎](https://so.toutiao.com/search?keyword=苏贞昌确诊新冠肺炎)
 1. [乌总统夫人：泽连斯基不会离开基辅](https://so.toutiao.com/search?keyword=乌总统夫人：泽连斯基不会离开基辅)
 1. [基辅发生无人机袭击事件 中方回应](https://so.toutiao.com/search?keyword=基辅发生无人机袭击事件+中方回应)
-1. [77岁奶奶给孙子宰鸭炖汤感染鹦鹉热](https://so.toutiao.com/search?keyword=77岁奶奶给孙子宰鸭炖汤感染鹦鹉热)
-1. [丹麦警方证实北溪事故由爆炸引发](https://so.toutiao.com/search?keyword=丹麦警方证实北溪事故由爆炸引发)
-1. [俄乌交换在押俄公民和乌军女兵](https://so.toutiao.com/search?keyword=俄乌交换在押俄公民和乌军女兵)
 1. [泽连斯基：乌克兰30%发电站遭破坏](https://so.toutiao.com/search?keyword=泽连斯基：乌克兰30%发电站遭破坏)
-1. [男子打工期间攻克英语 转行高薪职业](https://so.toutiao.com/search?keyword=男子打工期间攻克英语+转行高薪职业)
+1. [丹麦警方证实北溪事故由爆炸引发](https://so.toutiao.com/search?keyword=丹麦警方证实北溪事故由爆炸引发)
+1. [77岁奶奶给孙子宰鸭炖汤感染鹦鹉热](https://so.toutiao.com/search?keyword=77岁奶奶给孙子宰鸭炖汤感染鹦鹉热)
+1. [俄乌交换在押俄公民和乌军女兵](https://so.toutiao.com/search?keyword=俄乌交换在押俄公民和乌军女兵)
 1. [妹妹出嫁 未婚姐姐爬楼顶回避](https://so.toutiao.com/search?keyword=妹妹出嫁+未婚姐姐爬楼顶回避)
-1. [苏贞昌确诊新冠肺炎](https://so.toutiao.com/search?keyword=苏贞昌确诊新冠肺炎)
-1. [90后妈妈流利背出桃花源记震惊儿子](https://so.toutiao.com/search?keyword=90后妈妈流利背出桃花源记震惊儿子)
-1. [为何双一流大学生选择逆向升学？](https://so.toutiao.com/search?keyword=为何双一流大学生选择逆向升学？)
-1. [俄媒：苏-34最有可能因技术故障坠毁](https://so.toutiao.com/search?keyword=俄媒：苏-34最有可能因技术故障坠毁)
-1. [机构：美经济12个月内衰退概率100%](https://so.toutiao.com/search?keyword=机构：美经济12个月内衰退概率100%)
-1. [学生在老师毕设中发现8年前的自己](https://so.toutiao.com/search?keyword=学生在老师毕设中发现8年前的自己)
-1. [南非总统称沙特想加入金砖国家](https://so.toutiao.com/search?keyword=南非总统称沙特想加入金砖国家)
-1. [10年间“教资”报考人数翻66倍](https://so.toutiao.com/search?keyword=10年间“教资”报考人数翻66倍)
-1. [二十大报告强调反对外部势力干涉](https://so.toutiao.com/search?keyword=二十大报告强调反对外部势力干涉)
-1. [大罗：本泽马获金球奖实至名归](https://so.toutiao.com/search?keyword=大罗：本泽马获金球奖实至名归)
+1. [男子打工期间攻克英语 转行高薪职业](https://so.toutiao.com/search?keyword=男子打工期间攻克英语+转行高薪职业)
+1. [俄军称摧毁乌敖德萨州一航天通信站](https://so.toutiao.com/search?keyword=俄军称摧毁乌敖德萨州一航天通信站)
+1. [乌总统发文：与俄罗斯没有谈判空间](https://so.toutiao.com/search?keyword=乌总统发文：与俄罗斯没有谈判空间)
 1. [胡锡进评德国情报主管涉中俄言论](https://so.toutiao.com/search?keyword=胡锡进评德国情报主管涉中俄言论)
+1. [为何双一流大学生选择逆向升学？](https://so.toutiao.com/search?keyword=为何双一流大学生选择逆向升学？)
+1. [机构：美经济12个月内衰退概率100%](https://so.toutiao.com/search?keyword=机构：美经济12个月内衰退概率100%)
+1. [南非总统称沙特想加入金砖国家](https://so.toutiao.com/search?keyword=南非总统称沙特想加入金砖国家)
+1. [导盲犬带主人做核酸插队后自觉重排](https://so.toutiao.com/search?keyword=导盲犬带主人做核酸插队后自觉重排)
+1. [10年间“教资”报考人数翻66倍](https://so.toutiao.com/search?keyword=10年间“教资”报考人数翻66倍)
+1. [劳斯莱斯闪灵正式发布](https://so.toutiao.com/search?keyword=劳斯莱斯闪灵正式发布)
+1. [二十大报告强调反对外部势力干涉](https://so.toutiao.com/search?keyword=二十大报告强调反对外部势力干涉)
+1. [学生在老师毕设中发现8年前的自己](https://so.toutiao.com/search?keyword=学生在老师毕设中发现8年前的自己)
+1. [俄方警告以色列不要向乌提供武器](https://so.toutiao.com/search?keyword=俄方警告以色列不要向乌提供武器)
+1. [张益唐称攻克零点猜想 有何现实意义](https://so.toutiao.com/search?keyword=张益唐称攻克零点猜想+有何现实意义)
+1. [俄对乌作战部分动员征兵已完成75%](https://so.toutiao.com/search?keyword=俄对乌作战部分动员征兵已完成75%)
+1. [英新财相宣布推翻几乎所有减税措施](https://so.toutiao.com/search?keyword=英新财相宣布推翻几乎所有减税措施)
+1. [党的二十大报告学习手账](https://so.toutiao.com/search?keyword=党的二十大报告学习手账)
 1. [俄对扎波罗热核电站实行军事化管理](https://so.toutiao.com/search?keyword=俄对扎波罗热核电站实行军事化管理)
 1. [李宇春患的“不死癌症”为何误诊率高](https://so.toutiao.com/search?keyword=李宇春患的“不死癌症”为何误诊率高)
-1. [俄军称摧毁乌敖德萨州一航天通信站](https://so.toutiao.com/search?keyword=俄军称摧毁乌敖德萨州一航天通信站)
-1. [导盲犬带主人做核酸插队后自觉重排](https://so.toutiao.com/search?keyword=导盲犬带主人做核酸插队后自觉重排)
+1. [90后妈妈流利背出桃花源记震惊儿子](https://so.toutiao.com/search?keyword=90后妈妈流利背出桃花源记震惊儿子)
+1. [直击第20号台风“纳沙”轨迹](https://so.toutiao.com/search?keyword=直击第20号台风“纳沙”轨迹)
+1. [马斯克的星链对俄乌冲突影响有多大](https://so.toutiao.com/search?keyword=马斯克的星链对俄乌冲突影响有多大)
+1. [兔狲狲思邈救了这家动物园](https://so.toutiao.com/search?keyword=兔狲狲思邈救了这家动物园)
+1. [游客爬栏杆自拍掉入世界最宽瀑布](https://so.toutiao.com/search?keyword=游客爬栏杆自拍掉入世界最宽瀑布)
+1. [俄媒：苏-34最有可能因技术故障坠毁](https://so.toutiao.com/search?keyword=俄媒：苏-34最有可能因技术故障坠毁)
+1. [大罗：本泽马获金球奖实至名归](https://so.toutiao.com/search?keyword=大罗：本泽马获金球奖实至名归)
 1. [JDG官宣中单牙膏确诊](https://so.toutiao.com/search?keyword=JDG官宣中单牙膏确诊)
 1. [盘点巴黎车展亮相的中国品牌](https://so.toutiao.com/search?keyword=盘点巴黎车展亮相的中国品牌)
-1. [张益唐称攻克零点猜想 有何现实意义](https://so.toutiao.com/search?keyword=张益唐称攻克零点猜想+有何现实意义)
-1. [劳斯莱斯闪灵正式发布](https://so.toutiao.com/search?keyword=劳斯莱斯闪灵正式发布)
 1. [普京向苏-34事故遇难者家属表哀悼](https://so.toutiao.com/search?keyword=普京向苏-34事故遇难者家属表哀悼)
 1. [白俄称区域联合部队已开始执行任务](https://so.toutiao.com/search?keyword=白俄称区域联合部队已开始执行任务)
 1. [初二女生被高年级男生认亲叫小姨](https://so.toutiao.com/search?keyword=初二女生被高年级男生认亲叫小姨)
@@ -82,7 +90,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Wed Oct 19 2022 01:35:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 19 2022 02:31:27 GMT+0800 (China Standard Time) -->
 1. [金球奖](https://www.zhihu.com/search?q=金球奖)
 1. [多家航空公司恢复并增班多条国际航线](https://www.zhihu.com/search?q=多家航空公司恢复并增班多条国际航线)
 1. [布洛芬真是万能止痛药吗](https://www.zhihu.com/search?q=布洛芬真是万能止痛药吗)
@@ -98,7 +106,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Wed Oct 19 2022 01:35:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 19 2022 02:31:27 GMT+0800 (China Standard Time) -->
 1. [党的二十大主席团举行第二次会议 习近平主持会议](https://www.zhihu.com/question/574863343)
 1. [山西省委强调不能让国家为煤发愁](https://www.zhihu.com/question/574866016)
 1. [台湾舆论评中共二十大报告涉台内容：反“独”更硬 促统力度更大](https://www.zhihu.com/question/574856773)
@@ -113,13 +121,13 @@
 1. [沙特一王子发出「圣战」警告，被解读为针对美国，两国关系将何去何从？](https://www.zhihu.com/question/560447875)
 1. [网民质疑「俄罗斯不原产可可豆，所以不能生产巧克力」，中国科普博览回应「可以依赖进口」，如何看待此事？](https://www.zhihu.com/question/560272453)
 1. [俄乌大规模「换俘」，涉 110 名俄罗斯人和 108 名乌女兵，传递出什么信号？目前俄乌局势如何？](https://www.zhihu.com/question/560395829)
-1. [苹果13快充不小心充了一夜对电池有伤害吗？](https://www.zhihu.com/question/559033078)
+1. [「北溪」管道遭破坏处水下实景首次曝光，调查人员称极端力量才能造成这种破坏，哪些信息值得关注？](https://www.zhihu.com/question/560593260)
 1. [孙女每天用监控和 93 岁奶奶聊家常，奶奶每次秒回应，如何评价祖孙二人的互动方式？如何与长辈联络感情？](https://www.zhihu.com/question/560103987)
 1. [地方政府争揽技术人才，给中高技师数十万房补，与博士硕士同等待遇，此举具有哪些积极意义？](https://www.zhihu.com/question/560417143)
-1. [「北溪」管道遭破坏处水下实景首次曝光，调查人员称极端力量才能造成这种破坏，哪些信息值得关注？](https://www.zhihu.com/question/560593260)
 1. [沙特可是美国几十年的小伙伴，更是帮助美国赢的冷战的功臣。为什么不顾美国警告，坚决减产石油？](https://www.zhihu.com/question/559354251)
-1. [苹果将直接官网上架新款 iPad Pro ，搭载 M2 芯片，哪些信息值得关注？](https://www.zhihu.com/question/559895131)
 1. [如何评价2022年10月18日发布的第十代入门款 iPad？](https://www.zhihu.com/question/558242808)
+1. [苹果将直接官网上架新款 iPad Pro ，搭载 M2 芯片，哪些信息值得关注？](https://www.zhihu.com/question/559895131)
+1. [苹果13快充不小心充了一夜对电池有伤害吗？](https://www.zhihu.com/question/559033078)
 1. [《百万英镑》中的一百万英镑放到当下是一种什么概念？](https://www.zhihu.com/question/316289634)
 1. [国有大银行齐齐表态将加大信贷投放力度、有效服务实体经济，中国实体经济未来发展方向和前景如何？](https://www.zhihu.com/question/560592632)
 1. [如何评价《海贼王》漫画第1064话情报?](https://www.zhihu.com/question/560458726)
@@ -127,12 +135,12 @@
 1. [外媒统计「S12 小组赛观赛人数比 S11 小组赛下降约 40%」这是哪些原因导致的？电竞是否退烧了？](https://www.zhihu.com/question/560476965)
 1. [多家航空公司宣布恢复并增班多条国际航线，这释放了哪些信号？将对我国相关产业及经济带来哪些利好？](https://www.zhihu.com/question/560233807)
 1. [如何看待ipad10起售价3599起？](https://www.zhihu.com/question/560629094)
-1. [T1 及 Faker 七次参加全球总决赛全部以小组第一身份出线，是实力还是玄学？](https://www.zhihu.com/question/559282033)
 1. [如何放下面子？面子的本质是什么？](https://www.zhihu.com/question/549183199)
 1. [如果你得到了很多钱，你会马上辞职吗？为什么？](https://www.zhihu.com/question/559704842)
 1. [大学准备考研，大一要不要竞选班委？](https://www.zhihu.com/question/552682057)
 1. [《水浒传》中阎婆惜发现梁山的那封书，为什么不把它藏起来？](https://www.zhihu.com/question/559152025)
 1. [有没有感觉“三观跟着五官走”这句话很恶心？](https://www.zhihu.com/question/411304984)
+1. [T1 及 Faker 七次参加全球总决赛全部以小组第一身份出线，是实力还是玄学？](https://www.zhihu.com/question/559282033)
 1. [TI11 小组赛 RNG 0:2 不敌 OG 跌入败者组，如何评价这场比赛？](https://www.zhihu.com/question/560521537)
 1. [为什么别人穿肥裤子很高挑，我穿就会显得很矮矬？](https://www.zhihu.com/question/554731582)
 1. [寝室里十一点左右完成洗漱真的很晚吗?](https://www.zhihu.com/question/560344476)
@@ -142,8 +150,8 @@
 1. [你觉得长期不吃早饭，会对身体造成大的伤害吗？](https://www.zhihu.com/question/559991287)
 1. [如何玩转今年的天猫双11预售？有预售攻略可分享吗？](https://www.zhihu.com/question/560228314)
 1. [为什么很多国人不习惯早上喝咖啡提神？](https://www.zhihu.com/question/560233283)
-1. [BioNTech创始人：2030年前癌症疫苗或将问世。是不是意味着癌症被攻克?](https://www.zhihu.com/question/560293215)
 1. [哪个品牌的轻薄羽绒服值得购买？](https://www.zhihu.com/question/555702917)
+1. [BioNTech创始人：2030年前癌症疫苗或将问世。是不是意味着癌症被攻克?](https://www.zhihu.com/question/560293215)
 1. [c++中，假如long double精度还不够，有什么办法？](https://www.zhihu.com/question/559724524)
 1. [白胡子全盛状态能救下艾斯吗?](https://www.zhihu.com/question/312407865)
 1. [程序员最浪漫的代码是什么?](https://www.zhihu.com/question/24711491)
@@ -156,7 +164,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Wed Oct 19 2022 01:35:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 19 2022 02:31:27 GMT+0800 (China Standard Time) -->
 1. [党的二十大主席团举行第二次会议](https://zhuanlan.zhihu.com/p/574863343)
 1. [山西省委强调不能让国家为煤发愁](https://zhuanlan.zhihu.com/p/574866016)
 1. [台湾舆论评中共二十大报告涉台内容：反「独」更硬 促统力度更大](https://zhuanlan.zhihu.com/p/574856773)
@@ -171,13 +179,13 @@
 1. [沙特一王子发出「圣战」警告，被解读为针对美国，两国关系将何去何从？](https://www.zhihu.com/question/560447875)
 1. [网民质疑「俄罗斯不原产可可豆，所以不能生产巧克力」，中国科普博览回应「可以依赖进口」，如何看待此事？](https://www.zhihu.com/question/560272453)
 1. [俄乌大规模「换俘」，涉 110 名俄罗斯人和 108 名乌女兵，传递出什么信号？目前俄乌局势如何？](https://www.zhihu.com/question/560395829)
-1. [苹果 13 快充不小心充了一夜对电池有伤害吗？](https://www.zhihu.com/question/559033078)
+1. [「北溪」管道遭破坏处水下实景首次曝光，调查人员称极端力量才能造成这种破坏，哪些信息值得关注？](https://www.zhihu.com/question/560593260)
 1. [孙女每天用监控和 93 岁奶奶聊家常，奶奶每次秒回应，如何评价祖孙二人的互动方式？如何与长辈联络感情？](https://www.zhihu.com/question/560103987)
 1. [地方政府争揽技术人才，给中高技师数十万房补，与博士硕士同等待遇，此举具有哪些积极意义？](https://www.zhihu.com/question/560417143)
-1. [「北溪」管道遭破坏处水下实景首次曝光，调查人员称极端力量才能造成这种破坏，哪些信息值得关注？](https://www.zhihu.com/question/560593260)
 1. [沙特可是美国几十年的小伙伴，更是帮助美国赢的冷战的功臣。为什么不顾美国警告，坚决减产石油？](https://www.zhihu.com/question/559354251)
-1. [苹果将直接官网上架新款 iPad Pro ，搭载 M2 芯片，哪些信息值得关注？](https://www.zhihu.com/question/559895131)
 1. [如何评价 2022 年 10 月 18 日发布的第十代入门款 iPad？](https://www.zhihu.com/question/558242808)
+1. [苹果将直接官网上架新款 iPad Pro ，搭载 M2 芯片，哪些信息值得关注？](https://www.zhihu.com/question/559895131)
+1. [苹果 13 快充不小心充了一夜对电池有伤害吗？](https://www.zhihu.com/question/559033078)
 1. [《百万英镑》中的一百万英镑放到当下是一种什么概念？](https://www.zhihu.com/question/316289634)
 1. [国有大银行齐齐表态将加大信贷投放力度、有效服务实体经济，中国实体经济未来发展方向和前景如何？](https://www.zhihu.com/question/560592632)
 1. [如何评价《海贼王》漫画第 1064 话情报?](https://www.zhihu.com/question/560458726)
@@ -185,12 +193,12 @@
 1. [外媒统计「S12 小组赛观赛人数比 S11 小组赛下降约 40%」这是哪些原因导致的？电竞是否退烧了？](https://www.zhihu.com/question/560476965)
 1. [多家航空公司宣布恢复并增班多条国际航线，这释放了哪些信号？将对我国相关产业及经济带来哪些利好？](https://www.zhihu.com/question/560233807)
 1. [如何看待 ipad10 起售价 3599 起？](https://www.zhihu.com/question/560629094)
-1. [T1 及 Faker 七次参加全球总决赛全部以小组第一身份出线，是实力还是玄学？](https://www.zhihu.com/question/559282033)
 1. [如何放下面子？面子的本质是什么？](https://www.zhihu.com/question/549183199)
 1. [如果你得到了很多钱，你会马上辞职吗？为什么？](https://www.zhihu.com/question/559704842)
 1. [大学准备考研，大一要不要竞选班委？](https://www.zhihu.com/question/552682057)
 1. [《水浒传》中阎婆惜发现梁山的那封书，为什么不把它藏起来？](https://www.zhihu.com/question/559152025)
 1. [有没有感觉「三观跟着五官走」这句话很恶心？](https://www.zhihu.com/question/411304984)
+1. [T1 及 Faker 七次参加全球总决赛全部以小组第一身份出线，是实力还是玄学？](https://www.zhihu.com/question/559282033)
 1. [TI11 小组赛 RNG 0:2 不敌 OG 跌入败者组，如何评价这场比赛？](https://www.zhihu.com/question/560521537)
 1. [为什么别人穿肥裤子很高挑，我穿就会显得很矮矬？](https://www.zhihu.com/question/554731582)
 1. [寝室里十一点左右完成洗漱真的很晚吗?](https://www.zhihu.com/question/560344476)
@@ -200,8 +208,8 @@
 1. [你觉得长期不吃早饭，会对身体造成大的伤害吗？](https://www.zhihu.com/question/559991287)
 1. [如何玩转今年的天猫双 11 预售？有预售攻略可分享吗？](https://www.zhihu.com/question/560228314)
 1. [为什么很多国人不习惯早上喝咖啡提神？](https://www.zhihu.com/question/560233283)
-1. [BioNTech 创始人：2030 年前癌症疫苗或将问世。是不是意味着癌症被攻克?](https://www.zhihu.com/question/560293215)
 1. [哪个品牌的轻薄羽绒服值得购买？](https://www.zhihu.com/question/555702917)
+1. [BioNTech 创始人：2030 年前癌症疫苗或将问世。是不是意味着癌症被攻克?](https://www.zhihu.com/question/560293215)
 1. [c++ 中，假如 long double 精度还不够，有什么办法？](https://www.zhihu.com/question/559724524)
 1. [《海贼王》中白胡子全盛状态能救下艾斯吗?](https://www.zhihu.com/question/312407865)
 1. [程序员最浪漫的代码是什么?](https://www.zhihu.com/question/24711491)
@@ -214,7 +222,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Wed Oct 19 2022 01:35:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 19 2022 02:31:27 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
