@@ -24,60 +24,63 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Fri Oct 21 2022 04:21:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 21 2022 05:18:16 GMT+0800 (China Standard Time) -->
 1. [中方有力回击佩洛西窜台等倒行逆施](https://so.toutiao.com/search?keyword=中方有力回击佩洛西窜台等倒行逆施)
 1. [官方回应中方领导人是否出席G20峰会](https://so.toutiao.com/search?keyword=官方回应中方领导人是否出席G20峰会)
 1. [中国走绿色低碳之路的决心坚定不移](https://so.toutiao.com/search?keyword=中国走绿色低碳之路的决心坚定不移)
 1. [外交部：绝不接受教师爷的颐指气使](https://so.toutiao.com/search?keyword=外交部：绝不接受教师爷的颐指气使)
 1. [世卫称新冠仍是紧急事件 中方回应](https://so.toutiao.com/search?keyword=世卫称新冠仍是紧急事件+中方回应)
 1. [WTT澳门冠军赛：张本智和首轮出局](https://so.toutiao.com/search?keyword=WTT澳门冠军赛：张本智和首轮出局)
-1. [跳水世界杯全红婵10米台预赛第一](https://so.toutiao.com/search?keyword=跳水世界杯全红婵10米台预赛第一)
-1. [南非总统称沙特希望加入金砖 中方回应](https://so.toutiao.com/search?keyword=南非总统称沙特希望加入金砖+中方回应)
 1. [中国成功运行世界首个电磁橇](https://so.toutiao.com/search?keyword=中国成功运行世界首个电磁橇)
+1. [南非总统称沙特希望加入金砖 中方回应](https://so.toutiao.com/search?keyword=南非总统称沙特希望加入金砖+中方回应)
+1. [跳水世界杯全红婵10米台预赛第一](https://so.toutiao.com/search?keyword=跳水世界杯全红婵10米台预赛第一)
 1. [南宁发现连片珍贵野生稻](https://so.toutiao.com/search?keyword=南宁发现连片珍贵野生稻)
 1. [特拉斯宣布辞去英国首相职务](https://so.toutiao.com/search?keyword=特拉斯宣布辞去英国首相职务)
 1. [我国发现首个深水深层气田](https://so.toutiao.com/search?keyword=我国发现首个深水深层气田)
 1. [双11这些规则改了 有你期待的吗](https://so.toutiao.com/search?keyword=双11这些规则改了+有你期待的吗)
 1. [英媒：约翰逊将参加保守党党首竞选](https://so.toutiao.com/search?keyword=英媒：约翰逊将参加保守党党首竞选)
-1. [外交部谈电影《万里归途》](https://so.toutiao.com/search?keyword=外交部谈电影《万里归途》)
 1. [WTT澳门赛：王曼昱2-3输球爆冷出局](https://so.toutiao.com/search?keyword=WTT澳门赛：王曼昱2-3输球爆冷出局)
+1. [外交部谈电影《万里归途》](https://so.toutiao.com/search?keyword=外交部谈电影《万里归途》)
 1. [众泰汽车还能东山再起吗](https://so.toutiao.com/search?keyword=众泰汽车还能东山再起吗)
-1. [经营贷置换房贷 “馅饼”还是陷阱](https://so.toutiao.com/search?keyword=经营贷置换房贷+“馅饼”还是陷阱)
 1. [日元兑美元跌破150关口意味什么](https://so.toutiao.com/search?keyword=日元兑美元跌破150关口意味什么)
+1. [经营贷置换房贷 “馅饼”还是陷阱](https://so.toutiao.com/search?keyword=经营贷置换房贷+“馅饼”还是陷阱)
 1. [自闭症少年爱上钢琴 和郎朗同台演出](https://so.toutiao.com/search?keyword=自闭症少年爱上钢琴+和郎朗同台演出)
-1. [杨振宁林青霞获港大名誉博士学位](https://so.toutiao.com/search?keyword=杨振宁林青霞获港大名誉博士学位)
 1. [俄宣布四地进入战时状态意味着什么](https://so.toutiao.com/search?keyword=俄宣布四地进入战时状态意味着什么)
-1. [胃癌父亲临终前告知水缸下有攒的钱](https://so.toutiao.com/search?keyword=胃癌父亲临终前告知水缸下有攒的钱)
+1. [杨振宁林青霞获港大名誉博士学位](https://so.toutiao.com/search?keyword=杨振宁林青霞获港大名誉博士学位)
 1. [英首相回应遭反对党嘲讽：我是战士](https://so.toutiao.com/search?keyword=英首相回应遭反对党嘲讽：我是战士)
+1. [胃癌父亲临终前告知水缸下有攒的钱](https://so.toutiao.com/search?keyword=胃癌父亲临终前告知水缸下有攒的钱)
 1. [乌总统否认乌策划克里米亚大桥爆炸](https://so.toutiao.com/search?keyword=乌总统否认乌策划克里米亚大桥爆炸)
 1. [乌称15次空袭赫尔松 俄方转移居民](https://so.toutiao.com/search?keyword=乌称15次空袭赫尔松+俄方转移居民)
-1. [评论员：C罗提前退场不合时宜](https://so.toutiao.com/search?keyword=评论员：C罗提前退场不合时宜)
-1. [俄乌无人机攻防：俄方动用蜂群战术](https://so.toutiao.com/search?keyword=俄乌无人机攻防：俄方动用蜂群战术)
 1. [德外长称将不惜一切代价援乌武器](https://so.toutiao.com/search?keyword=德外长称将不惜一切代价援乌武器)
-1. [乌克兰首都基辅实施临时限电](https://so.toutiao.com/search?keyword=乌克兰首都基辅实施临时限电)
-1. [德国总统施泰因迈尔推迟访问乌克兰](https://so.toutiao.com/search?keyword=德国总统施泰因迈尔推迟访问乌克兰)
+1. [俄乌无人机攻防：俄方动用蜂群战术](https://so.toutiao.com/search?keyword=俄乌无人机攻防：俄方动用蜂群战术)
 1. [英媒：美国企图制裁中国但未能得逞](https://so.toutiao.com/search?keyword=英媒：美国企图制裁中国但未能得逞)
-1. [为何985毕业生放弃就业当“蹲族”？](https://so.toutiao.com/search?keyword=为何985毕业生放弃就业当“蹲族”？)
-1. [若美共和党赢下众院或改变援乌策略](https://so.toutiao.com/search?keyword=若美共和党赢下众院或改变援乌策略)
-1. [西安：只管控风险区域](https://so.toutiao.com/search?keyword=西安：只管控风险区域)
 1. [欧洲天然气价为何2个月回落近七成](https://so.toutiao.com/search?keyword=欧洲天然气价为何2个月回落近七成)
-1. [女儿遭欺负 妈妈带其休学骑马成冠军](https://so.toutiao.com/search?keyword=女儿遭欺负+妈妈带其休学骑马成冠军)
+1. [若美共和党赢下众院或改变援乌策略](https://so.toutiao.com/search?keyword=若美共和党赢下众院或改变援乌策略)
+1. [初一男女生现断崖式身高差](https://so.toutiao.com/search?keyword=初一男女生现断崖式身高差)
+1. [为何985毕业生放弃就业当“蹲族”？](https://so.toutiao.com/search?keyword=为何985毕业生放弃就业当“蹲族”？)
+1. [乌克兰首都基辅实施临时限电](https://so.toutiao.com/search?keyword=乌克兰首都基辅实施临时限电)
+1. [西安：只管控风险区域](https://so.toutiao.com/search?keyword=西安：只管控风险区域)
 1. [女子捐款4个月后收到返款道谢](https://so.toutiao.com/search?keyword=女子捐款4个月后收到返款道谢)
-1. [日媒批“与中国脱钩”论调](https://so.toutiao.com/search?keyword=日媒批“与中国脱钩”论调)
-1. [卡德罗夫发布三个儿子前线作战视频](https://so.toutiao.com/search?keyword=卡德罗夫发布三个儿子前线作战视频)
-1. [纽约在孤立岛屿上设帐篷营安置移民](https://so.toutiao.com/search?keyword=纽约在孤立岛屿上设帐篷营安置移民)
-1. [《我们这十年》的故事原型有多感人](https://so.toutiao.com/search?keyword=《我们这十年》的故事原型有多感人)
+1. [女儿遭欺负 妈妈带其休学骑马成冠军](https://so.toutiao.com/search?keyword=女儿遭欺负+妈妈带其休学骑马成冠军)
 1. [湖北26层养猪大楼正式投产](https://so.toutiao.com/search?keyword=湖北26层养猪大楼正式投产)
+1. [日媒批“与中国脱钩”论调](https://so.toutiao.com/search?keyword=日媒批“与中国脱钩”论调)
 1. [《唐朝诡事录》为何获好评](https://so.toutiao.com/search?keyword=《唐朝诡事录》为何获好评)
-1. [5岁男孩在奶奶坟前长跪 父母感动](https://so.toutiao.com/search?keyword=5岁男孩在奶奶坟前长跪+父母感动)
+1. [《我们这十年》的故事原型有多感人](https://so.toutiao.com/search?keyword=《我们这十年》的故事原型有多感人)
 1. [德国总理称已摆脱对俄天然气依赖](https://so.toutiao.com/search?keyword=德国总理称已摆脱对俄天然气依赖)
+1. [菜店老板意外去世 周边群众自发帮清货](https://so.toutiao.com/search?keyword=菜店老板意外去世+周边群众自发帮清货)
+1. [女子离婚未迁户籍获征地补偿款42万](https://so.toutiao.com/search?keyword=女子离婚未迁户籍获征地补偿款42万)
 1. [盖茨涉欧洲能源危机言论引争议](https://so.toutiao.com/search?keyword=盖茨涉欧洲能源危机言论引争议)
-1. [英防长称俄曾在英军飞机附近射导弹](https://so.toutiao.com/search?keyword=英防长称俄曾在英军飞机附近射导弹)
-1. [5200多名同胞从乌克兰安全撤离](https://so.toutiao.com/search?keyword=5200多名同胞从乌克兰安全撤离)
+1. [卡德罗夫发布三个儿子前线作战视频](https://so.toutiao.com/search?keyword=卡德罗夫发布三个儿子前线作战视频)
+1. [5岁男孩在奶奶坟前长跪 父母感动](https://so.toutiao.com/search?keyword=5岁男孩在奶奶坟前长跪+父母感动)
+1. [曝特朗普团队考虑允许FBI再查庄园](https://so.toutiao.com/search?keyword=曝特朗普团队考虑允许FBI再查庄园)
 1. [巴基斯坦拟购俄油 要与印度同折扣](https://so.toutiao.com/search?keyword=巴基斯坦拟购俄油+要与印度同折扣)
+1. [英防长称俄曾在英军飞机附近射导弹](https://so.toutiao.com/search?keyword=英防长称俄曾在英军飞机附近射导弹)
+1. [评论员：C罗提前退场不合时宜](https://so.toutiao.com/search?keyword=评论员：C罗提前退场不合时宜)
+1. [德国总统施泰因迈尔推迟访问乌克兰](https://so.toutiao.com/search?keyword=德国总统施泰因迈尔推迟访问乌克兰)
+1. [纽约在孤立岛屿上设帐篷营安置移民](https://so.toutiao.com/search?keyword=纽约在孤立岛屿上设帐篷营安置移民)
+1. [5200多名同胞从乌克兰安全撤离](https://so.toutiao.com/search?keyword=5200多名同胞从乌克兰安全撤离)
 1. [NASA公布天体景象“创生之柱”](https://so.toutiao.com/search?keyword=NASA公布天体景象“创生之柱”)
 1. [雷军：小米汽车将年产1000万辆](https://so.toutiao.com/search?keyword=雷军：小米汽车将年产1000万辆)
-1. [女子离婚未迁户籍获征地补偿款42万](https://so.toutiao.com/search?keyword=女子离婚未迁户籍获征地补偿款42万)
 1. [1599元羽绒服镂空设计 已下架](https://so.toutiao.com/search?keyword=1599元羽绒服镂空设计+已下架)
 1. [民调显示高通胀成美国人首要关切](https://so.toutiao.com/search?keyword=民调显示高通胀成美国人首要关切)
 1. [长城、比亚迪在巴黎车展抢尽风头](https://so.toutiao.com/search?keyword=长城、比亚迪在巴黎车展抢尽风头)
@@ -89,7 +92,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Fri Oct 21 2022 04:21:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 21 2022 05:18:16 GMT+0800 (China Standard Time) -->
 1. [美国宣布从战略储备中释放 1500 万桶石油](https://www.zhihu.com/search?q=美国宣布从战略储备中释放 1500 万桶石油)
 1. [女子鹤岗全款 1.5 万买房](https://www.zhihu.com/search?q=女子鹤岗全款 1.5 万买房)
 1. [寂静岭和风新作](https://www.zhihu.com/search?q=寂静岭和风新作)
@@ -107,7 +110,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Fri Oct 21 2022 04:21:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 21 2022 05:18:16 GMT+0800 (China Standard Time) -->
 1. [外交部副部长：有力回击佩洛西窜台等倒行逆施，坚决反对任何“台独”行径](https://www.zhihu.com/question/575449269)
 1. [外交部：十年连续拿下台湾当局9个所谓“邦交国”](https://www.zhihu.com/question/575489050)
 1. [外交部：绝不接受任何“教师爷”的颐指气使](https://www.zhihu.com/question/575571862)
@@ -120,17 +123,17 @@
 1. [中国成功运行世界首个电磁橇，吨级或以上物体最高推进速度可达每小时 1030 公里，具有怎样的意义？](https://www.zhihu.com/question/561151876)
 1. [上任 45 天后特拉斯宣布辞职，成为英国任期最短首相，如何评价她的首相生涯？谁将接任其职位？](https://www.zhihu.com/question/561204747)
 1. [如何看待美国著名经济学家称「我们默认民主国家是善良的，但全世界最残暴的国家就是英美」？](https://www.zhihu.com/question/561016622)
-1. [周星驰罕见招人，开号发文「找寻鲜明出众的 Web3 人才」并将「亲自拣人」，Web3 目前发展如何？](https://www.zhihu.com/question/560969383)
 1. [全职妈妈刷单赚奶粉钱 2 小时被骗 15 万，丈夫一气之下带女儿出走，如何防范刷单骗局？](https://www.zhihu.com/question/558331172)
+1. [周星驰罕见招人，开号发文「找寻鲜明出众的 Web3 人才」并将「亲自拣人」，Web3 目前发展如何？](https://www.zhihu.com/question/560969383)
 1. [Uzi 评价 S12 淘汰赛「我真觉得这是 RNG 最有机会赢 T1 的一次」对此你的看法是什么？](https://www.zhihu.com/question/560815059)
 1. [英国首相特拉斯辞职，如何评价这位史上在任时间最短的首相？](https://www.zhihu.com/question/561205773)
 1. [如何看待雷军称小米造车需挤进世界前五，年出货超 1000 万辆才能成功？](https://www.zhihu.com/question/561170339)
-1. [德国总理朔尔茨表示「已摆脱对俄罗斯天然气的依赖」，欧洲当前天然气情况如何？](https://www.zhihu.com/question/561168340)
 1. [埃尔多安称「多亏我，土耳其已成发达国家」，如何看待其表态？土耳其当前经济形势如何？](https://www.zhihu.com/question/561169934)
+1. [德国总理朔尔茨表示「已摆脱对俄罗斯天然气的依赖」，欧洲当前天然气情况如何？](https://www.zhihu.com/question/561168340)
 1. [「副业」为什么慢慢成为了年轻人的「刚需」？](https://www.zhihu.com/question/558737504)
-1. [游戏《寂静岭 2》重置与龙骑士 07 编剧的和风新作《寂静岭 F》公布，你有哪些看法？](https://www.zhihu.com/question/561011553)
 1. [高三，我该继续上学还是休学？](https://www.zhihu.com/question/561052209)
 1. [2022 年双十一，全画幅微单尼康 Z5 套机降价 7999 值得买吗？](https://www.zhihu.com/question/556485534)
+1. [游戏《寂静岭 2》重置与龙骑士 07 编剧的和风新作《寂静岭 F》公布，你有哪些看法？](https://www.zhihu.com/question/561011553)
 1. [寒门子弟上大学是为了摆脱农村，还是为了学习知识从而更好的建设农村？](https://www.zhihu.com/question/560185936)
 1. [为什么越优秀的人就越努力？](https://www.zhihu.com/question/556720026)
 1. [你推荐哪一款大容量的冰箱？](https://www.zhihu.com/question/391481009)
@@ -156,8 +159,9 @@
 1. [卫冕冠军勇士队下赛季奢侈税将超 2 亿，奢侈税在 NBA 联盟中有何作用？](https://www.zhihu.com/question/561105059)
 1. [你能接受自己普通，甚至是平庸的活一辈子吗？](https://www.zhihu.com/question/442092262)
 1. [谷歌操作系统之心不死，重磅发布 KataOS 操作系统，该系统都有哪些亮点？](https://www.zhihu.com/question/560937437)
-1. [怎样写一个很好的周报、月报来汇报最近的工作情况？](https://www.zhihu.com/question/22265528)
+1. [你会继续一个你不喜欢的工作吗？](https://www.zhihu.com/question/551141050)
 1. [一个人变得越来越沉默是为什么？](https://www.zhihu.com/question/557452157)
+1. [怎样写一个很好的周报、月报来汇报最近的工作情况？](https://www.zhihu.com/question/22265528)
 1. [如何评价中国企业家协会公布的「中国企业的研发强度」排名，华为第 1，中兴第 2，荣耀第 6？](https://www.zhihu.com/question/560893997)
 1. [如何看待稚晖君的时间管理水平？](https://www.zhihu.com/question/491456524)
 1. [如何看待黄柳霜硬币即将上市流通，成首位登上美国货币的亚裔？这意味着什么？](https://www.zhihu.com/question/560938944)
@@ -168,7 +172,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Fri Oct 21 2022 04:21:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 21 2022 05:18:16 GMT+0800 (China Standard Time) -->
 1. [外交部副部长：有力回击佩洛西窜台等倒行逆施，坚决反对任何「台独」行径](https://zhuanlan.zhihu.com/p/575449269)
 1. [外交部：十年连续拿下台湾当局 9 个所谓「邦交国」](https://zhuanlan.zhihu.com/p/575489050)
 1. [外交部：绝不接受任何「教师爷」的颐指气使](https://zhuanlan.zhihu.com/p/575571862)
@@ -181,17 +185,17 @@
 1. [中国成功运行世界首个电磁橇，吨级或以上物体最高推进速度可达每小时 1030 公里，具有怎样的意义？](https://www.zhihu.com/question/561151876)
 1. [上任 45 天后特拉斯宣布辞职，成为英国任期最短首相，如何评价她的首相生涯？谁将接任其职位？](https://www.zhihu.com/question/561204747)
 1. [如何看待美国著名经济学家称「我们默认民主国家是善良的，但全世界最残暴的国家就是英美」？](https://www.zhihu.com/question/561016622)
-1. [周星驰罕见招人，开号发文「找寻鲜明出众的 Web3 人才」并将「亲自拣人」，Web3 目前发展如何？](https://www.zhihu.com/question/560969383)
 1. [全职妈妈刷单赚奶粉钱 2 小时被骗 15 万，丈夫一气之下带女儿出走，如何防范刷单骗局？](https://www.zhihu.com/question/558331172)
+1. [周星驰罕见招人，开号发文「找寻鲜明出众的 Web3 人才」并将「亲自拣人」，Web3 目前发展如何？](https://www.zhihu.com/question/560969383)
 1. [Uzi 评价 S12 淘汰赛「我真觉得这是 RNG 最有机会赢 T1 的一次」对此你的看法是什么？](https://www.zhihu.com/question/560815059)
 1. [英国首相特拉斯辞职，如何评价这位史上在任时间最短的首相？](https://www.zhihu.com/question/561205773)
 1. [如何看待雷军称小米造车需挤进世界前五，年出货超 1000 万辆才能成功？](https://www.zhihu.com/question/561170339)
-1. [德国总理朔尔茨表示「已摆脱对俄罗斯天然气的依赖」，欧洲当前天然气情况如何？](https://www.zhihu.com/question/561168340)
 1. [埃尔多安称「多亏我，土耳其已成发达国家」，如何看待其表态？土耳其当前经济形势如何？](https://www.zhihu.com/question/561169934)
+1. [德国总理朔尔茨表示「已摆脱对俄罗斯天然气的依赖」，欧洲当前天然气情况如何？](https://www.zhihu.com/question/561168340)
 1. [「副业」为什么慢慢成为了年轻人的「刚需」？](https://www.zhihu.com/question/558737504)
-1. [游戏《寂静岭 2》重置与龙骑士 07 编剧的和风新作《寂静岭 F》公布，你有哪些看法？](https://www.zhihu.com/question/561011553)
 1. [高三，我该继续上学还是休学？](https://www.zhihu.com/question/561052209)
 1. [2022 年双十一，全画幅微单尼康 Z5 套机降价 7999 值得买吗？](https://www.zhihu.com/question/556485534)
+1. [游戏《寂静岭 2》重置与龙骑士 07 编剧的和风新作《寂静岭 F》公布，你有哪些看法？](https://www.zhihu.com/question/561011553)
 1. [寒门子弟上大学是为了摆脱农村，还是为了学习知识从而更好的建设农村？](https://www.zhihu.com/question/560185936)
 1. [为什么越优秀的人就越努力？](https://www.zhihu.com/question/556720026)
 1. [你推荐哪一款大容量的冰箱？](https://www.zhihu.com/question/391481009)
@@ -217,8 +221,9 @@
 1. [卫冕冠军勇士队下赛季奢侈税将超 2 亿，奢侈税在 NBA 联盟中有何作用？](https://www.zhihu.com/question/561105059)
 1. [你能接受自己普通，甚至是平庸的活一辈子吗？](https://www.zhihu.com/question/442092262)
 1. [谷歌操作系统之心不死，重磅发布 KataOS 操作系统，该系统都有哪些亮点？](https://www.zhihu.com/question/560937437)
-1. [怎样写一个很好的周报、月报来汇报最近的工作情况？](https://www.zhihu.com/question/22265528)
+1. [你会继续一个你不喜欢的工作吗？](https://www.zhihu.com/question/551141050)
 1. [一个人变得越来越沉默是为什么？](https://www.zhihu.com/question/557452157)
+1. [怎样写一个很好的周报、月报来汇报最近的工作情况？](https://www.zhihu.com/question/22265528)
 1. [如何评价中国企业家协会公布的「中国企业的研发强度」排名，华为第 1，中兴第 2，荣耀第 6？](https://www.zhihu.com/question/560893997)
 1. [如何看待稚晖君的时间管理水平？](https://www.zhihu.com/question/491456524)
 1. [如何看待黄柳霜硬币即将上市流通，成首位登上美国货币的亚裔？这意味着什么？](https://www.zhihu.com/question/560938944)
@@ -229,7 +234,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Fri Oct 21 2022 04:21:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 21 2022 05:18:16 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
