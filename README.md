@@ -24,7 +24,7 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Sat Feb 10 2024 02:15:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 10 2024 03:10:53 GMT+0800 (China Standard Time) -->
 1. [春晚](https://so.toutiao.com/search?keyword=春晚)
 1. [尼格买提穿帮](https://so.toutiao.com/search?keyword=尼格买提穿帮)
 1. [锦绣中国年](https://so.toutiao.com/search?keyword=锦绣中国年)
@@ -33,51 +33,62 @@
 1. [被迪丽热巴的新疆舞惊艳一整年](https://so.toutiao.com/search?keyword=被迪丽热巴的新疆舞惊艳一整年)
 1. [春晚收视率](https://so.toutiao.com/search?keyword=春晚收视率)
 1. [刘谦再现见证奇迹的时刻](https://so.toutiao.com/search?keyword=刘谦再现见证奇迹的时刻)
+1. [海安民警李海祥牺牲在春节安保一线](https://so.toutiao.com/search?keyword=海安民警李海祥牺牲在春节安保一线)
 1. [迈阿密主办方退款一半 港府：欢迎](https://so.toutiao.com/search?keyword=迈阿密主办方退款一半+港府：欢迎)
-1. [昔日“洗衣机大王”订单暴涨10倍](https://so.toutiao.com/search?keyword=昔日“洗衣机大王”订单暴涨10倍)
 1. [刘谦春晚带观众集体变魔术](https://so.toutiao.com/search?keyword=刘谦春晚带观众集体变魔术)
-1. [梅西代言品牌集体沉默](https://so.toutiao.com/search?keyword=梅西代言品牌集体沉默)
+1. [昔日“洗衣机大王”订单暴涨10倍](https://so.toutiao.com/search?keyword=昔日“洗衣机大王”订单暴涨10倍)
 1. [民政局辟谣婚车司机亲新娘风俗](https://so.toutiao.com/search?keyword=民政局辟谣婚车司机亲新娘风俗)
 1. [看个春晚撕了一副扑克牌](https://so.toutiao.com/search?keyword=看个春晚撕了一副扑克牌)
 1. [梅西缺阵 迈阿密主办方退50%门票费](https://so.toutiao.com/search?keyword=梅西缺阵+迈阿密主办方退50%门票费)
 1. [阿根廷队杭州行取消](https://so.toutiao.com/search?keyword=阿根廷队杭州行取消)
-1. [岳云鹏嘴瓢](https://so.toutiao.com/search?keyword=岳云鹏嘴瓢)
-1. [西安分会场诗朗诵起鸡皮疙瘩](https://so.toutiao.com/search?keyword=西安分会场诗朗诵起鸡皮疙瘩)
-1. [魏晨魏大勋都穿白不告诉白敬亭](https://so.toutiao.com/search?keyword=魏晨魏大勋都穿白不告诉白敬亭)
-1. [沈腾也嘴瓢了](https://so.toutiao.com/search?keyword=沈腾也嘴瓢了)
-1. [日本能登地震遇难人数升至241人](https://so.toutiao.com/search?keyword=日本能登地震遇难人数升至241人)
-1. [为什么除夕要洗头](https://so.toutiao.com/search?keyword=为什么除夕要洗头)
 1. [范伟时隔19年献声春晚](https://so.toutiao.com/search?keyword=范伟时隔19年献声春晚)
-1. [父亲无意发现儿子弓箭射击百发百中](https://so.toutiao.com/search?keyword=父亲无意发现儿子弓箭射击百发百中)
-1. [美日演习被曝使用中国真实地图](https://so.toutiao.com/search?keyword=美日演习被曝使用中国真实地图)
+1. [西安分会场诗朗诵起鸡皮疙瘩](https://so.toutiao.com/search?keyword=西安分会场诗朗诵起鸡皮疙瘩)
+1. [梅西代言品牌集体沉默](https://so.toutiao.com/search?keyword=梅西代言品牌集体沉默)
+1. [岳云鹏嘴瓢](https://so.toutiao.com/search?keyword=岳云鹏嘴瓢)
+1. [日本能登地震遇难人数升至241人](https://so.toutiao.com/search?keyword=日本能登地震遇难人数升至241人)
+1. [新衣服是大年三十穿还是初一穿](https://so.toutiao.com/search?keyword=新衣服是大年三十穿还是初一穿)
+1. [沈腾也嘴瓢了](https://so.toutiao.com/search?keyword=沈腾也嘴瓢了)
+1. [海外资本缘何突然青睐新发美国国债](https://so.toutiao.com/search?keyword=海外资本缘何突然青睐新发美国国债)
+1. [魏晨魏大勋都穿白不告诉白敬亭](https://so.toutiao.com/search?keyword=魏晨魏大勋都穿白不告诉白敬亭)
+1. [00后被春晚刀了](https://so.toutiao.com/search?keyword=00后被春晚刀了)
+1. [杨幂龙腾盛世新中式红裙](https://so.toutiao.com/search?keyword=杨幂龙腾盛世新中式红裙)
+1. [钉马掌还是事业编？招聘单位：缺人](https://so.toutiao.com/search?keyword=钉马掌还是事业编？招聘单位：缺人)
 1. [撒贝宁现挂](https://so.toutiao.com/search?keyword=撒贝宁现挂)
 1. [解放军天团拜大年：航母歼20出镜](https://so.toutiao.com/search?keyword=解放军天团拜大年：航母歼20出镜)
-1. [美国30年期国债标售中标收益率4.3%](https://so.toutiao.com/search?keyword=美国30年期国债标售中标收益率4.3%)
+1. [为什么除夕要洗头](https://so.toutiao.com/search?keyword=为什么除夕要洗头)
+1. [谭爷爷说上春晚不紧张](https://so.toutiao.com/search?keyword=谭爷爷说上春晚不紧张)
+1. [美日演习被曝使用中国真实地图](https://so.toutiao.com/search?keyword=美日演习被曝使用中国真实地图)
+1. [春节为乡村文化建设提供契机](https://so.toutiao.com/search?keyword=春节为乡村文化建设提供契机)
 1. [马凡舒每年春晚都能美我一次](https://so.toutiao.com/search?keyword=马凡舒每年春晚都能美我一次)
-1. [董宇辉来潼关古城了](https://so.toutiao.com/search?keyword=董宇辉来潼关古城了)
-1. [俄罗斯将庆祝中国农历新年](https://so.toutiao.com/search?keyword=俄罗斯将庆祝中国农历新年)
+1. [假烟运输团伙用救援拖车掩护运烟](https://so.toutiao.com/search?keyword=假烟运输团伙用救援拖车掩护运烟)
+1. [为啥大年三十会消失初一却从不缺席](https://so.toutiao.com/search?keyword=为啥大年三十会消失初一却从不缺席)
 1. [春晚四美同台](https://so.toutiao.com/search?keyword=春晚四美同台)
-1. [海外资本缘何突然青睐新发美国国债](https://so.toutiao.com/search?keyword=海外资本缘何突然青睐新发美国国债)
-1. [美媒为何说印度对手是越南不是中国](https://so.toutiao.com/search?keyword=美媒为何说印度对手是越南不是中国)
+1. [父亲无意发现儿子弓箭射击百发百中](https://so.toutiao.com/search?keyword=父亲无意发现儿子弓箭射击百发百中)
+1. [明星年夜饭大赏](https://so.toutiao.com/search?keyword=明星年夜饭大赏)
+1. [黄轩杨幂毛晓彤王阳春晚同台好养眼](https://so.toutiao.com/search?keyword=黄轩杨幂毛晓彤王阳春晚同台好养眼)
+1. [约旦主帅：很满意球队走到现在](https://so.toutiao.com/search?keyword=约旦主帅：很满意球队走到现在)
+1. [重庆32家国企负责人晒工资条](https://so.toutiao.com/search?keyword=重庆32家国企负责人晒工资条)
+1. [多家卫视春晚跳科目三](https://so.toutiao.com/search?keyword=多家卫视春晚跳科目三)
+1. [海南三亚逐步取消国有景区门票](https://so.toutiao.com/search?keyword=海南三亚逐步取消国有景区门票)
+1. [邓超后继有人了](https://so.toutiao.com/search?keyword=邓超后继有人了)
 1. [岳云鹏一口气说17个花](https://so.toutiao.com/search?keyword=岳云鹏一口气说17个花)
+1. [董宇辉来潼关古城了](https://so.toutiao.com/search?keyword=董宇辉来潼关古城了)
+1. [美媒为何说印度对手是越南不是中国](https://so.toutiao.com/search?keyword=美媒为何说印度对手是越南不是中国)
+1. [你永远可以相信张艺谋](https://so.toutiao.com/search?keyword=你永远可以相信张艺谋)
+1. [美国30年期国债标售中标收益率4.3%](https://so.toutiao.com/search?keyword=美国30年期国债标售中标收益率4.3%)
+1. [俄罗斯将庆祝中国农历新年](https://so.toutiao.com/search?keyword=俄罗斯将庆祝中国农历新年)
 1. [女子过年8套穿搭不重样](https://so.toutiao.com/search?keyword=女子过年8套穿搭不重样)
 1. [美智库：扎卢日内被解职是乌方豪赌](https://so.toutiao.com/search?keyword=美智库：扎卢日内被解职是乌方豪赌)
-1. [00后被春晚刀了](https://so.toutiao.com/search?keyword=00后被春晚刀了)
 1. [华春莹发布8组过年对比图](https://so.toutiao.com/search?keyword=华春莹发布8组过年对比图)
 1. [你的特产原来是我家的](https://so.toutiao.com/search?keyword=你的特产原来是我家的)
 1. [章若楠同款毛衣十分钟售罄](https://so.toutiao.com/search?keyword=章若楠同款毛衣十分钟售罄)
-1. [春节为乡村文化建设提供契机](https://so.toutiao.com/search?keyword=春节为乡村文化建设提供契机)
 1. [多地银行门口排队取现金](https://so.toutiao.com/search?keyword=多地银行门口排队取现金)
-1. [谭爷爷说上春晚不紧张](https://so.toutiao.com/search?keyword=谭爷爷说上春晚不紧张)
 1. [2000元的预制菜年夜饭值吗](https://so.toutiao.com/search?keyword=2000元的预制菜年夜饭值吗)
 1. [10人坟头聚众赌博被抓](https://so.toutiao.com/search?keyword=10人坟头聚众赌博被抓)
-1. [你永远可以相信张艺谋](https://so.toutiao.com/search?keyword=你永远可以相信张艺谋)
-1. [邓超后继有人了](https://so.toutiao.com/search?keyword=邓超后继有人了)
 1. [钟丽缇14岁女儿发文回怼网友](https://so.toutiao.com/search?keyword=钟丽缇14岁女儿发文回怼网友)
 1. [岳云鹏的小抄](https://so.toutiao.com/search?keyword=岳云鹏的小抄)
 1. [为祖国守岁](https://so.toutiao.com/search?keyword=为祖国守岁)
 1. [梅西未出场 邓紫棋直呼“完蛋了”](https://so.toutiao.com/search?keyword=梅西未出场+邓紫棋直呼“完蛋了”)
-1. [新衣服是大年三十穿还是初一穿](https://so.toutiao.com/search?keyword=新衣服是大年三十穿还是初一穿)
 1. [萌娃瑶一瑶小肉包送上新春祝福](https://so.toutiao.com/search?keyword=萌娃瑶一瑶小肉包送上新春祝福)
 1. [川S“车坚强”车主发声](https://so.toutiao.com/search?keyword=川S“车坚强”车主发声)
 1. [应急部赴天津湖南明查暗访](https://so.toutiao.com/search?keyword=应急部赴天津湖南明查暗访)
@@ -90,7 +101,6 @@
 1. [上海街头巷尾年味浓](https://so.toutiao.com/search?keyword=上海街头巷尾年味浓)
 1. [宋轶春晚大漏勺](https://so.toutiao.com/search?keyword=宋轶春晚大漏勺)
 1. [2024年春耕即将全面启动](https://so.toutiao.com/search?keyword=2024年春耕即将全面启动)
-1. [多家卫视春晚跳科目三](https://so.toutiao.com/search?keyword=多家卫视春晚跳科目三)
 1. [关之琳分享拜年穿搭](https://so.toutiao.com/search?keyword=关之琳分享拜年穿搭)
 <!-- END TOUTIAO -->
 
@@ -99,7 +109,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Sat Feb 10 2024 02:15:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 10 2024 03:10:53 GMT+0800 (China Standard Time) -->
 1. [短视频](https://www.zhihu.com/search?q=短视频)
 1. [赚钱](https://www.zhihu.com/search?q=赚钱)
 1. [梅西](https://www.zhihu.com/search?q=梅西)
@@ -117,7 +127,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sat Feb 10 2024 02:15:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 10 2024 03:10:53 GMT+0800 (China Standard Time) -->
 1. [2024 年央视春晚中有哪些亮点？](https://www.zhihu.com/question/643771062)
 1. [如何评价刘谦在 2024 年春晚表演的魔术《守岁共此时》？](https://www.zhihu.com/question/643785170)
 1. [如何评价 2024 年龙年春晚沈腾、马丽、艾伦表演的小品《寒舍不寒》？](https://www.zhihu.com/question/643714155)
@@ -157,23 +167,24 @@
 1. [请问没有天赋的人不停的看小说不停的写，会有被认可的一天吗？](https://www.zhihu.com/question/639785972)
 1. [俄乌冲突以来西方记者首次采访普京，普京回应俄乌谈判停滞「泽连斯基禁止和谈」，哪些信息值得关注？](https://www.zhihu.com/question/643708495)
 1. [如何评价金霏、陈曦等在 2024 年春晚表演的相声《导演的「心事」》？](https://www.zhihu.com/question/643787504)
-1. [怎样给曾经的老师发新年祝福合适？](https://www.zhihu.com/question/642886261)
 1. [如何看待我朋友说的“付费dlc，其本质上是另一种形式的内购”?](https://www.zhihu.com/question/643499074)
 1. [为什么武侠里没人写皇上才是真的武林高手?](https://www.zhihu.com/question/642706745)
+1. [怎样给曾经的老师发新年祝福合适？](https://www.zhihu.com/question/642886261)
 1. [逢年过节，哪些电信网络诈骗值得警惕？有什么识别诈骗的方法吗？](https://www.zhihu.com/question/641176523)
 1. [美财政部代表团被曝本周访华， 与中方进行「坦诚对话」，哪些信息值得关注？](https://www.zhihu.com/question/643235635)
 1. [有哪些适合新年发的文案？](https://www.zhihu.com/question/642722159)
-1. [23-24 赛季 NBA掘金114:106湖人，约基奇24+13+9，詹姆斯最后时刻两分，如何评价？](https://www.zhihu.com/question/643705932)
 1. [腾讯正开发《艾尔登法环》手游，你对该游戏有哪些期待？](https://www.zhihu.com/question/643238271)
 1. [龙年祝福语有哪些？](https://www.zhihu.com/question/635837562)
 1. [欧盟委员会副主席博雷利称「乌弹药已耗尽，但我无能为力」，哪些信息值得关注？](https://www.zhihu.com/question/643596956)
+1. [今年过年又是光棍一个，看到父母失落我也感觉很歉疚，这种「耻感」从何而来？](https://www.zhihu.com/question/642870384)
+1. [如果过年回家要花费一个月的工资，你还会不会选择回家过年？](https://www.zhihu.com/question/642870408)
+1. [23-24 赛季 NBA掘金114:106湖人，约基奇24+13+9，詹姆斯最后时刻两分，如何评价？](https://www.zhihu.com/question/643705932)
 1. [你过年期间真的会多吃很多吗？吃胖了你怎么减肥？](https://www.zhihu.com/question/642004259)
 1. [苏州大学最新研究揭示国内支原体肺炎流行原因，主流菌株之一显示高耐药性，哪些信息值得关注？](https://www.zhihu.com/question/643611751)
 1. [如何看待“除夕晚会回忆杀”？7080后对儿时除夕晚会有哪些独家记忆？](https://www.zhihu.com/question/643652513)
 1. [证监会三天连发「新策」13 条，两融、严惩恶意做空等均有涉及，如何看待这些举措？将带来哪些影响？](https://www.zhihu.com/question/643238811)
 1. [如何一句话证明你是《英雄联盟》的老玩家？](https://www.zhihu.com/question/641827018)
 1. [过年期间有什么和孩子一起宅家就能做的娱乐活动？](https://www.zhihu.com/question/643655219)
-1. [今年过年又是光棍一个，看到父母失落我也感觉很歉疚，这种「耻感」从何而来？](https://www.zhihu.com/question/642870384)
 <!-- END ZHIHUQUESTIONS -->
 
 历史归档 [./archives/zhihu-questions](./archives/zhihu-questions)
@@ -181,7 +192,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Sat Feb 10 2024 02:15:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 10 2024 03:10:53 GMT+0800 (China Standard Time) -->
 1. [2024 年央视春晚中有哪些亮点？](https://www.zhihu.com/question/643771062)
 1. [如何评价刘谦在 2024 年春晚表演的魔术《守岁共此时》？](https://www.zhihu.com/question/643785170)
 1. [如何评价 2024 年龙年春晚沈腾、马丽、艾伦表演的小品《寒舍不寒》？](https://www.zhihu.com/question/643714155)
@@ -221,23 +232,24 @@
 1. [请问没有天赋的人不停的看小说不停的写，会有被认可的一天吗？](https://www.zhihu.com/question/639785972)
 1. [俄乌冲突以来西方记者首次采访普京，普京回应俄乌谈判停滞「泽连斯基禁止和谈」，哪些信息值得关注？](https://www.zhihu.com/question/643708495)
 1. [如何评价金霏、陈曦等在 2024 年春晚表演的相声《导演的「心事」》？](https://www.zhihu.com/question/643787504)
-1. [怎样给曾经的老师发新年祝福合适？](https://www.zhihu.com/question/642886261)
 1. [如何看待我朋友说的「付费 dlc，其本质上是另一种形式的内购」?](https://www.zhihu.com/question/643499074)
 1. [为什么武侠里没人写皇上才是真的武林高手?](https://www.zhihu.com/question/642706745)
+1. [怎样给曾经的老师发新年祝福合适？](https://www.zhihu.com/question/642886261)
 1. [逢年过节，哪些电信网络诈骗值得警惕？有什么识别诈骗的方法吗？](https://www.zhihu.com/question/641176523)
 1. [美财政部代表团被曝本周访华， 与中方进行「坦诚对话」，哪些信息值得关注？](https://www.zhihu.com/question/643235635)
 1. [有哪些适合新年发的文案？](https://www.zhihu.com/question/642722159)
-1. [23-24 赛季 NBA 掘金 114:106 湖人，约基奇 24+13+9，詹姆斯最后时刻两分，如何评价？](https://www.zhihu.com/question/643705932)
 1. [腾讯正开发《艾尔登法环》手游，你对该游戏有哪些期待？](https://www.zhihu.com/question/643238271)
 1. [龙年祝福语有哪些？](https://www.zhihu.com/question/635837562)
 1. [欧盟委员会副主席博雷利称「乌弹药已耗尽，但我无能为力」，哪些信息值得关注？](https://www.zhihu.com/question/643596956)
+1. [今年过年又是光棍一个，看到父母失落我也感觉很歉疚，这种「耻感」从何而来？](https://www.zhihu.com/question/642870384)
+1. [如果过年回家要花费一个月的工资，你还会不会选择回家过年？](https://www.zhihu.com/question/642870408)
+1. [23-24 赛季 NBA 掘金 114:106 湖人，约基奇 24+13+9，詹姆斯最后时刻两分，如何评价？](https://www.zhihu.com/question/643705932)
 1. [你过年期间真的会多吃很多吗？吃胖了你怎么减肥？](https://www.zhihu.com/question/642004259)
 1. [苏州大学最新研究揭示国内支原体肺炎流行原因，主流菌株之一显示高耐药性，哪些信息值得关注？](https://www.zhihu.com/question/643611751)
 1. [如何看待「除夕晚会回忆杀」？7080 后对儿时除夕晚会有哪些独家记忆？](https://www.zhihu.com/question/643652513)
 1. [证监会三天连发「新策」13 条，两融、严惩恶意做空等均有涉及，如何看待这些举措？将带来哪些影响？](https://www.zhihu.com/question/643238811)
 1. [如何一句话证明你是《英雄联盟》的老玩家？](https://www.zhihu.com/question/641827018)
 1. [过年期间有什么和孩子一起宅家就能做的娱乐活动？](https://www.zhihu.com/question/643655219)
-1. [今年过年又是光棍一个，看到父母失落我也感觉很歉疚，这种「耻感」从何而来？](https://www.zhihu.com/question/642870384)
 <!-- END ZHIHUVIDEO -->
 
 历史归档 [./archives/zhihu-video](./archives/zhihu-video)
@@ -245,7 +257,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Sat Feb 10 2024 02:15:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 10 2024 03:10:53 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
