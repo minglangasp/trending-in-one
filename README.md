@@ -24,57 +24,60 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Tue Nov 26 2024 04:18:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 26 2024 05:15:42 GMT+0800 (China Standard Time) -->
 1. [马斯克：现在还有傻子在生产F-35](https://so.toutiao.com/search?keyword=马斯克：现在还有傻子在生产F-35)
 1. [美媒：黎以就停火协议条款达成一致](https://so.toutiao.com/search?keyword=美媒：黎以就停火协议条款达成一致)
 1. [中国晒“双碳”工作成绩单](https://so.toutiao.com/search?keyword=中国晒“双碳”工作成绩单)
-1. [男子街头身穿白大褂用电锤给人治病](https://so.toutiao.com/search?keyword=男子街头身穿白大褂用电锤给人治病)
 1. [马科斯回应副总统称被害就找他算账](https://so.toutiao.com/search?keyword=马科斯回应副总统称被害就找他算账)
-1. [特朗普或令1.5万跨性别士兵退伍](https://so.toutiao.com/search?keyword=特朗普或令1.5万跨性别士兵退伍)
 1. [专家提醒买羽绒衣切莫图便宜](https://so.toutiao.com/search?keyword=专家提醒买羽绒衣切莫图便宜)
-1. [胖东来卫生巾区域人满为患](https://so.toutiao.com/search?keyword=胖东来卫生巾区域人满为患)
 1. [被俄俘获英国雇佣兵：做了愚蠢决定](https://so.toutiao.com/search?keyword=被俄俘获英国雇佣兵：做了愚蠢决定)
-1. [库克：没有中国就没现在的苹果](https://so.toutiao.com/search?keyword=库克：没有中国就没现在的苹果)
-1. [中方回应对日本试行30天免签](https://so.toutiao.com/search?keyword=中方回应对日本试行30天免签)
-1. [专家：榛树使用效果堪比战略武器](https://so.toutiao.com/search?keyword=专家：榛树使用效果堪比战略武器)
-1. [美议员：谁敢帮抓以领导人就制裁谁](https://so.toutiao.com/search?keyword=美议员：谁敢帮抓以领导人就制裁谁)
-1. [董宇辉不再担任与辉同行执行董事](https://so.toutiao.com/search?keyword=董宇辉不再担任与辉同行执行董事)
-1. [“贺州200多辆电动自行车被砸”不实](https://so.toutiao.com/search?keyword=“贺州200多辆电动自行车被砸”不实)
-1. [曝特朗普希望通过谈判结束俄乌冲突](https://so.toutiao.com/search?keyword=曝特朗普希望通过谈判结束俄乌冲突)
-1. [张本智和回应排名升至世界第3](https://so.toutiao.com/search?keyword=张本智和回应排名升至世界第3)
-1. [网传重庆一私家车撞上军用装甲车](https://so.toutiao.com/search?keyword=网传重庆一私家车撞上军用装甲车)
-1. [河南民企协会：为何不提胖东来高薪](https://so.toutiao.com/search?keyword=河南民企协会：为何不提胖东来高薪)
 1. [张本智和说最后一个球不知道往哪发](https://so.toutiao.com/search?keyword=张本智和说最后一个球不知道往哪发)
+1. [胖东来卫生巾区域人满为患](https://so.toutiao.com/search?keyword=胖东来卫生巾区域人满为患)
+1. [专家：榛树使用效果堪比战略武器](https://so.toutiao.com/search?keyword=专家：榛树使用效果堪比战略武器)
+1. [余承东官宣Mate70新功能](https://so.toutiao.com/search?keyword=余承东官宣Mate70新功能)
+1. [中方回应对日本试行30天免签](https://so.toutiao.com/search?keyword=中方回应对日本试行30天免签)
+1. [网传重庆一私家车撞上军用装甲车](https://so.toutiao.com/search?keyword=网传重庆一私家车撞上军用装甲车)
+1. [美议员：谁敢帮抓以领导人就制裁谁](https://so.toutiao.com/search?keyword=美议员：谁敢帮抓以领导人就制裁谁)
+1. [曝特朗普希望通过谈判结束俄乌冲突](https://so.toutiao.com/search?keyword=曝特朗普希望通过谈判结束俄乌冲突)
+1. [“贺州200多辆电动自行车被砸”不实](https://so.toutiao.com/search?keyword=“贺州200多辆电动自行车被砸”不实)
+1. [库克：没有中国就没现在的苹果](https://so.toutiao.com/search?keyword=库克：没有中国就没现在的苹果)
+1. [张本智和回应排名升至世界第3](https://so.toutiao.com/search?keyword=张本智和回应排名升至世界第3)
+1. [特朗普或令1.5万跨性别士兵退伍](https://so.toutiao.com/search?keyword=特朗普或令1.5万跨性别士兵退伍)
 1. [俄方：法国相关决定正在终结乌克兰](https://so.toutiao.com/search?keyword=俄方：法国相关决定正在终结乌克兰)
-1. [宝宝摔跤不肯起 太爷爷直接踢出去](https://so.toutiao.com/search?keyword=宝宝摔跤不肯起+太爷爷直接踢出去)
-1. [张本智和说只考虑和妹妹配合混双](https://so.toutiao.com/search?keyword=张本智和说只考虑和妹妹配合混双)
-1. [专家：中国面对特朗普2.0应更自信](https://so.toutiao.com/search?keyword=专家：中国面对特朗普2.0应更自信)
-1. [美军司令称美不应过度关注台湾地区](https://so.toutiao.com/search?keyword=美军司令称美不应过度关注台湾地区)
-1. [前“反腐书记”陈行甲乘网约车被认出](https://so.toutiao.com/search?keyword=前“反腐书记”陈行甲乘网约车被认出)
-1. [媒体：天真于东来 得罪“丈母娘们”](https://so.toutiao.com/search?keyword=媒体：天真于东来+得罪“丈母娘们”)
-1. [美媒高调批F-35“七宗罪”](https://so.toutiao.com/search?keyword=美媒高调批F-35“七宗罪”)
-1. [外媒拍到特朗普与妻儿在餐厅用餐](https://so.toutiao.com/search?keyword=外媒拍到特朗普与妻儿在餐厅用餐)
 1. [立陶宛寻求修复对华关系？中方回应](https://so.toutiao.com/search?keyword=立陶宛寻求修复对华关系？中方回应)
-1. [黄仁勋陈茂波等在香港吃大排档](https://so.toutiao.com/search?keyword=黄仁勋陈茂波等在香港吃大排档)
+1. [张本智和说只考虑和妹妹配合混双](https://so.toutiao.com/search?keyword=张本智和说只考虑和妹妹配合混双)
+1. [男子街头身穿白大褂用电锤给人治病](https://so.toutiao.com/search?keyword=男子街头身穿白大褂用电锤给人治病)
+1. [外交部回应中国船只停在丹麦瑞典间](https://so.toutiao.com/search?keyword=外交部回应中国船只停在丹麦瑞典间)
+1. [河南民企协会：为何不提胖东来高薪](https://so.toutiao.com/search?keyword=河南民企协会：为何不提胖东来高薪)
+1. [前“反腐书记”陈行甲乘网约车被认出](https://so.toutiao.com/search?keyword=前“反腐书记”陈行甲乘网约车被认出)
+1. [美媒高调批F-35“七宗罪”](https://so.toutiao.com/search?keyword=美媒高调批F-35“七宗罪”)
+1. [媒体：天真于东来 得罪“丈母娘们”](https://so.toutiao.com/search?keyword=媒体：天真于东来+得罪“丈母娘们”)
+1. [专家：中国面对特朗普2.0应更自信](https://so.toutiao.com/search?keyword=专家：中国面对特朗普2.0应更自信)
 1. [江苏南通通报羽绒被“以丝代绒”](https://so.toutiao.com/search?keyword=江苏南通通报羽绒被“以丝代绒”)
 1. [俄一发炸弹把乌克兰的矿都炸出来了](https://so.toutiao.com/search?keyword=俄一发炸弹把乌克兰的矿都炸出来了)
-1. [丈夫当着孩子面家暴妻子被警方带走](https://so.toutiao.com/search?keyword=丈夫当着孩子面家暴妻子被警方带走)
-1. [男子被举报私生活混乱 柳州联通回应](https://so.toutiao.com/search?keyword=男子被举报私生活混乱+柳州联通回应)
 1. [云南博主分享农村“野味”生活](https://so.toutiao.com/search?keyword=云南博主分享农村“野味”生活)
-1. [女子发现家门锁被贴上“磁铁”](https://so.toutiao.com/search?keyword=女子发现家门锁被贴上“磁铁”)
-1. [外交部回应中国船只停在丹麦瑞典间](https://so.toutiao.com/search?keyword=外交部回应中国船只停在丹麦瑞典间)
-1. [俄称乌军发射多枚导弹袭击俄边境州](https://so.toutiao.com/search?keyword=俄称乌军发射多枚导弹袭击俄边境州)
-1. [余承东官宣Mate70新功能](https://so.toutiao.com/search?keyword=余承东官宣Mate70新功能)
-1. [上海市监部门回应“一份白粥200元”](https://so.toutiao.com/search?keyword=上海市监部门回应“一份白粥200元”)
-1. [美以台为借口拟在日菲部署导弹部队](https://so.toutiao.com/search?keyword=美以台为借口拟在日菲部署导弹部队)
-1. [“肇事”的野猪都在哪里出没](https://so.toutiao.com/search?keyword=“肇事”的野猪都在哪里出没)
-1. [特斯拉能靠降价挽回销量吗](https://so.toutiao.com/search?keyword=特斯拉能靠降价挽回销量吗)
+1. [丈夫当着孩子面家暴妻子被警方带走](https://so.toutiao.com/search?keyword=丈夫当着孩子面家暴妻子被警方带走)
+1. [美军司令称美不应过度关注台湾地区](https://so.toutiao.com/search?keyword=美军司令称美不应过度关注台湾地区)
+1. [外媒拍到特朗普与妻儿在餐厅用餐](https://so.toutiao.com/search?keyword=外媒拍到特朗普与妻儿在餐厅用餐)
 1. [伊朗最高领袖称以领导人应被判死刑](https://so.toutiao.com/search?keyword=伊朗最高领袖称以领导人应被判死刑)
-1. [美国商家为应对贸易战开启囤货模式](https://so.toutiao.com/search?keyword=美国商家为应对贸易战开启囤货模式)
 1. [国家烟草专卖局原局长凌成兴被公诉](https://so.toutiao.com/search?keyword=国家烟草专卖局原局长凌成兴被公诉)
-1. [货拉拉回应“保时捷事件”：资助司机](https://so.toutiao.com/search?keyword=货拉拉回应“保时捷事件”：资助司机)
-1. [菲总统安全指挥部：加强保护马科斯](https://so.toutiao.com/search?keyword=菲总统安全指挥部：加强保护马科斯)
+1. [挪威一医生20年性侵87名患者并录像](https://so.toutiao.com/search?keyword=挪威一医生20年性侵87名患者并录像)
+1. [美以台为借口拟在日菲部署导弹部队](https://so.toutiao.com/search?keyword=美以台为借口拟在日菲部署导弹部队)
 1. [日媒：王楚钦是张本无法逾越的高墙](https://so.toutiao.com/search?keyword=日媒：王楚钦是张本无法逾越的高墙)
+1. [宝宝摔跤不肯起 太爷爷直接踢出去](https://so.toutiao.com/search?keyword=宝宝摔跤不肯起+太爷爷直接踢出去)
+1. [“肇事”的野猪都在哪里出没](https://so.toutiao.com/search?keyword=“肇事”的野猪都在哪里出没)
+1. [美新对华出口限制将公布？中方回应](https://so.toutiao.com/search?keyword=美新对华出口限制将公布？中方回应)
+1. [特斯拉能靠降价挽回销量吗](https://so.toutiao.com/search?keyword=特斯拉能靠降价挽回销量吗)
+1. [俄称乌军发射多枚导弹袭击俄边境州](https://so.toutiao.com/search?keyword=俄称乌军发射多枚导弹袭击俄边境州)
+1. [菲总统安全指挥部：加强保护马科斯](https://so.toutiao.com/search?keyword=菲总统安全指挥部：加强保护马科斯)
+1. [女子发现家门锁被贴上“磁铁”](https://so.toutiao.com/search?keyword=女子发现家门锁被贴上“磁铁”)
+1. [货拉拉回应“保时捷事件”：资助司机](https://so.toutiao.com/search?keyword=货拉拉回应“保时捷事件”：资助司机)
+1. [上海市监部门回应“一份白粥200元”](https://so.toutiao.com/search?keyword=上海市监部门回应“一份白粥200元”)
+1. [专家：俄乌双方已达高度疲劳状态](https://so.toutiao.com/search?keyword=专家：俄乌双方已达高度疲劳状态)
+1. [男子被举报私生活混乱 柳州联通回应](https://so.toutiao.com/search?keyword=男子被举报私生活混乱+柳州联通回应)
+1. [董宇辉不再担任与辉同行执行董事](https://so.toutiao.com/search?keyword=董宇辉不再担任与辉同行执行董事)
+1. [黄仁勋陈茂波等在香港吃大排档](https://so.toutiao.com/search?keyword=黄仁勋陈茂波等在香港吃大排档)
+1. [美国商家为应对贸易战开启囤货模式](https://so.toutiao.com/search?keyword=美国商家为应对贸易战开启囤货模式)
 1. [胖东来：目前无自营卫生巾](https://so.toutiao.com/search?keyword=胖东来：目前无自营卫生巾)
 1. [富家千金2.8亿买下父亲公司股份](https://so.toutiao.com/search?keyword=富家千金2.8亿买下父亲公司股份)
 1. [驻塞尔维亚使馆提醒中国公民文明出行](https://so.toutiao.com/search?keyword=驻塞尔维亚使馆提醒中国公民文明出行)
@@ -91,7 +94,6 @@
 1. [丹顶鹤淡定走进居民家中讨鱼吃](https://so.toutiao.com/search?keyword=丹顶鹤淡定走进居民家中讨鱼吃)
 1. [广西侦破一特大跨境偷渡案](https://so.toutiao.com/search?keyword=广西侦破一特大跨境偷渡案)
 1. [市民找猫时发现一车猫狗 多人救助](https://so.toutiao.com/search?keyword=市民找猫时发现一车猫狗+多人救助)
-1. [挪威一医生20年性侵87名患者并录像](https://so.toutiao.com/search?keyword=挪威一医生20年性侵87名患者并录像)
 1. [女子称新毛衣机洗后缩水变童装](https://so.toutiao.com/search?keyword=女子称新毛衣机洗后缩水变童装)
 1. [哈尔滨“讨好型市格”已就位](https://so.toutiao.com/search?keyword=哈尔滨“讨好型市格”已就位)
 <!-- END TOUTIAO -->
@@ -101,7 +103,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Tue Nov 26 2024 04:18:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 26 2024 05:15:42 GMT+0800 (China Standard Time) -->
 1. [王曼昱女单冠军](https://www.zhihu.com/search?q=王曼昱女单冠军)
 1. [德云社纲丝节](https://www.zhihu.com/search?q=德云社纲丝节)
 1. [掘金vs湖人](https://www.zhihu.com/search?q=掘金vs湖人)
@@ -119,13 +121,13 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Tue Nov 26 2024 04:18:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 26 2024 05:15:42 GMT+0800 (China Standard Time) -->
 1. [中信建投发布研报称「中国房价有望在 2026 年前后止跌回稳」，怎样看待这一预测？影响因素有哪些？](https://www.zhihu.com/question/5073499722)
-1. [为什么乒乓球遮球观众都看出来了，而选手还是肆无忌惮的遮？如果遮球不算犯规，选手能不能都去练遮球？](https://www.zhihu.com/question/5022410879)
-1. [小米高管发文称「雷军一条视频拯救了一家辣酱企业」，具体情况如何？如何评价雷军的带货能力？](https://www.zhihu.com/question/4864262553)
 1. [网易云音乐要求 QQ 音乐立即停止剽窃式「创新」，如何看待此事？此次公开喊话会对双方品牌造成什么影响？](https://www.zhihu.com/question/5081019711)
+1. [为什么乒乓球遮球观众都看出来了，而选手还是肆无忌惮的遮？如果遮球不算犯规，选手能不能都去练遮球？](https://www.zhihu.com/question/5022410879)
 1. [冰雪大世界糖葫芦摊位 100 万元起拍，这个价位的摊位费合理吗？游客购买糖葫芦会不会更贵？](https://www.zhihu.com/question/5065843720)
 1. [如果你对肉铺老板说“来十斤瘦肉，不要半点肥的在上面，细细切做臊子”，老板会是什么反应？](https://www.zhihu.com/question/4411719772)
+1. [小米高管发文称「雷军一条视频拯救了一家辣酱企业」，具体情况如何？如何评价雷军的带货能力？](https://www.zhihu.com/question/4864262553)
 1. [为什么中国搞不出像"阿贾克斯""拉玛西亚"这样类似的青训营？](https://www.zhihu.com/question/4953432893)
 1. [宙斯离开T1，多兰加入，明年T1在LCK能不能拿一个联赛冠军?](https://www.zhihu.com/question/4902576932)
 1. [为什么F35机肚子凹凸不平？](https://www.zhihu.com/question/4694268387)
@@ -142,10 +144,10 @@
 1. [职场中上级领导从专业到管理等都很菜的情况下你该怎样应对？](https://www.zhihu.com/question/4942468887)
 1. [如何看待最新发布的 OPPO Reno13系列，超美小「OPhone」有哪些变化值得关注？](https://www.zhihu.com/question/5068797239)
 1. [缅北规模化电诈园区全部被铲除，763 名在缅中国籍嫌犯移交我方，哪些信息值得关注？](https://www.zhihu.com/question/4757292409)
-1. [我们看天上的太阳是8分钟前的太阳，还是此时的太阳？如果是8分钟前的，那么是否代表我们可以亲眼看到历史？](https://www.zhihu.com/question/614860173)
 1. [如何看待「处理情绪背后的需求，而非情绪本身」这句话？你觉得麦琳「情绪失控」背后隐藏的内心需求是什么？](https://www.zhihu.com/question/3951667619)
-1. [吐槽 00 后找不到工作，800 万粉丝网红羊毛月道歉，如何评价他的言行？](https://www.zhihu.com/question/4986743647)
+1. [我们看天上的太阳是8分钟前的太阳，还是此时的太阳？如果是8分钟前的，那么是否代表我们可以亲眼看到历史？](https://www.zhihu.com/question/614860173)
 1. [如何评价《原神》玛薇卡立绘？](https://www.zhihu.com/question/5078581100)
+1. [吐槽 00 后找不到工作，800 万粉丝网红羊毛月道歉，如何评价他的言行？](https://www.zhihu.com/question/4986743647)
 1. [为什么有人觉得《赛博朋克2077》不赛博朋克？](https://www.zhihu.com/question/436950342)
 1. [如何评价俄罗斯最新公开的“榛树”中程高超音速导弹？](https://www.zhihu.com/question/4783111946)
 1. [体制内，办公室副主任，下属不听指挥，怎么办？](https://www.zhihu.com/question/2987119708)
@@ -176,13 +178,13 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Tue Nov 26 2024 04:18:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 26 2024 05:15:42 GMT+0800 (China Standard Time) -->
 1. [中信建投发布研报称「中国房价有望在 2026 年前后止跌回稳」，怎样看待这一预测？影响因素有哪些？](https://www.zhihu.com/question/5073499722)
-1. [为什么乒乓球遮球观众都看出来了，而选手还是肆无忌惮的遮？如果遮球不算犯规，选手能不能都去练遮球？](https://www.zhihu.com/question/5022410879)
-1. [小米高管发文称「雷军一条视频拯救了一家辣酱企业」，具体情况如何？如何评价雷军的带货能力？](https://www.zhihu.com/question/4864262553)
 1. [网易云音乐要求 QQ 音乐立即停止剽窃式「创新」，如何看待此事？此次公开喊话会对双方品牌造成什么影响？](https://www.zhihu.com/question/5081019711)
+1. [为什么乒乓球遮球观众都看出来了，而选手还是肆无忌惮的遮？如果遮球不算犯规，选手能不能都去练遮球？](https://www.zhihu.com/question/5022410879)
 1. [冰雪大世界糖葫芦摊位 100 万元起拍，这个价位的摊位费合理吗？游客购买糖葫芦会不会更贵？](https://www.zhihu.com/question/5065843720)
 1. [如果你对肉铺老板说「来十斤瘦肉，不要半点肥的在上面，细细切做臊子」，老板会是什么反应？](https://www.zhihu.com/question/4411719772)
+1. [小米高管发文称「雷军一条视频拯救了一家辣酱企业」，具体情况如何？如何评价雷军的带货能力？](https://www.zhihu.com/question/4864262553)
 1. [为什么中国搞不出像 「 阿贾克斯 」「 拉玛西亚 」 这样类似的青训营？](https://www.zhihu.com/question/4953432893)
 1. [宙斯离开 T1，多兰加入，明年 T1 在 LCK 能不能拿一个联赛冠军?](https://www.zhihu.com/question/4902576932)
 1. [为什么 F35 机肚子凹凸不平？](https://www.zhihu.com/question/4694268387)
@@ -199,10 +201,10 @@
 1. [职场中上级领导从专业到管理等都很菜的情况下你该怎样应对？](https://www.zhihu.com/question/4942468887)
 1. [如何看待最新发布的 OPPO Reno13 系列，超美小「OPhone」有哪些变化值得关注？](https://www.zhihu.com/question/5068797239)
 1. [缅北规模化电诈园区全部被铲除，763 名在缅中国籍嫌犯移交我方，哪些信息值得关注？](https://www.zhihu.com/question/4757292409)
-1. [我们看天上的太阳是 8 分钟前的太阳，还是此时的太阳？如果是 8 分钟前的，那么是否代表我们可以亲眼看到历史？](https://www.zhihu.com/question/614860173)
 1. [如何看待「处理情绪背后的需求，而非情绪本身」这句话？你觉得麦琳「情绪失控」背后隐藏的内心需求是什么？](https://www.zhihu.com/question/3951667619)
-1. [吐槽 00 后找不到工作，800 万粉丝网红羊毛月道歉，如何评价他的言行？](https://www.zhihu.com/question/4986743647)
+1. [我们看天上的太阳是 8 分钟前的太阳，还是此时的太阳？如果是 8 分钟前的，那么是否代表我们可以亲眼看到历史？](https://www.zhihu.com/question/614860173)
 1. [如何评价《原神》玛薇卡立绘？](https://www.zhihu.com/question/5078581100)
+1. [吐槽 00 后找不到工作，800 万粉丝网红羊毛月道歉，如何评价他的言行？](https://www.zhihu.com/question/4986743647)
 1. [为什么有人觉得《赛博朋克 2077》不赛博朋克？](https://www.zhihu.com/question/436950342)
 1. [如何评价俄罗斯最新公开的「榛树」中程高超音速导弹？](https://www.zhihu.com/question/4783111946)
 1. [体制内，办公室副主任，下属不听指挥，怎么办？](https://www.zhihu.com/question/2987119708)
@@ -233,7 +235,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Tue Nov 26 2024 04:18:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 26 2024 05:15:42 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
