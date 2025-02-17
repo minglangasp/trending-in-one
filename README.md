@@ -24,58 +24,64 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Tue Feb 18 2025 05:14:13 GMT+0800 (China Standard Time) -->
-1. [哪吒2冲击全球动画票房榜第一](https://so.toutiao.com/search?keyword=哪吒2冲击全球动画票房榜第一)
+<!-- 最后更新时间 Tue Feb 18 2025 06:14:23 GMT+0800 (China Standard Time) -->
 1. [出席座谈会的企业家阵容为何受关注](https://so.toutiao.com/search?keyword=出席座谈会的企业家阵容为何受关注)
+1. [哪吒2冲击全球动画票房榜第一](https://so.toutiao.com/search?keyword=哪吒2冲击全球动画票房榜第一)
 1. [春耕开启“高效飞行模式”](https://so.toutiao.com/search?keyword=春耕开启“高效飞行模式”)
+1. [大妈强硬拦婚车 拿砖头砸车头](https://so.toutiao.com/search?keyword=大妈强硬拦婚车+拿砖头砸车头)
 1. [《哪吒2》进入全球影史票房前9](https://so.toutiao.com/search?keyword=《哪吒2》进入全球影史票房前9)
 1. [国务院原副总理邹家华逝世 享年99岁](https://so.toutiao.com/search?keyword=国务院原副总理邹家华逝世+享年99岁)
-1. [大妈强硬拦婚车 拿砖头砸车头](https://so.toutiao.com/search?keyword=大妈强硬拦婚车+拿砖头砸车头)
-1. [面对俄乌和谈的巨大争议美方改口了](https://so.toutiao.com/search?keyword=面对俄乌和谈的巨大争议美方改口了)
 1. [中美俄派出军舰共同参加联合军演](https://so.toutiao.com/search?keyword=中美俄派出军舰共同参加联合军演)
-1. [哪吒2海外排片量破纪录](https://so.toutiao.com/search?keyword=哪吒2海外排片量破纪录)
+1. [哪吒敖丙听到票房120亿的反应](https://so.toutiao.com/search?keyword=哪吒敖丙听到票房120亿的反应)
 1. [胖东来红内裤事件品牌方线上走红](https://so.toutiao.com/search?keyword=胖东来红内裤事件品牌方线上走红)
+1. [面对俄乌和谈的巨大争议美方改口了](https://so.toutiao.com/search?keyword=面对俄乌和谈的巨大争议美方改口了)
 1. [DeepSeek爆火 有人动起了歪脑筋](https://so.toutiao.com/search?keyword=DeepSeek爆火+有人动起了歪脑筋)
 1. [DeepSeek公司高管发生变更](https://so.toutiao.com/search?keyword=DeepSeek公司高管发生变更)
 1. [轨道新线招司机年薪8-10万？假的](https://so.toutiao.com/search?keyword=轨道新线招司机年薪8-10万？假的)
-1. [哪吒敖丙听到票房120亿的反应](https://so.toutiao.com/search?keyword=哪吒敖丙听到票房120亿的反应)
-1. [马斯克牵头 美国裁减风暴愈演愈烈](https://so.toutiao.com/search?keyword=马斯克牵头+美国裁减风暴愈演愈烈)
-1. [东部战区回应加拿大军舰过航台海](https://so.toutiao.com/search?keyword=东部战区回应加拿大军舰过航台海)
-1. [女子病逝亲属争百万遗产 法院判了](https://so.toutiao.com/search?keyword=女子病逝亲属争百万遗产+法院判了)
+1. [哪吒2海外排片量破纪录](https://so.toutiao.com/search?keyword=哪吒2海外排片量破纪录)
 1. [“AI公务员”来了](https://so.toutiao.com/search?keyword=“AI公务员”来了)
-1. [微信满万人后可一次性删除单向好友](https://so.toutiao.com/search?keyword=微信满万人后可一次性删除单向好友)
+1. [女子病逝亲属争百万遗产 法院判了](https://so.toutiao.com/search?keyword=女子病逝亲属争百万遗产+法院判了)
+1. [东部战区回应加拿大军舰过航台海](https://so.toutiao.com/search?keyword=东部战区回应加拿大军舰过航台海)
+1. [马斯克牵头 美国裁减风暴愈演愈烈](https://so.toutiao.com/search?keyword=马斯克牵头+美国裁减风暴愈演愈烈)
 1. [四川筠连山体滑坡已造成10死19失联](https://so.toutiao.com/search?keyword=四川筠连山体滑坡已造成10死19失联)
-1. [江苏常州市委书记陈金虎被查](https://so.toutiao.com/search?keyword=江苏常州市委书记陈金虎被查)
-1. [奶狗被卡水泥地缝 消防出手救助](https://so.toutiao.com/search?keyword=奶狗被卡水泥地缝+消防出手救助)
-1. [乌克兰代表团抵达沙特](https://so.toutiao.com/search?keyword=乌克兰代表团抵达沙特)
 1. [媒体：马化腾巧借DeepSeek东风](https://so.toutiao.com/search?keyword=媒体：马化腾巧借DeepSeek东风)
-1. [韩国警方认为金赛纶是自杀](https://so.toutiao.com/search?keyword=韩国警方认为金赛纶是自杀)
-1. [两名乘客地铁上互殴被行拘](https://so.toutiao.com/search?keyword=两名乘客地铁上互殴被行拘)
-1. [DeepSeek崛起到底谁将受益](https://so.toutiao.com/search?keyword=DeepSeek崛起到底谁将受益)
-1. [专家：美国关税“三大棒”打疼盟友](https://so.toutiao.com/search?keyword=专家：美国关税“三大棒”打疼盟友)
-1. [女子拦截婚车要喜烟喜钱](https://so.toutiao.com/search?keyword=女子拦截婚车要喜烟喜钱)
+1. [江苏常州市委书记陈金虎被查](https://so.toutiao.com/search?keyword=江苏常州市委书记陈金虎被查)
 1. [DeepSeek推动中国资产重估](https://so.toutiao.com/search?keyword=DeepSeek推动中国资产重估)
 1. [德国总理候选人称面对美国不能卑微](https://so.toutiao.com/search?keyword=德国总理候选人称面对美国不能卑微)
-1. [胡锡进：做美国盟友真悲惨](https://so.toutiao.com/search?keyword=胡锡进：做美国盟友真悲惨)
-1. [印度男子强暴妻子致死被改判无罪](https://so.toutiao.com/search?keyword=印度男子强暴妻子致死被改判无罪)
-1. [泽连斯基拒绝美狮子大开口有何意味](https://so.toutiao.com/search?keyword=泽连斯基拒绝美狮子大开口有何意味)
-1. [哪吒2票房破120亿](https://so.toutiao.com/search?keyword=哪吒2票房破120亿)
-1. [美国务院网站删去不支持台独表述](https://so.toutiao.com/search?keyword=美国务院网站删去不支持台独表述)
-1. [媒体：韩国明星为何频频想不开](https://so.toutiao.com/search?keyword=媒体：韩国明星为何频频想不开)
-1. [微信接入Deepseek对用户有哪些影响](https://so.toutiao.com/search?keyword=微信接入Deepseek对用户有哪些影响)
-1. [美国人被哪吒2震撼竖起大拇指](https://so.toutiao.com/search?keyword=美国人被哪吒2震撼竖起大拇指)
+1. [女子拦截婚车要喜烟喜钱](https://so.toutiao.com/search?keyword=女子拦截婚车要喜烟喜钱)
 1. [元斌在金赛纶灵堂擦眼泪](https://so.toutiao.com/search?keyword=元斌在金赛纶灵堂擦眼泪)
-1. [曹兴诚被曝出轨小自己40岁的小三](https://so.toutiao.com/search?keyword=曹兴诚被曝出轨小自己40岁的小三)
+1. [微信满万人后可一次性删除单向好友](https://so.toutiao.com/search?keyword=微信满万人后可一次性删除单向好友)
+1. [两名乘客地铁上互殴被行拘](https://so.toutiao.com/search?keyword=两名乘客地铁上互殴被行拘)
+1. [“最酷爷爷”王德顺：85岁学开飞机](https://so.toutiao.com/search?keyword=“最酷爷爷”王德顺：85岁学开飞机)
+1. [DeepSeek崛起到底谁将受益](https://so.toutiao.com/search?keyword=DeepSeek崛起到底谁将受益)
+1. [影院回应支持哪吒2暂不排片美队4](https://so.toutiao.com/search?keyword=影院回应支持哪吒2暂不排片美队4)
 1. [男子用黄金打了口70万的锅拿来涮锅](https://so.toutiao.com/search?keyword=男子用黄金打了口70万的锅拿来涮锅)
-1. [美政府紧急召回一批辞退员工](https://so.toutiao.com/search?keyword=美政府紧急召回一批辞退员工)
-1. [传京东6800底薪招外卖员 知情人回应](https://so.toutiao.com/search?keyword=传京东6800底薪招外卖员+知情人回应)
-1. [DeepSeek实习生月薪破万元](https://so.toutiao.com/search?keyword=DeepSeek实习生月薪破万元)
+1. [评论员：主权AI对南方国家遥不可及](https://so.toutiao.com/search?keyword=评论员：主权AI对南方国家遥不可及)
+1. [印度男子强暴妻子致死被改判无罪](https://so.toutiao.com/search?keyword=印度男子强暴妻子致死被改判无罪)
 1. [赵丽颖分享现场侧记live图](https://so.toutiao.com/search?keyword=赵丽颖分享现场侧记live图)
+1. [DeepSeek实习生月薪破万元](https://so.toutiao.com/search?keyword=DeepSeek实习生月薪破万元)
+1. [微信接入Deepseek对用户有哪些影响](https://so.toutiao.com/search?keyword=微信接入Deepseek对用户有哪些影响)
+1. [媒体：韩国明星为何频频想不开](https://so.toutiao.com/search?keyword=媒体：韩国明星为何频频想不开)
+1. [妈妈在高速路边停车下车打孩子](https://so.toutiao.com/search?keyword=妈妈在高速路边停车下车打孩子)
+1. [大厂拥抱DeepSeek 自家大模型去哪了](https://so.toutiao.com/search?keyword=大厂拥抱DeepSeek+自家大模型去哪了)
+1. [曹兴诚被曝出轨小自己40岁的小三](https://so.toutiao.com/search?keyword=曹兴诚被曝出轨小自己40岁的小三)
+1. [孩子意外落井 父亲下井救娃](https://so.toutiao.com/search?keyword=孩子意外落井+父亲下井救娃)
+1. [美政府紧急召回一批辞退员工](https://so.toutiao.com/search?keyword=美政府紧急召回一批辞退员工)
+1. [泽连斯基拒绝美狮子大开口有何意味](https://so.toutiao.com/search?keyword=泽连斯基拒绝美狮子大开口有何意味)
+1. [奥迪Q7推一口价45.99万起](https://so.toutiao.com/search?keyword=奥迪Q7推一口价45.99万起)
+1. [美国务院网站删去不支持台独表述](https://so.toutiao.com/search?keyword=美国务院网站删去不支持台独表述)
+1. [乌克兰代表团抵达沙特](https://so.toutiao.com/search?keyword=乌克兰代表团抵达沙特)
+1. [DeepSeek能否影响光刻机的销量](https://so.toutiao.com/search?keyword=DeepSeek能否影响光刻机的销量)
+1. [周鸿祎就送车活动道歉](https://so.toutiao.com/search?keyword=周鸿祎就送车活动道歉)
+1. [奶狗被卡水泥地缝 消防出手救助](https://so.toutiao.com/search?keyword=奶狗被卡水泥地缝+消防出手救助)
+1. [传京东6800底薪招外卖员 知情人回应](https://so.toutiao.com/search?keyword=传京东6800底薪招外卖员+知情人回应)
+1. [韩国警方认为金赛纶是自杀](https://so.toutiao.com/search?keyword=韩国警方认为金赛纶是自杀)
+1. [专家：美国关税“三大棒”打疼盟友](https://so.toutiao.com/search?keyword=专家：美国关税“三大棒”打疼盟友)
+1. [胡锡进：做美国盟友真悲惨](https://so.toutiao.com/search?keyword=胡锡进：做美国盟友真悲惨)
+1. [哪吒2票房破120亿](https://so.toutiao.com/search?keyword=哪吒2票房破120亿)
+1. [美国人被哪吒2震撼竖起大拇指](https://so.toutiao.com/search?keyword=美国人被哪吒2震撼竖起大拇指)
 1. [学者谈美F-35B战机在转场途中坠毁](https://so.toutiao.com/search?keyword=学者谈美F-35B战机在转场途中坠毁)
 1. [曝美希望俄乌在2025年复活节前停火](https://so.toutiao.com/search?keyword=曝美希望俄乌在2025年复活节前停火)
-1. [孩子意外落井 父亲下井救娃](https://so.toutiao.com/search?keyword=孩子意外落井+父亲下井救娃)
-1. [大厂拥抱DeepSeek 自家大模型去哪了](https://so.toutiao.com/search?keyword=大厂拥抱DeepSeek+自家大模型去哪了)
-1. [影院回应支持哪吒2暂不排片美队4](https://so.toutiao.com/search?keyword=影院回应支持哪吒2暂不排片美队4)
 1. [腾讯市值一度暴涨3000亿](https://so.toutiao.com/search?keyword=腾讯市值一度暴涨3000亿)
 1. [以方称事先知道特朗普接管加沙计划](https://so.toutiao.com/search?keyword=以方称事先知道特朗普接管加沙计划)
 1. [专家：美欧矛盾已全面暴露](https://so.toutiao.com/search?keyword=专家：美欧矛盾已全面暴露)
@@ -104,7 +110,6 @@
 1. [女子欲跳江 两名“女英雄”将其救下](https://so.toutiao.com/search?keyword=女子欲跳江+两名“女英雄”将其救下)
 1. [45万元的奥迪Q7硬刚问界M9](https://so.toutiao.com/search?keyword=45万元的奥迪Q7硬刚问界M9)
 1. [饺子导演名字的由来](https://so.toutiao.com/search?keyword=饺子导演名字的由来)
-1. [妈妈在高速路边停车下车打孩子](https://so.toutiao.com/search?keyword=妈妈在高速路边停车下车打孩子)
 1. [宇树机器人算法升级 可流畅跳舞](https://so.toutiao.com/search?keyword=宇树机器人算法升级+可流畅跳舞)
 1. [美国男子杀害华裔妻子被判终身监禁](https://so.toutiao.com/search?keyword=美国男子杀害华裔妻子被判终身监禁)
 <!-- END TOUTIAO -->
@@ -114,7 +119,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Tue Feb 18 2025 05:14:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 18 2025 06:14:23 GMT+0800 (China Standard Time) -->
 1. [黄金价格大跳水](https://www.zhihu.com/search?q=黄金价格大跳水)
 1. [小说推文](https://www.zhihu.com/search?q=小说推文)
 1. [nba全明星三分大赛](https://www.zhihu.com/search?q=nba全明星三分大赛)
@@ -134,7 +139,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Tue Feb 18 2025 05:14:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 18 2025 06:14:23 GMT+0800 (China Standard Time) -->
 1. [中央时隔 6 年 3 个月再度召开民营企业座谈会，任正非、马云、王兴兴等企业家参会，释放了什么信号？](https://www.zhihu.com/question/12490430520)
 1. [如何看待江苏华设一中层员工在群里发言「无颜面对工资2490的员工」？](https://www.zhihu.com/question/12448178795)
 1. [北京卫视重播《甄嬛传》，余答应戏份已删除，这种「连坐」处理方式真的合适吗？这一情况有无更好处理办法？](https://www.zhihu.com/question/12340177867)
@@ -151,8 +156,8 @@
 1. [如何评价作家李娟对打螺丝这一工作的感受？](https://www.zhihu.com/question/12270739293)
 1. [服饰产业链外迁成为趋势，对出海企业而言需要关注哪些问题？](https://www.zhihu.com/question/12404955796)
 1. [我国为什么放弃了5.8mm手枪弹？](https://www.zhihu.com/question/11665887611)
-1. [雷军近期表示「去健身房健身是运动效率最高的方式」，如何评价这个观点？](https://www.zhihu.com/question/12348032715)
 1. [让建筑历久弥新的「保鲜秘籍」，你知道哪些？](https://www.zhihu.com/question/9397665933)
+1. [雷军近期表示「去健身房健身是运动效率最高的方式」，如何评价这个观点？](https://www.zhihu.com/question/12348032715)
 1. [体制内想混下去，混得好，是靠关系还是能力？](https://www.zhihu.com/question/11693281488)
 1. [北京发布中小学「体育八条」，三大球至少一项纳入必修，杜绝「不出汗」的体育课，有何重要意义？](https://www.zhihu.com/question/12466174791)
 1. [给你一碗白米饭，只能配一个菜，你会配什么？](https://www.zhihu.com/question/622742015)
@@ -161,10 +166,12 @@
 1. [你们家常吃的菜是什么?](https://www.zhihu.com/question/622428208)
 1. [新能源车的智能驾驶目前发展到什么程度了？你有哪些记忆深刻的智驾体验？](https://www.zhihu.com/question/8289466792)
 1. [腾讯回应微信接入 DeepSeek「灰度测试中」，将带来哪些影响？](https://www.zhihu.com/question/12417568933)
-1. [面试的时候被面试官问「看了你的学历是普通本科，想问下对比 985 的面试者，你强在哪里？」该如何回复？](https://www.zhihu.com/question/12099889316)
 1. [本人想买一套国产功放＋一对国产音箱，大神有推荐吗？](https://www.zhihu.com/question/614765306)
-1. [你博士期间发表了几篇sci？](https://www.zhihu.com/question/609584104)
 1. [为什么想远离原生家庭，有时候却感到难过?](https://www.zhihu.com/question/660963910)
+1. [如何看BLG的教练Maokai复盘Bin在看手机？](https://www.zhihu.com/question/12408744361)
+1. [《三国志》里的甘宁是一个什么样的存在？](https://www.zhihu.com/question/29056948)
+1. [面试的时候被面试官问「看了你的学历是普通本科，想问下对比 985 的面试者，你强在哪里？」该如何回复？](https://www.zhihu.com/question/12099889316)
+1. [你博士期间发表了几篇sci？](https://www.zhihu.com/question/609584104)
 1. [老人在飞机上昏迷后离世，航司回应「客舱无医务人员，按程序实施了抢救」，乘客在航班上猝死责任该如何界定？](https://www.zhihu.com/question/12459100582)
 1. [东部战区回应加拿大舰艇过航台湾海峡，「坚决反制一切威胁挑衅」，如何解读加拿大此举？将带来哪些影响？](https://www.zhihu.com/question/12461026531)
 1. [《哪吒之魔童闹海》中申公豹的父亲为何会自断手臂？](https://www.zhihu.com/question/11211043972)
@@ -184,7 +191,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Tue Feb 18 2025 05:14:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 18 2025 06:14:23 GMT+0800 (China Standard Time) -->
 1. [中央时隔 6 年 3 个月再度召开民营企业座谈会，任正非、马云、王兴兴等企业家参会，释放了什么信号？](https://www.zhihu.com/question/12490430520)
 1. [如何看待江苏华设一中层员工在群里发言「无颜面对工资 2490 的员工」？](https://www.zhihu.com/question/12448178795)
 1. [北京卫视重播《甄嬛传》，余答应戏份已删除，这种「连坐」处理方式真的合适吗？这一情况有无更好处理办法？](https://www.zhihu.com/question/12340177867)
@@ -201,8 +208,8 @@
 1. [如何评价作家李娟对打螺丝这一工作的感受？](https://www.zhihu.com/question/12270739293)
 1. [服饰产业链外迁成为趋势，对出海企业而言需要关注哪些问题？](https://www.zhihu.com/question/12404955796)
 1. [我国为什么放弃了 5.8mm 手枪弹？](https://www.zhihu.com/question/11665887611)
-1. [雷军近期表示「去健身房健身是运动效率最高的方式」，如何评价这个观点？](https://www.zhihu.com/question/12348032715)
 1. [让建筑历久弥新的「保鲜秘籍」，你知道哪些？](https://www.zhihu.com/question/9397665933)
+1. [雷军近期表示「去健身房健身是运动效率最高的方式」，如何评价这个观点？](https://www.zhihu.com/question/12348032715)
 1. [体制内想混下去，混得好，是靠关系还是能力？](https://www.zhihu.com/question/11693281488)
 1. [北京发布中小学「体育八条」，三大球至少一项纳入必修，杜绝「不出汗」的体育课，有何重要意义？](https://www.zhihu.com/question/12466174791)
 1. [给你一碗白米饭，只能配一个菜，你会配什么？](https://www.zhihu.com/question/622742015)
@@ -211,10 +218,12 @@
 1. [你们家常吃的菜是什么?](https://www.zhihu.com/question/622428208)
 1. [新能源车的智能驾驶目前发展到什么程度了？你有哪些记忆深刻的智驾体验？](https://www.zhihu.com/question/8289466792)
 1. [腾讯回应微信接入 DeepSeek「灰度测试中」，将带来哪些影响？](https://www.zhihu.com/question/12417568933)
-1. [面试的时候被面试官问「看了你的学历是普通本科，想问下对比 985 的面试者，你强在哪里？」该如何回复？](https://www.zhihu.com/question/12099889316)
 1. [本人想买一套国产功放＋一对国产音箱，大神有推荐吗？](https://www.zhihu.com/question/614765306)
-1. [你博士期间发表了几篇 sci？](https://www.zhihu.com/question/609584104)
 1. [为什么想远离原生家庭，有时候却感到难过?](https://www.zhihu.com/question/660963910)
+1. [如何看 BLG 的教练 Maokai 复盘 Bin 在看手机？](https://www.zhihu.com/question/12408744361)
+1. [《三国志》里的甘宁是一个什么样的存在？](https://www.zhihu.com/question/29056948)
+1. [面试的时候被面试官问「看了你的学历是普通本科，想问下对比 985 的面试者，你强在哪里？」该如何回复？](https://www.zhihu.com/question/12099889316)
+1. [你博士期间发表了几篇 sci？](https://www.zhihu.com/question/609584104)
 1. [老人在飞机上昏迷后离世，航司回应「客舱无医务人员，按程序实施了抢救」，乘客在航班上猝死责任该如何界定？](https://www.zhihu.com/question/12459100582)
 1. [东部战区回应加拿大舰艇过航台湾海峡，「坚决反制一切威胁挑衅」，如何解读加拿大此举？将带来哪些影响？](https://www.zhihu.com/question/12461026531)
 1. [《哪吒之魔童闹海》中申公豹的父亲为何会自断手臂？](https://www.zhihu.com/question/11211043972)
@@ -234,7 +243,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Tue Feb 18 2025 05:14:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 18 2025 06:14:23 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
