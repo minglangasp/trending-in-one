@@ -24,7 +24,57 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Mon Mar 31 2025 02:21:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 31 2025 22:16:59 GMT+0800 (China Standard Time) -->
+1. [甲亢哥不剥皮直接吃路人递的耙耙柑](https://so.toutiao.com/search?keyword=甲亢哥不剥皮直接吃路人递的耙耙柑)
+1. [李嘉诚卖港口将被审查 外交部回应](https://so.toutiao.com/search?keyword=李嘉诚卖港口将被审查+外交部回应)
+1. [接下来 人间四月天](https://so.toutiao.com/search?keyword=接下来+人间四月天)
+1. [甲亢哥保镖从戒备到松弛](https://so.toutiao.com/search?keyword=甲亢哥保镖从戒备到松弛)
+1. [距深圳市约170公里发现1亿吨油田](https://so.toutiao.com/search?keyword=距深圳市约170公里发现1亿吨油田)
+1. [乌女子猛捶抓壮丁的警察欲夺回丈夫](https://so.toutiao.com/search?keyword=乌女子猛捶抓壮丁的警察欲夺回丈夫)
+1. [缅甸地震已致2056人死亡](https://so.toutiao.com/search?keyword=缅甸地震已致2056人死亡)
+1. [于东来打断永辉高管演讲：先活下来](https://so.toutiao.com/search?keyword=于东来打断永辉高管演讲：先活下来)
+1. [福建舰旁出现巨型“水花”是在干嘛](https://so.toutiao.com/search?keyword=福建舰旁出现巨型“水花”是在干嘛)
+1. [证券交易时间缩短30分钟为虚假消息](https://so.toutiao.com/search?keyword=证券交易时间缩短30分钟为虚假消息)
+1. [刘亦菲姚安娜现身西湖参加活动](https://so.toutiao.com/search?keyword=刘亦菲姚安娜现身西湖参加活动)
+1. [3月最牛A股大涨超130%](https://so.toutiao.com/search?keyword=3月最牛A股大涨超130%)
+1. [甲亢哥把茶当美式猛灌被烫出表情包](https://so.toutiao.com/search?keyword=甲亢哥把茶当美式猛灌被烫出表情包)
+1. [半个娱乐圈云集杭州参加活动](https://so.toutiao.com/search?keyword=半个娱乐圈云集杭州参加活动)
+1. [评论员：特朗普想发动两方面的战争](https://so.toutiao.com/search?keyword=评论员：特朗普想发动两方面的战争)
+1. [甲亢哥和田一名合唱](https://so.toutiao.com/search?keyword=甲亢哥和田一名合唱)
+1. [哪吒2距全球第4就差10亿了](https://so.toutiao.com/search?keyword=哪吒2距全球第4就差10亿了)
+1. [运20直降内比都军用机场有多硬核](https://so.toutiao.com/search?keyword=运20直降内比都军用机场有多硬核)
+1. [80后副区长沉溺物欲10年网贷781万](https://so.toutiao.com/search?keyword=80后副区长沉溺物欲10年网贷781万)
+1. [周庄古镇回应商户吐槽连续3天没生意](https://so.toutiao.com/search?keyword=周庄古镇回应商户吐槽连续3天没生意)
+1. [中国调度14颗卫星助力缅甸震后救援](https://so.toutiao.com/search?keyword=中国调度14颗卫星助力缅甸震后救援)
+1. [马斯克称火星将是美国的一部分](https://so.toutiao.com/search?keyword=马斯克称火星将是美国的一部分)
+1. [中医说甲亢哥从脉象来说非常健康](https://so.toutiao.com/search?keyword=中医说甲亢哥从脉象来说非常健康)
+1. [博主评《我的后半生》](https://so.toutiao.com/search?keyword=博主评《我的后半生》)
+1. [赴缅中国公羊救援队说现场非常糟糕](https://so.toutiao.com/search?keyword=赴缅中国公羊救援队说现场非常糟糕)
+1. [美国网红游中国 欧美网友齐破防](https://so.toutiao.com/search?keyword=美国网红游中国+欧美网友齐破防)
+1. [孟晚舟华为年报致辞](https://so.toutiao.com/search?keyword=孟晚舟华为年报致辞)
+1. [缅甸废墟突发巨响 救援队撤离时摔倒](https://so.toutiao.com/search?keyword=缅甸废墟突发巨响+救援队撤离时摔倒)
+1. [河南一枯井内发现近百位烈士遗骸](https://so.toutiao.com/search?keyword=河南一枯井内发现近百位烈士遗骸)
+1. [普京到底干了什么惹特朗普生气](https://so.toutiao.com/search?keyword=普京到底干了什么惹特朗普生气)
+1. [虞书欣杀青往导演头上泼水](https://so.toutiao.com/search?keyword=虞书欣杀青往导演头上泼水)
+1. [华为云2024年收入688亿元](https://so.toutiao.com/search?keyword=华为云2024年收入688亿元)
+1. [10元盒饭姐喊话浪费顾客一辈子别来](https://so.toutiao.com/search?keyword=10元盒饭姐喊话浪费顾客一辈子别来)
+1. [妻子给母亲转账122万 丈夫起诉返还](https://so.toutiao.com/search?keyword=妻子给母亲转账122万+丈夫起诉返还)
+1. [华为智能汽车解决方案业务实现盈利](https://so.toutiao.com/search?keyword=华为智能汽车解决方案业务实现盈利)
+1. [莫斯科公务车起火跟普京有关吗](https://so.toutiao.com/search?keyword=莫斯科公务车起火跟普京有关吗)
+1. [弟弟配合姐姐拍视频最后还被凶哭](https://so.toutiao.com/search?keyword=弟弟配合姐姐拍视频最后还被凶哭)
+1. [4月1日起这些区域禁止安装监控](https://so.toutiao.com/search?keyword=4月1日起这些区域禁止安装监控)
+1. [王文也答应男友求婚](https://so.toutiao.com/search?keyword=王文也答应男友求婚)
+1. [专家：特朗普第二版矿产协议太无耻](https://so.toutiao.com/search?keyword=专家：特朗普第二版矿产协议太无耻)
+1. [DeepSeek月访问量超ChatGPT](https://so.toutiao.com/search?keyword=DeepSeek月访问量超ChatGPT)
+1. [邹加怡被提名亚投行下任行长候选人](https://so.toutiao.com/search?keyword=邹加怡被提名亚投行下任行长候选人)
+1. [普京：愿意打一场百年战争](https://so.toutiao.com/search?keyword=普京：愿意打一场百年战争)
+1. [特朗普威胁轰炸伊朗 会全面开战吗](https://so.toutiao.com/search?keyword=特朗普威胁轰炸伊朗+会全面开战吗)
+1. [缅甸多家机场关闭 客运暂停](https://so.toutiao.com/search?keyword=缅甸多家机场关闭+客运暂停)
+1. [老师多次让学生砸手机手表 当地回应](https://so.toutiao.com/search?keyword=老师多次让学生砸手机手表+当地回应)
+1. [伊朗把导弹库存打空能否摧毁以色列](https://so.toutiao.com/search?keyword=伊朗把导弹库存打空能否摧毁以色列)
+1. [华为发债融资80亿元](https://so.toutiao.com/search?keyword=华为发债融资80亿元)
+1. [钟南山：剩饭剩菜别强吃](https://so.toutiao.com/search?keyword=钟南山：剩饭剩菜别强吃)
+1. [专家：特朗普放下繁文缛节在欧洲搞事](https://so.toutiao.com/search?keyword=专家：特朗普放下繁文缛节在欧洲搞事)
 1. [媒体：甲亢哥不仅让世界认识中国](https://so.toutiao.com/search?keyword=媒体：甲亢哥不仅让世界认识中国)
 1. [泰女子看到中国救援队赴缅：我要哭了](https://so.toutiao.com/search?keyword=泰女子看到中国救援队赴缅：我要哭了)
 1. [聚焦网络媒体的机遇与挑战](https://so.toutiao.com/search?keyword=聚焦网络媒体的机遇与挑战)
@@ -82,16 +132,19 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Mon Mar 31 2025 02:21:16 GMT+0800 (China Standard Time) -->
-1. [为什么只有中国饮食没有被西化](https://www.zhihu.com/search?q=为什么只有中国饮食没有被西化)
-1. [郑钦文0比2不敌萨巴伦卡](https://www.zhihu.com/search?q=郑钦文0比2不敌萨巴伦卡)
+<!-- 最后更新时间 Mon Mar 31 2025 22:16:59 GMT+0800 (China Standard Time) -->
+1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=你干过最牛的一件事是什么)
+1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=工业克苏鲁什么意思)
 1. [AI 给家电带来了什么](https://www.zhihu.com/search?q=AI 给家电带来了什么)
 1. [冷藏冷冻不串味的 AI 冰箱](https://www.zhihu.com/search?q=冷藏冷冻不串味的 AI 冰箱)
 1. [AWE 未来生活家](https://www.zhihu.com/search?q=AWE 未来生活家)
 1. [卷出新高度的 AI 家电](https://www.zhihu.com/search?q=卷出新高度的 AI 家电)
 1. [看见未来家](https://www.zhihu.com/search?q=看见未来家)
 1. [让家电回归工具本质](https://www.zhihu.com/search?q=让家电回归工具本质)
+1. [长的漂亮真的很有优势吗](https://www.zhihu.com/search?q=长的漂亮真的很有优势吗)
 1. [AI 能为家电带来哪些新功能](https://www.zhihu.com/search?q=AI 能为家电带来哪些新功能)
+1. [为什么只有中国饮食没有被西化](https://www.zhihu.com/search?q=为什么只有中国饮食没有被西化)
+1. [郑钦文0比2不敌萨巴伦卡](https://www.zhihu.com/search?q=郑钦文0比2不敌萨巴伦卡)
 1. [「用户直连制造」的海尔洗衣机](https://www.zhihu.com/search?q=「用户直连制造」的海尔洗衣机)
 <!-- END ZHIHUSEARCH -->
 
@@ -100,7 +153,37 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Mon Mar 31 2025 02:21:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 31 2025 22:16:59 GMT+0800 (China Standard Time) -->
+1. [南京全面取消商品房限售，会对当地楼市带来哪些影响？](https://www.zhihu.com/question/1889983827679601000)
+1. [日本公布有关「南海海槽特大地震」最新损失估算数据，数据显示，或致近 30 万人死亡，这一预测合理吗？](https://www.zhihu.com/question/1890034523791652400)
+1. [20 岁中国女生留学第 9 天跳楼身亡，遭恐吓深陷骗局不堪压力，留学生在海外要提高哪些防骗意识？](https://www.zhihu.com/question/1889986059170963500)
+1. [为什么要叫停年化利率3%以下的消费贷？](https://www.zhihu.com/question/1889697306443489300)
+1. [美的集团彻底清仓手中持有的小米集团股票，已持股近 10 年，怎样从商业角度解读？对双方有哪些影响？](https://www.zhihu.com/question/1889974044394217700)
+1. [华为发布 2024 年年度报告，实现全球销售收入 8621 亿，净利润 626 亿，如何评价这一业绩？](https://www.zhihu.com/question/1890072669543691300)
+1. [卡塔尔世乓赛将用红色球台，许昕马龙震惊，红色球台对球员有哪些影响？](https://www.zhihu.com/question/1889954676474078200)
+1. [如何评价知名网络主播「甲亢哥」Speed 于 3 月 31 日在成都的直播？](https://www.zhihu.com/question/1890056140072669200)
+1. [北漂大龄程序员回老家找工作碰壁，转行开网约车，如何看待他的选择？那些回老家的「北漂」们怎么样了？](https://www.zhihu.com/question/1889018701115793700)
+1. [《哪吒 2》总票房已破 154 亿元，冲击全球影史票房榜第 4，能否超越《泰坦尼克号》再创纪录？](https://www.zhihu.com/question/1889380471143622700)
+1. [如何看待文章称「中国职场压力感全球最低，『卷并快乐』人群比例最高」？](https://www.zhihu.com/question/1889167513075558400)
+1. [专家称乙肝治疗即将进入「功能性治愈」时代，这意味着什么？有哪些信息值得关注？](https://www.zhihu.com/question/1889733376111503400)
+1. [西安手握 7 所 211 大学，为何没有出现「六小龙」？问题到底在哪？如何破局？](https://www.zhihu.com/question/14175308229)
+1. [如何看待孙颖莎成为红旗天工家族代言人？](https://www.zhihu.com/question/1890145045312689000)
+1. [为什么切尔诺贝利泄漏了100年不能住人，而广岛原子弹爆炸后很快就重建了，不都是核么？](https://www.zhihu.com/question/21580418)
+1. [如何看待《原神》发布的新角色立绘【明绚千韵 · 爱可菲】？](https://www.zhihu.com/question/1890104840731989200)
+1. [深圳南山出新政，人才最高奖励 60 万，国资基金允许 100% 亏损，政策吸引力大吗？将带来哪些影响？](https://www.zhihu.com/question/1888634247134273800)
+1. [好莱坞大片已连续三年中国票房无法破 10 亿，2025 年有没有能突破这一成绩的种子选手？](https://www.zhihu.com/question/15687177258)
+1. [3 月 31 日，NBA 常规赛，火箭 148:109 太阳，杜兰特伤退，如何评价这场比赛？](https://www.zhihu.com/question/1890003565977765000)
+1. [如何评价预售价13.98万元起的方程豹钛3？](https://www.zhihu.com/question/1890132206229374700)
+1. [老虎、狮子、豹子等猛兽为什么没有被驯化为骑兵坐骑？](https://www.zhihu.com/question/660170329)
+1. [如何看待《崩坏·星穹铁道》3月31日更新的混沌回忆?](https://www.zhihu.com/question/1890047181823644200)
+1. [土猪、土鸭、土鸡蛋……为何消费者会更在乎一个「土」字？土的真的比普通的更健康吗？](https://www.zhihu.com/question/1890032511859528000)
+1. [五星级酒店档次是如何分类的？](https://www.zhihu.com/question/21441440)
+1. [如何评价新一代酷睿Ultra 200HX 系列处理器，以及其 XPU、AI 加持等新特性？](https://www.zhihu.com/question/1889974373852616200)
+1. [人大教授称「不适应时代的文科可以缩招」，怎样看待这一观点？文科真的不适应时代了吗？](https://www.zhihu.com/question/1890025274671854600)
+1. [孤独症患者真的「没有共情能力」吗？大众对于孤独症的「刻板印象」有哪些？](https://www.zhihu.com/question/15679064961)
+1. [敏感肌卸妆一用不对就泛红刺痛，有哪些真正温和的卸妆产品？](https://www.zhihu.com/question/15489751206)
+1. [从装修的角度如何看待「家如其人」，如何才能打造一个有居住者个人精神的家居空间？](https://www.zhihu.com/question/14562285697)
+1. [如何评价韩剧《苦尽柑来遇见你》?](https://www.zhihu.com/question/15532176368)
 1. [荷兰水域发现的尸体确认为 23 岁清华大学毕业生罗生门，目前事件调查进展如何？有哪些细节值得关注？](https://www.zhihu.com/question/1889340664812131800)
 1. [缅甸的强震为何会让泰国曼谷成为重度受灾区呢？](https://www.zhihu.com/question/1889429620408951800)
 1. [如何评价此次财政部认购各国有大行的定向增发？将产生哪些影响？](https://www.zhihu.com/question/1889716077090559200)
@@ -138,7 +221,37 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Mon Mar 31 2025 02:21:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 31 2025 22:16:59 GMT+0800 (China Standard Time) -->
+1. [南京全面取消商品房限售，会对当地楼市带来哪些影响？](https://www.zhihu.com/question/1889983827679600993)
+1. [日本公布有关「南海海槽特大地震」最新损失估算数据，数据显示，或致近 30 万人死亡，这一预测合理吗？](https://www.zhihu.com/question/1890034523791652458)
+1. [20 岁中国女生留学第 9 天跳楼身亡，遭恐吓深陷骗局不堪压力，留学生在海外要提高哪些防骗意识？](https://www.zhihu.com/question/1889986059170963534)
+1. [为什么要叫停年化利率 3% 以下的消费贷？](https://www.zhihu.com/question/1889697306443489330)
+1. [美的集团彻底清仓手中持有的小米集团股票，已持股近 10 年，怎样从商业角度解读？对双方有哪些影响？](https://www.zhihu.com/question/1889974044394217625)
+1. [华为发布 2024 年年度报告，实现全球销售收入 8621 亿，净利润 626 亿，如何评价这一业绩？](https://www.zhihu.com/question/1890072669543691331)
+1. [卡塔尔世乓赛将用红色球台，许昕马龙震惊，红色球台对球员有哪些影响？](https://www.zhihu.com/question/1889954676474078317)
+1. [如何评价知名网络主播「甲亢哥」Speed 于 3 月 31 日在成都的直播？](https://www.zhihu.com/question/1890056140072669300)
+1. [北漂大龄程序员回老家找工作碰壁，转行开网约车，如何看待他的选择？那些回老家的「北漂」们怎么样了？](https://www.zhihu.com/question/1889018701115793691)
+1. [《哪吒 2》总票房已破 154 亿元，冲击全球影史票房榜第 4，能否超越《泰坦尼克号》再创纪录？](https://www.zhihu.com/question/1889380471143622651)
+1. [如何看待文章称「中国职场压力感全球最低，『卷并快乐』人群比例最高」？](https://www.zhihu.com/question/1889167513075558299)
+1. [专家称乙肝治疗即将进入「功能性治愈」时代，这意味着什么？有哪些信息值得关注？](https://www.zhihu.com/question/1889733376111503281)
+1. [西安手握 7 所 211 大学，为何没有出现「六小龙」？问题到底在哪？如何破局？](https://www.zhihu.com/question/14175308229)
+1. [如何看待孙颖莎成为红旗天工家族代言人？](https://www.zhihu.com/question/1890145045312688995)
+1. [为什么切尔诺贝利泄漏了 100 年不能住人，而广岛原子弹爆炸后很快就重建了，不都是核么？](https://www.zhihu.com/question/21580418)
+1. [如何看待《原神》发布的新角色立绘【明绚千韵 · 爱可菲】？](https://www.zhihu.com/question/1890104840731989259)
+1. [深圳南山出新政，人才最高奖励 60 万，国资基金允许 100% 亏损，政策吸引力大吗？将带来哪些影响？](https://www.zhihu.com/question/1888634247134273807)
+1. [好莱坞大片已连续三年中国票房无法破 10 亿，2025 年有没有能突破这一成绩的种子选手？](https://www.zhihu.com/question/15687177258)
+1. [3 月 31 日，NBA 常规赛，火箭 148:109 太阳，杜兰特伤退，如何评价这场比赛？](https://www.zhihu.com/question/1890003565977765148)
+1. [如何评价预售价 13.98 万元起的方程豹钛 3？](https://www.zhihu.com/question/1890132206229374845)
+1. [老虎、狮子、豹子等猛兽为什么没有被驯化为骑兵坐骑？](https://www.zhihu.com/question/660170329)
+1. [如何看待《崩坏·星穹铁道》3 月 31 日更新的混沌回忆?](https://www.zhihu.com/question/1890047181823644113)
+1. [土猪、土鸭、土鸡蛋…为何消费者会更在乎一个「土」字？土的真的比普通的更健康吗？](https://www.zhihu.com/question/1890032511859527956)
+1. [五星级酒店档次是如何分类的？](https://www.zhihu.com/question/21441440)
+1. [如何评价新一代酷睿 Ultra 200HX 系列处理器，以及其 XPU 、 AI 加持等新特性？](https://www.zhihu.com/question/1889974373852616161)
+1. [人大教授称「不适应时代的文科可以缩招」，怎样看待这一观点？文科真的不适应时代了吗？](https://www.zhihu.com/question/1890025274671854555)
+1. [孤独症患者真的「没有共情能力」吗？大众对于孤独症的「刻板印象」有哪些？](https://www.zhihu.com/question/15679064961)
+1. [敏感肌卸妆一用不对就泛红刺痛，有哪些真正温和的卸妆产品？](https://www.zhihu.com/question/15489751206)
+1. [从装修的角度如何看待「家如其人」，如何才能打造一个有居住者个人精神的家居空间？](https://www.zhihu.com/question/14562285697)
+1. [如何评价韩剧《苦尽柑来遇见你》?](https://www.zhihu.com/question/15532176368)
 1. [荷兰水域发现的尸体确认为 23 岁清华大学毕业生罗生门，目前事件调查进展如何？有哪些细节值得关注？](https://www.zhihu.com/question/1889340664812131782)
 1. [缅甸的强震为何会让泰国曼谷成为重度受灾区呢？](https://www.zhihu.com/question/1889429620408951689)
 1. [如何评价此次财政部认购各国有大行的定向增发？将产生哪些影响？](https://www.zhihu.com/question/1889716077090559348)
@@ -176,7 +289,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Mon Mar 31 2025 02:21:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 31 2025 22:16:59 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
