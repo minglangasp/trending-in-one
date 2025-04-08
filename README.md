@@ -24,8 +24,57 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Tue Apr 08 2025 01:15:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 08 2025 17:19:22 GMT+0800 (China Standard Time) -->
+1. [万斯称中国人“乡巴佬” 中方驳斥](https://so.toutiao.com/search?keyword=万斯称中国人“乡巴佬”+中方驳斥)
+1. [美威胁升级对华关税 中方：奉陪到底](https://so.toutiao.com/search?keyword=美威胁升级对华关税+中方：奉陪到底)
+1. [美国“对等关税”计划招致国际反对](https://so.toutiao.com/search?keyword=美国“对等关税”计划招致国际反对)
+1. [美债抛售潮加剧](https://so.toutiao.com/search?keyword=美债抛售潮加剧)
+1. [金价跌破3000美元](https://so.toutiao.com/search?keyword=金价跌破3000美元)
+1. [毛泽东24岁时毕业合影曝光](https://so.toutiao.com/search?keyword=毛泽东24岁时毕业合影曝光)
+1. [锤娜丽莎辟谣澄清暴瘦70斤](https://so.toutiao.com/search?keyword=锤娜丽莎辟谣澄清暴瘦70斤)
+1. [特朗普因关税令被四大盟友围攻](https://so.toutiao.com/search?keyword=特朗普因关税令被四大盟友围攻)
+1. [“三大国家队”共同救市 A股稳了吗](https://so.toutiao.com/search?keyword=“三大国家队”共同救市+A股稳了吗)
+1. [警方辟谣河南信阳光棍突破120万](https://so.toutiao.com/search?keyword=警方辟谣河南信阳光棍突破120万)
+1. [媒体：特朗普被中国反制戳了肺管子](https://so.toutiao.com/search?keyword=媒体：特朗普被中国反制戳了肺管子)
+1. [张钧甯方回应炒股损失约862万](https://so.toutiao.com/search?keyword=张钧甯方回应炒股损失约862万)
+1. [奶奶认真锁门 转头一看围墙倒大半](https://so.toutiao.com/search?keyword=奶奶认真锁门+转头一看围墙倒大半)
+1. [全球高度关注中国反制美国关税](https://so.toutiao.com/search?keyword=全球高度关注中国反制美国关税)
+1. [9岁女孩被老师打碎头骨案二审将宣判](https://so.toutiao.com/search?keyword=9岁女孩被老师打碎头骨案二审将宣判)
+1. [浙江35岁医生在手术间隔休息时去世](https://so.toutiao.com/search?keyword=浙江35岁医生在手术间隔休息时去世)
+1. [驻美使馆回应美威胁再加征50%关税](https://so.toutiao.com/search?keyword=驻美使馆回应美威胁再加征50%关税)
+1. [女子在餐馆见到可爱鳝鱼后买下放生](https://so.toutiao.com/search?keyword=女子在餐馆见到可爱鳝鱼后买下放生)
+1. [格陵兰岛到底有何吸引力](https://so.toutiao.com/search?keyword=格陵兰岛到底有何吸引力)
+1. [马斯克要求撤销对等关税 特朗普不听](https://so.toutiao.com/search?keyword=马斯克要求撤销对等关税+特朗普不听)
+1. [林美贞孙兴再离婚 24年三结三离](https://so.toutiao.com/search?keyword=林美贞孙兴再离婚+24年三结三离)
+1. [专家：中国对美国的反制非常精准](https://so.toutiao.com/search?keyword=专家：中国对美国的反制非常精准)
+1. [特朗普真的会全面升级中美关税战吗](https://so.toutiao.com/search?keyword=特朗普真的会全面升级中美关税战吗)
+1. [首都机场毒丸人排出123粒可卡因](https://so.toutiao.com/search?keyword=首都机场毒丸人排出123粒可卡因)
+1. [男子工伤获37万补助 煤矿用煤抵账](https://so.toutiao.com/search?keyword=男子工伤获37万补助+煤矿用煤抵账)
+1. [大V：特朗普对等关税终极目标露出来](https://so.toutiao.com/search?keyword=大V：特朗普对等关税终极目标露出来)
 1. [甲亢哥与大张伟见面激动相拥](https://so.toutiao.com/search?keyword=甲亢哥与大张伟见面激动相拥)
+1. [金毛夫妇拉着儿女遛弯](https://so.toutiao.com/search?keyword=金毛夫妇拉着儿女遛弯)
+1. [大V：美加多少关税也难实现两大目标](https://so.toutiao.com/search?keyword=大V：美加多少关税也难实现两大目标)
+1. [媒体：闲鱼就是一个巨大的“黑市”](https://so.toutiao.com/search?keyword=媒体：闲鱼就是一个巨大的“黑市”)
+1. [甲亢哥吃槟榔痛苦大喊](https://so.toutiao.com/search?keyword=甲亢哥吃槟榔痛苦大喊)
+1. [马斯克转发“一支铅笔”视频疑暗指关税](https://so.toutiao.com/search?keyword=马斯克转发“一支铅笔”视频疑暗指关税)
+1. [菲副总统莎拉为何提前回国](https://so.toutiao.com/search?keyword=菲副总统莎拉为何提前回国)
+1. [三只羊自营品牌小杨臻选APP上线](https://so.toutiao.com/search?keyword=三只羊自营品牌小杨臻选APP上线)
+1. [外交部回应中美是否会谈判](https://so.toutiao.com/search?keyword=外交部回应中美是否会谈判)
+1. [专家：关税像回旋镖打到美国本身](https://so.toutiao.com/search?keyword=专家：关税像回旋镖打到美国本身)
+1. [男子不满分手逼女友喝农药身亡获刑](https://so.toutiao.com/search?keyword=男子不满分手逼女友喝农药身亡获刑)
+1. [苹果3天向美国空运了5架飞机iPhone](https://so.toutiao.com/search?keyword=苹果3天向美国空运了5架飞机iPhone)
+1. [专家：美财长一番话暴露特朗普战略](https://so.toutiao.com/search?keyword=专家：美财长一番话暴露特朗普战略)
+1. [渔政人员疑在禁渔期捕鱼被抓现行](https://so.toutiao.com/search?keyword=渔政人员疑在禁渔期捕鱼被抓现行)
+1. [中国版平准基金横空出世](https://so.toutiao.com/search?keyword=中国版平准基金横空出世)
+1. [68岁三喜爷爷靠拍大侠意外走红](https://so.toutiao.com/search?keyword=68岁三喜爷爷靠拍大侠意外走红)
+1. [伊朗：已做好战争准备](https://so.toutiao.com/search?keyword=伊朗：已做好战争准备)
+1. [胡锡进谈美威胁进一步对华加征关税](https://so.toutiao.com/search?keyword=胡锡进谈美威胁进一步对华加征关税)
+1. [28秒回顾王毅外长高燃发言](https://so.toutiao.com/search?keyword=28秒回顾王毅外长高燃发言)
+1. [甲亢哥在长沙挑战八卦坑跑酷](https://so.toutiao.com/search?keyword=甲亢哥在长沙挑战八卦坑跑酷)
+1. [美媒：中国已做好贸易战防护](https://so.toutiao.com/search?keyword=美媒：中国已做好贸易战防护)
+1. [新关税或致苹果每年损失330亿美元](https://so.toutiao.com/search?keyword=新关税或致苹果每年损失330亿美元)
+1. [山东一楼房阳台坠落 住户以为地震](https://so.toutiao.com/search?keyword=山东一楼房阳台坠落+住户以为地震)
+1. [金价下跌有人拉着行李箱扫货](https://so.toutiao.com/search?keyword=金价下跌有人拉着行李箱扫货)
 1. [白宫：“暂停90天征收关税”是谣言](https://so.toutiao.com/search?keyword=白宫：“暂停90天征收关税”是谣言)
 1. [一部手机看懂美国加关税的代价](https://so.toutiao.com/search?keyword=一部手机看懂美国加关税的代价)
 1. [马布里与《好声音》歌手汪妤凌结婚](https://so.toutiao.com/search?keyword=马布里与《好声音》歌手汪妤凌结婚)
@@ -39,7 +88,6 @@
 1. [女子发现男友已婚报警反被送精神病院](https://so.toutiao.com/search?keyword=女子发现男友已婚报警反被送精神病院)
 1. [专家：特朗普的豪赌将会满盘皆输](https://so.toutiao.com/search?keyword=专家：特朗普的豪赌将会满盘皆输)
 1. [特朗普声称要坚持关税政策](https://so.toutiao.com/search?keyword=特朗普声称要坚持关税政策)
-1. [甲亢哥吃槟榔痛苦大喊](https://so.toutiao.com/search?keyword=甲亢哥吃槟榔痛苦大喊)
 1. [锤娜丽莎因为重度脂肪肝减肥](https://so.toutiao.com/search?keyword=锤娜丽莎因为重度脂肪肝减肥)
 1. [李显龙重提上世纪美国关税战](https://so.toutiao.com/search?keyword=李显龙重提上世纪美国关税战)
 1. [全国第一台SU7霞光紫被卖](https://so.toutiao.com/search?keyword=全国第一台SU7霞光紫被卖)
@@ -82,17 +130,21 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Tue Apr 08 2025 01:15:39 GMT+0800 (China Standard Time) -->
-1. [A股](https://www.zhihu.com/search?q=A股)
+<!-- 最后更新时间 Tue Apr 08 2025 17:19:22 GMT+0800 (China Standard Time) -->
+1. [人民日报称天塌不下来](https://www.zhihu.com/search?q=人民日报称天塌不下来)
+1. [开车时为何有些人一减速就开双闪](https://www.zhihu.com/search?q=开车时为何有些人一减速就开双闪)
 1. [有什么著名的阳谋](https://www.zhihu.com/search?q=有什么著名的阳谋)
 1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=发现孩子很普通怎么办)
 1. [中国人玩阳谋到底有多牛](https://www.zhihu.com/search?q=中国人玩阳谋到底有多牛)
-1. [各地最低工资标准公布](https://www.zhihu.com/search?q=各地最低工资标准公布)
-1. [T1对战GEN](https://www.zhihu.com/search?q=T1对战GEN)
-1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
+1. [中年夫妻之间最简单的情话是什么](https://www.zhihu.com/search?q=中年夫妻之间最简单的情话是什么)
 1. [AI 时代下的家电智能化](https://www.zhihu.com/search?q=AI 时代下的家电智能化)
 1. [家电行业的「科技平权」](https://www.zhihu.com/search?q=家电行业的「科技平权」)
 1. [AWE 未来生活家](https://www.zhihu.com/search?q=AWE 未来生活家)
+1. [卷出新高度的 AI 家电](https://www.zhihu.com/search?q=卷出新高度的 AI 家电)
+1. [A股](https://www.zhihu.com/search?q=A股)
+1. [各地最低工资标准公布](https://www.zhihu.com/search?q=各地最低工资标准公布)
+1. [T1对战GEN](https://www.zhihu.com/search?q=T1对战GEN)
+1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
 <!-- END ZHIHUSEARCH -->
 
 历史归档 [./archives/zhihu-search](./archives/zhihu-search)
@@ -100,7 +152,37 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Tue Apr 08 2025 01:15:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 08 2025 17:19:22 GMT+0800 (China Standard Time) -->
+1. [上证 50 指数涨超 2%，全市场逾百股涨停，如何看待 4 月 8 日 A 股行情？](https://www.zhihu.com/question/1892873920669012700)
+1. [甲亢哥称 4 月 7 日直播可能是最后一场，但考虑多去几个城市，你还推荐他去哪些城市感受不一样的中国？](https://www.zhihu.com/question/1892675058725516300)
+1. [知名dota玩家牛蛙去世，享年39岁，你对他有哪些印象？](https://www.zhihu.com/question/1892716126544298500)
+1. [香港财政司司长表示，香港将继续不对美国设关税，那香港是不是又可以做中转站了？](https://www.zhihu.com/question/1892868985126626800)
+1. [如何看待朝鲜时隔 6 年再办国际马拉松赛，男女全马冠军均由朝鲜选手获得？](https://www.zhihu.com/question/1892335819433407000)
+1. [「短剧一哥」柯淳自曝片酬「日薪 2 万元」，拍短剧这么赚钱吗？目前短剧演员片酬行情如何？](https://www.zhihu.com/question/1892575268201259000)
+1. [如何看待小米发布辟谣澄清声明，称「目前 SU7 车型投保服务平稳正常，网传信息严重失实」?](https://www.zhihu.com/question/1892683006021448200)
+1. [如何看待铁路 12306 推出「宠物托运」功能？这将带来哪些便利？你还期待铁路推出哪些服务？](https://www.zhihu.com/question/1892875225483434000)
+1. [如何评价《明日方舟》新剧情［离解复合］？](https://www.zhihu.com/question/1892714589680034600)
+1. [如何评价《绝区零》于 4 月 8 日中午发布的「策划面对面｜第二季展望」？](https://www.zhihu.com/question/1892928568901739000)
+1. [为什么以前观众看竞技游戏比赛都在喊「牛」，而近几年却满屏都在抓「战犯」？](https://www.zhihu.com/question/1892542012890247400)
+1. [如何看待小米公司发言人发文称小米SU7车型投保服务平稳正常，网传信息严重失实？新能源车投保到底难不难？](https://www.zhihu.com/question/1892683494397834200)
+1. [为什么拜占庭帝国经过了数次王朝更替，却一直叫做拜占庭，而我国却没有出现这种情况？](https://www.zhihu.com/question/39656081)
+1. [湖人剩余赛程全联盟最难，他们会掉到附加赛吗？](https://www.zhihu.com/question/1892340821623275800)
+1. [Switch新掌机简称“NS2”，名字会不会有点单调？你心中更好的命名是什么？](https://www.zhihu.com/question/1891795476354926000)
+1. [美国继续施压多方，称「日本需要开放市场、欧盟必须从美国购入能源」，各国反应如何？可能会采取哪些行动？](https://www.zhihu.com/question/1892889486557418200)
+1. [女子发现男友已婚后报警，开车返家途中被强制送精神病院，如何从法律角度解读？](https://www.zhihu.com/question/1892706799930533400)
+1. [如果领导通知你以后上班上二天休五天，你乐意吗？](https://www.zhihu.com/question/1891623723993380400)
+1. [AI 重塑行业格局，哪些领域将成为新顶流？](https://www.zhihu.com/question/1892862409535907000)
+1. [游牧民族既然生活在草原上，那为什么没有进化出吃草？](https://www.zhihu.com/question/1888651162506486500)
+1. [外交部回应美方关税威胁，称「施压、威胁和讹诈不是同中方打交道的正确方式，必奉陪到底」，释放什么信号？](https://www.zhihu.com/question/1892947340853215700)
+1. [如何评价根据詹姆斯·戴维·万斯同名小说改编的电影《乡下人的悲歌》？](https://www.zhihu.com/question/431735769)
+1. [为什么减肥这么困难，稍微一放松就回来了？](https://www.zhihu.com/question/13608400175)
+1. [如果《大明王朝》里的嘉靖穿越到《庆余年》，能比庆帝做得更好吗？](https://www.zhihu.com/question/15686821326)
+1. [你在租房生活中，有哪些平价又实用的好物推荐？](https://www.zhihu.com/question/1890720209930806300)
+1. [给孩子立规矩，总失败，问题出在哪儿？](https://www.zhihu.com/question/14732635784)
+1. [向往留学，但掏空家底去留学值得吗？](https://www.zhihu.com/question/1891975208568599300)
+1. [在AI时代，哲学翻译（或学术翻译）还有意义吗？](https://www.zhihu.com/question/1890541112936088800)
+1. [职场中领导比下属年轻，双方该如何相处？你会怎样处理这种「微妙」的上下级关系？](https://www.zhihu.com/question/1891195617738463200)
+1. [如果你的孩子成绩倒数，你还爱他吗？](https://www.zhihu.com/question/639191356)
 1. [如何评价知名网络主播「甲亢哥」Speed 于4月7日在长沙的直播？](https://www.zhihu.com/question/1892418962869966600)
 1. [知名歌手 Tank 在浙大二院完成心肝联合移植手术，为亚洲首例，心肝联合移植手术难度有多大？](https://www.zhihu.com/question/1892594784339715600)
 1. [欧盟或对 280 亿美元美国商品进行反制，这一措施将如何影响欧美贸易关系？](https://www.zhihu.com/question/1892541114319348000)
@@ -138,7 +220,37 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Tue Apr 08 2025 01:15:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 08 2025 17:19:22 GMT+0800 (China Standard Time) -->
+1. [上证 50 指数涨超 2%，全市场逾百股涨停，如何看待 4 月 8 日 A 股行情？](https://www.zhihu.com/question/1892873920669012862)
+1. [甲亢哥称 4 月 7 日直播可能是最后一场，但考虑多去几个城市，你还推荐他去哪些城市感受不一样的中国？](https://www.zhihu.com/question/1892675058725516210)
+1. [知名 dota 玩家牛蛙去世，享年 39 岁，你对他有哪些印象？](https://www.zhihu.com/question/1892716126544298468)
+1. [香港财政司司长表示，香港将继续不对美国设关税，那香港是不是又可以做中转站了？](https://www.zhihu.com/question/1892868985126626712)
+1. [如何看待朝鲜时隔 6 年再办国际马拉松赛，男女全马冠军均由朝鲜选手获得？](https://www.zhihu.com/question/1892335819433406884)
+1. [「短剧一哥」柯淳自曝片酬「日薪 2 万元」，拍短剧这么赚钱吗？目前短剧演员片酬行情如何？](https://www.zhihu.com/question/1892575268201259098)
+1. [如何看待小米发布辟谣澄清声明，称「目前 SU7 车型投保服务平稳正常，网传信息严重失实」?](https://www.zhihu.com/question/1892683006021448304)
+1. [如何看待铁路 12306 推出「宠物托运」功能？这将带来哪些便利？你还期待铁路推出哪些服务？](https://www.zhihu.com/question/1892875225483433929)
+1. [如何评价《明日方舟》新剧情［离解复合］？](https://www.zhihu.com/question/1892714589680034594)
+1. [如何评价《绝区零》于 4 月 8 日中午发布的「策划面对面｜第二季展望」？](https://www.zhihu.com/question/1892928568901739053)
+1. [为什么以前观众看竞技游戏比赛都在喊「牛」，而近几年却满屏都在抓「战犯」？](https://www.zhihu.com/question/1892542012890247494)
+1. [如何看待小米公司发言人发文称小米 SU7 车型投保服务平稳正常，网传信息严重失实？新能源车投保到底难不难？](https://www.zhihu.com/question/1892683494397834253)
+1. [为什么拜占庭帝国经过了数次王朝更替，却一直叫做拜占庭，而我国却没有出现这种情况？](https://www.zhihu.com/question/39656081)
+1. [湖人剩余赛程全联盟最难，他们会掉到附加赛吗？](https://www.zhihu.com/question/1892340821623275704)
+1. [Switch 新掌机简称「NS2」，名字会不会有点单调？你心中更好的命名是什么？](https://www.zhihu.com/question/1891795476354926207)
+1. [美国继续施压多方，称「日本需要开放市场、欧盟必须从美国购入能源」，各国反应如何？可能会采取哪些行动？](https://www.zhihu.com/question/1892889486557418304)
+1. [女子发现男友已婚后报警，开车返家途中被强制送精神病院，如何从法律角度解读？](https://www.zhihu.com/question/1892706799930533325)
+1. [如果领导通知你以后上班上二天休五天，你乐意吗？](https://www.zhihu.com/question/1891623723993380265)
+1. [AI 重塑行业格局，哪些领域将成为新顶流？](https://www.zhihu.com/question/1892862409535906965)
+1. [游牧民族既然生活在草原上，那为什么没有进化出吃草？](https://www.zhihu.com/question/1888651162506486597)
+1. [外交部回应美方关税威胁，称「施压、威胁和讹诈不是同中方打交道的正确方式，必奉陪到底」，释放什么信号？](https://www.zhihu.com/question/1892947340853215617)
+1. [如何评价根据詹姆斯·戴维·万斯同名小说改编的电影《乡下人的悲歌》？](https://www.zhihu.com/question/431735769)
+1. [为什么减肥这么困难，稍微一放松就回来了？](https://www.zhihu.com/question/13608400175)
+1. [如果《大明王朝》里的嘉靖穿越到《庆余年》，能比庆帝做得更好吗？](https://www.zhihu.com/question/15686821326)
+1. [你在租房生活中，有哪些平价又实用的好物推荐？](https://www.zhihu.com/question/1890720209930806400)
+1. [给孩子立规矩，总失败，问题出在哪儿？](https://www.zhihu.com/question/14732635784)
+1. [向往留学，但掏空家底去留学值得吗？](https://www.zhihu.com/question/1891975208568599326)
+1. [在 AI 时代，哲学翻译（或学术翻译）还有意义吗？](https://www.zhihu.com/question/1890541112936088884)
+1. [职场中领导比下属年轻，双方该如何相处？你会怎样处理这种「微妙」的上下级关系？](https://www.zhihu.com/question/1891195617738463144)
+1. [如果你的孩子成绩倒数，你还爱他吗？](https://www.zhihu.com/question/639191356)
 1. [如何评价知名网络主播「甲亢哥」Speed 于 4 月 7 日在长沙的直播？](https://www.zhihu.com/question/1892418962869966597)
 1. [知名歌手 Tank 在浙大二院完成心肝联合移植手术，为亚洲首例，心肝联合移植手术难度有多大？](https://www.zhihu.com/question/1892594784339715480)
 1. [欧盟或对 280 亿美元美国商品进行反制，这一措施将如何影响欧美贸易关系？](https://www.zhihu.com/question/1892541114319348070)
@@ -176,7 +288,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Tue Apr 08 2025 01:15:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 08 2025 17:19:22 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
